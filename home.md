@@ -2,14 +2,14 @@
 title: 海贼宝藏
 description: 一日海贼，终身海贼！
 published: true
-date: 2024-03-02T05:11:06.477Z
+date: 2024-03-02T05:12:12.271Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T05:31:00.811Z
 ---
 
 > 船长们产出的课程相关的授课PPT、程序代码、参考资料及工具都可以从这里找到!
-{.is-}
+{.is-info}
 
 ## 课程资源
 
