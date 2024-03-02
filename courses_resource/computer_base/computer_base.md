@@ -2,13 +2,15 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-03-02T13:36:11.272Z
+date: 2024-03-02T13:42:46.735Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
 ---
 
 # Part1：组成原理篇
+
+
 
 ### 第一章：CPU设计与结构
 
@@ -91,3 +93,12 @@ dateCreated: 2024-02-25T06:09:59.515Z
 ### 第十五章：网络层
 ### 第十六章：数据链路层
 ### 第十七章：计算机网络实战
+
+# 附加内容：Linux系统快速入门篇
+> 快速掌握Linux基本使用，并使用Linux进行编程学习{.is-success}
+- [第十八章：快速搭建Linux开发环境]()
+- [第十九章：使用Linux环境进行开发]()
+- [第二十章：Linux常见高频命令讲解]()
+- [第二十一章：gdb，git等其他开发工具使用]()
+{.grid-list}
+
