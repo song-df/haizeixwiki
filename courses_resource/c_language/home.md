@@ -1,8 +1,8 @@
 ---
-title: C语言全能实战课全部学习资料
+title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-02T13:48:57.784Z
+date: 2024-03-02T14:15:16.522Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
