@@ -3,6 +3,9 @@
 AI summary: 本文档介绍了在Linux上配置开发环境的步骤。首先，提供了购买云主机的基本策略，包括短期学习和长期使用的建议。然后，介绍了连接到云主机的方法，包括使用Xshell、Windows Terminal和Tabby。最后，详细说明了在云主机上进行配置的步骤，包括获取环境配置脚本和完成环境配置。
 Person: 叶露 宿
 
+**如果你可以访问下面的页面，可直接点击访问原始页面**
+> 📌 视频中文档可以通过[**点击此处**](http://suyelu.pro/linux-config)，获取本文档的在线版本。[http://suyelu.pro/linux-start](http://suyelu.pro/linux-config)
+
 # 文档说明
 
 1. 代码块中的注释，与命令在一起的文字说明，并不是命令，一般以`#`开头，表示`注释`
@@ -16,10 +19,9 @@ Person: 叶露 宿
 
 ## 云主机购买的基本策略
 
-<aside>
+> 
 ❗ 以下策略请认真阅读，避免在购买云主机时出错。
 
-</aside>
 
 1. 如果你是短期学习，可以领取[**腾讯云**](https://curl.qcloud.com/nEpnHWTj)，[**阿里云**](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=qiird2gj)，京东云，移动云的试用服务器，但是这里一定要明确一件事，**如果你领用了试用的服务器，你将丧失新用户的身份**，后续在同一平台购买服务器将不再享受优惠。
 2. 如果你学习的时间和使用时间较长，**建议直接使用新用户身份或学生身份，购买一年或更长时间的服务器。**
@@ -49,10 +51,9 @@ Person: 叶露 宿
 > **依然推荐你购买腾讯云**，更高的带宽有助于提升远程操作的流畅性，同时阿里云目前作为云服务的实质上的第一，你可以在后续自己有明确的业务需求时，再使用阿里云新用户优惠购买合适的产品。
 > 
 
-<aside>
-<img src="https://img0.baidu.com/it/u=1553499101,1560333694&fm=253&fmt=auto&app=138&f=JPEG?w=775&h=500" alt="https://img0.baidu.com/it/u=1553499101,1560333694&fm=253&fmt=auto&app=138&f=JPEG?w=775&h=500" width="40px" /> 腾讯云新用户优惠，轻量级服务器2核2G `62元1年`，每天仅需0.17元；2核4G 218`元1年`，每天只要0.60元。
+> <img src="https://img0.baidu.com/it/u=1553499101,1560333694&fm=253&fmt=auto&app=138&f=JPEG?w=775&h=500" alt="https://img0.baidu.com/it/u=1553499101,1560333694&fm=253&fmt=auto&app=138&f=JPEG?w=775&h=500" width="40px" />腾讯云新用户优惠，轻量级服务器2核2G `62元1年`，每天仅需0.17元；2核4G 218`元1年`，每天只要0.60元。
 
-</aside>
+
 
 点击 **[腾讯云新用户优惠](https://curl.qcloud.com/nEpnHWTj)**  进入新用户优惠界面，购买轻量2核2G3M的服务器，注意，这里只有轻量级应用服务器是价格最优惠合理的，请不要购买其他产品，同时不要购买按月购买的产品。
 
@@ -61,16 +62,15 @@ Person: 叶露 宿
 注意：购买界面与视频中有所变化，请大家按照下面的提示选取。
 
 1. 2核心2G内存4M带宽 **`一年118，三年540`**
-    
+  
     ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%201.png)
     
-2. 2核心4G内存5M带宽 `**一年218，三年756**`
-    
+2. 2核心4G内存5M带宽**`一年218，三年756`**
+  
     ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%202.png)
     
-
 1. 2核心2G内存3M带宽  **`一年62`**
-    
+  
     ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%203.png)
     
 
@@ -78,12 +78,12 @@ Person: 叶露 宿
 
 ## 【推荐】阿里云新用户优惠
 
-<aside>
+>
 <img src="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" alt="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" width="40px" /> 阿里云新用户优惠，轻量级服务器2核2G 108元1年，每天仅需0.3元；2核4G 298元1年，每天只要0.81元。
 
-</aside>
 
-点击 [**新用户优惠](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=qiird2gj)**  进入新用户优惠界面，购买108元1年或者298一年的配置都可以，普通同学建议选择108一年的，服务器配置足够。
+
+点击 **[新用户优惠](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=qiird2gj)**  进入新用户优惠界面，购买108元1年或者298一年的配置都可以，普通同学建议选择108一年的，服务器配置足够。
 
 未登录用户，可在购买时，直接使用钉钉或者支付宝扫码购买。
 
@@ -91,10 +91,10 @@ Person: 叶露 宿
 
 ## 阿里云-高校计划
 
-<aside>
+>
 <img src="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" alt="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" width="40px" /> 高校计划适用于在校学生，通过任务，最长可以试用6个月。📢 **注意：参加高校计划会丧失新用户身份，后续不再享受首购优惠！**
 
-</aside>
+
 
 点击 **[阿里云高校计划](https://developer.aliyun.com/adc/student/)** 进入高校计划，完成阿里云实名认证与学生认证，即可免费领取一个月，领取后，完成任务，可延长至6个月。
 
@@ -124,7 +124,7 @@ Person: 叶露 宿
 2. 如何重置密码
 
 - 不推荐方案
-    
+  
     ## 方法一：使用Xshell连接
     
     ## 方法二：使用Windows Terminal连接
@@ -134,10 +134,10 @@ Person: 叶露 宿
     3. 继续执行命令ssh   {USERNAMW}@{REMOTE IP},按下回车
     4. 输入自己的密码{{PASSWD}},按下回车，并连接上云主机（注意，此处输入密码无任何显示，直接输入即可）
     
-    <aside>
-    🔑 在完成Part03后，重新回到此处继续
+    > 
+    > 🔑 在完成Part03后，重新回到此处继续
     
-    </aside>
+    
     
 
 ## 使用Tabby连接云主机
@@ -145,36 +145,33 @@ Person: 叶露 宿
 1. 打开tabby的官网：[https://tabby.sh/](https://tabby.sh/) 
 2. 点击右上角下载按钮，在新弹出的页面中，选择Windows版本的tabby下载
 
-<aside>
-❗ 如果Tabby下载速度很慢，你也可以直接点击  [这里](http://suyelu.pro/data/tabby.exe)   直接下载；
+>❗ 如果Tabby下载速度很慢，你也可以直接点击  [这里](http://suyelu.pro/data/tabby.exe)   直接下载；
 也可以访问这里使用百度云盘下载：
-
 链接: [https://pan.baidu.com/s/1xHwvW4g1dGSog8GUtGQRFg?pwd=swxe](https://pan.baidu.com/s/1xHwvW4g1dGSog8GUtGQRFg?pwd=swxe) 提取码: swxe
+> ![注意此处下载tabby-x.x.xxx-setup-x64.exe这个文件，如果没有翻墙可能网速比较慢，可以选择上面的直接下载或者百度网盘下载]
 
-</aside>
+![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%206.png)
 
-![注意此处下载tabby-x.x.xxx-setup-x64.exe这个文件，如果没有翻墙可能网速比较慢，可以选择上面的直接下载或者百度网盘下载](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%206.png)
+>注意此处下载tabby-x.x.xxx-setup-x64.exe这个文件，如果没有翻墙可能网速比较慢，可以选择上面的直接下载或者百度网盘下载
 
-注意此处下载tabby-x.x.xxx-setup-x64.exe这个文件，如果没有翻墙可能网速比较慢，可以选择上面的直接下载或者百度网盘下载
-
-1. 下载后点击安装，安装过程中，全部使用默认配置即可
-2. 启动Tabby，如果有欢迎页，关闭即可，点击**Profiles & connections**
+3. 下载后点击安装，安装过程中，全部使用默认配置即可
+4. 启动Tabby，如果有欢迎页，关闭即可，点击**Profiles & connections**
 
 ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%207.png)
 
-1. 点击**Manage profiles**
+5. 点击**Manage profiles**
 
 ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%208.png)
 
-1. 点击**+ New profile**，添加连接信息
+6. 点击**+ New profile**，添加连接信息
 
 ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%209.png)
 
-1. 在下拉列表中，选择**SSH connection**
+7. 在下拉列表中，选择**SSH connection**
 
 ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%2010.png)
 
-1. 填写ssh基础信息
+8. 填写ssh基础信息
 
 ![注意，第一个红框里的是连接的名字，倒数第二个框是你云主机的用户名，第一个是可以为任意名字，第二个是确定的root或者ubuntu](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%2011.png)
 
@@ -187,16 +184,16 @@ Person: 叶露 宿
     4. Username：为默认用户名{{USERNAME}}，阿里云为root，腾讯云为ubuntu
     5. Set password：点击后，输入上面用户的默认密码{{PASSWD}}即可
     
-1. 为你的终端选择合适的配色：在**COLORS**选项卡中，选择自己喜欢的配色
+9. 为你的终端选择合适的配色：在**COLORS**选项卡中，选择自己喜欢的配色
 
 ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%2012.png)
 
-1. 点击Save，保存配置，并关闭Settings窗口
-2. 在空白的窗口中，点击Profiles  & connections ，选择刚才添加的连接名，回车即可进入连接
+10. 点击Save，保存配置，并关闭Settings窗口
+11. 在空白的窗口中，点击Profiles  & connections ，选择刚才添加的连接名，回车即可进入连接
 
 ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%2013.png)
 
-1. 选择Accept and remember key，即可完成连接，会有类似下面的提示
+12. 选择Accept and remember key，即可完成连接，会有类似下面的提示
 
 ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%2014.png)
 
@@ -248,10 +245,9 @@ bash init_env.sh
 #自动化配置过程中，受网络影响，有些安装过程会比较慢，请耐心等待
 ```
 
-<aside>
+> 
 ❗ 完成配置后，使用新添加的用户和密码，执行Part02的第4到12步，即可保存普通用户的连接。
 
-</aside>
 
 ---
 
