@@ -2,8 +2,8 @@
 title: 海贼AI助教使用手册
 description: 
 published: true
-date: 2024-03-03T02:55:38.547Z
-tags: 
+date: 2024-03-03T04:39:45.769Z
+tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-01T13:19:17.932Z
 ---
