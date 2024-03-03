@@ -2,8 +2,8 @@
 title: Linux开发环境配置
 description: 
 published: true
-date: 2024-03-03T02:53:59.036Z
-tags: 
+date: 2024-03-03T04:39:24.486Z
+tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:24.379Z
 ---
