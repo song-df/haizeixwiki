@@ -2,7 +2,7 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-03-03T03:40:23.423Z
+date: 2024-03-03T03:42:05.391Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
@@ -37,6 +37,9 @@ PS：无法访问欧拉原站，可不注册欧拉账号，使用中文替代站
 {.is-success}
 
 > 5️⃣ 同学有问题的话可以咨询船长，老师会在看到后第一时间进行解答哦
+{.is-success}
+
+> 6️⃣ 本课程的前置课程为[《》]()
 {.is-success}
 
 > 有其他搞不明白的，可以找Bili姐：
