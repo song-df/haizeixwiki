@@ -2,7 +2,7 @@
 title: 海贼宝藏
 description: 一日海贼，终身海贼！
 published: true
-date: 2024-03-02T12:41:05.349Z
+date: 2024-03-03T04:01:03.021Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T05:31:00.811Z
@@ -13,7 +13,7 @@ dateCreated: 2024-02-25T05:31:00.811Z
 
 ## 课程资源入口
 
-- [📡 B站船票 *14门船说系列课程*](/courses_resource/bili_courses.md)
+- [📡 B站船票 *船说系列课程*](/courses_resource/bili_courses.md)
 - [🧙 C++高薪就业 *计算机软件研发核心技能提升*](/courses_resource/cpp_high_salary/home.md)
 {.links-list}
 
