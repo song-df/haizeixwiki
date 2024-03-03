@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-03T03:32:46.017Z
+date: 2024-03-03T03:36:18.210Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -36,6 +36,8 @@ PS：无法访问欧拉原站，可不注册欧拉账号，使用中文替代站
 > 5️⃣ 同学有问题的话可以咨询船长，老师会在看到后第一时间进行解答哦
 {.is-success}
 
+> 有其他搞不明白的，可以找Bili姐：
+![新bili姐.png](/images/新bili姐.png =200x)
 
 # 第一章 将C语言用起来
 > 授课PPT
