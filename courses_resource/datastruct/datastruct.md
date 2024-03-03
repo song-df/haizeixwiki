@@ -2,7 +2,7 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-03-03T03:46:02.449Z
+date: 2024-03-03T03:46:23.021Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
@@ -29,7 +29,7 @@ dateCreated: 2024-02-25T06:12:37.088Z
 ✅欧拉计划：https://projecteuler.net/
 {.is-info}
 
-> PS：无法访问欧拉原站，可不注册欧拉账号，使用中文替代站点看题：http://pe-cn.github.io/{.is-danger}
+> PS：无法访问欧拉原站，可不注册欧拉账号，使用中文替代站点看题：http://pe-cn.github.io/{.is-warning}
 
 > 3️⃣ 课程代码&讲义见下方章节内容，可以自取。
 > 同时也在Github上线了所有代码：👉 https地址: https://github.com/huguangAOA/Bilibili-Algorithm.git
