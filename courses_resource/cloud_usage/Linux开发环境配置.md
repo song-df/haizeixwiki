@@ -1,3 +1,18 @@
+---
+title: Linux开发环境配置
+description: 
+published: true
+date: 2024-03-03T02:53:59.036Z
+tags: 
+editor: markdown
+dateCreated: 2024-03-02T05:33:24.379Z
+---
+
+> 如果想以超低成本获得一年13门船票课程的学习机会，可购买船票。
+[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598)
+{.is-success}
+
+
 # Linux开发环境配置
 
 AI summary: 本文档介绍了在Linux上配置开发环境的步骤。首先，提供了购买云主机的基本策略，包括短期学习和长期使用的建议。然后，介绍了连接到云主机的方法，包括使用Xshell、Windows Terminal和Tabby。最后，详细说明了在云主机上进行配置的步骤，包括获取环境配置脚本和完成环境配置。
