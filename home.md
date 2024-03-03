@@ -2,7 +2,7 @@
 title: 海贼宝藏
 description: 一日海贼，终身海贼！
 published: true
-date: 2024-03-03T14:45:20.814Z
+date: 2024-03-03T14:47:23.879Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T05:31:00.811Z
@@ -17,11 +17,14 @@ dateCreated: 2024-02-25T05:31:00.811Z
 - [🧙 C++高薪就业 *计算机软件研发核心技能提升*](/courses_resource/cpp_high_salary/home.md)
 {.links-list}
 
+## 提效工具
+- [🤖 海贼AI助教使用手册 *24小时在线的全能学习好帮手*](/courses_resource/dingding_ai_assistant)
+{.links-list}
+
 ## 学习环境及工具
 - [🖥 快速使用云环境 *方便快捷的获得云上学习环境*](/courses_resource/cloud_usage/快速使用云环境.md)
 - [🚅 如何获取配置文档 *合适的环境，不但看着舒服，还能提升效率*](/courses_resource/cloud_usage/如何获取配置文档.md)
 - [🦭 Linux开发环境配置 *全程在Linux系统环境下学习*](/courses_resource/cloud_usage/Linux开发环境配置.md)
-- [🤖 海贼AI助教使用手册 *一个24小时在线的学习好帮手*](/courses_resource/dingding_ai_assistant)
 {.links-list}
 
 
