@@ -2,11 +2,16 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-02T14:15:16.522Z
+date: 2024-03-03T02:45:52.696Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
 ---
+
+> 本课程属于船票系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss3380?csource=Detail_relevantclass)
+如果想以超低成本获得一年13门船票课程的学习机会，可购买船票。
+[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598)
+{.is-success}
 
 # 第一章 将C语言用起来
 > 授课PPT
