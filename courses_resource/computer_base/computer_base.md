@@ -2,11 +2,17 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-03-02T13:42:46.735Z
+date: 2024-03-03T02:47:19.172Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
 ---
+
+> 本课程属于船票系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss7381)
+如果想以超低成本获得一年13门船票课程的学习机会，可购买船票。
+[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598)
+{.is-success}
+
 
 # Part1：组成原理篇
 
