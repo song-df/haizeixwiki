@@ -2,7 +2,7 @@
 title: 大学生高薪就业技术成长系列课程
 description: 
 published: true
-date: 2024-03-03T04:19:16.971Z
+date: 2024-03-03T04:26:08.243Z
 tags: 职业技能
 editor: markdown
 dateCreated: 2024-03-03T04:19:16.970Z
@@ -25,12 +25,12 @@ dateCreated: 2024-03-03T04:19:16.970Z
 6、物联网软件工程师
 7、嵌入式软件工程师
 
-# 语言基础
-
-# 数据结构与算法（竞赛突击）
-
-# 数据库
-
-# 操作系统与网络
-
-# 嵌入式与设备编程
+- [C语言基础与Linux入门预习](https://www.haizeix.com/my/course/1011)
+- [C语言程序设计](https://www.haizeix.com/my/course/1033)
+- [编码能力提升](https://www.haizeix.com/my/course/1037)
+- [数据结构与算法(基础)](https://www.haizeix.com/my/course/1055)
+- [Linux操作系统基础](https://www.haizeix.com/my/course/1080)
+- [C++面向对象编程](https://www.haizeix.com/my/course/1081)
+- [操作系统高级编程](https://www.haizeix.com/my/course/1082)
+- [网络编程](https://www.haizeix.com/my/course/1083)
+{.links-list}
