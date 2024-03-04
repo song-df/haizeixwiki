@@ -2,15 +2,14 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-03-04T04:05:53.962Z
+date: 2024-03-04T14:50:58.410Z
 tags: 核心能力
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
 ---
 
-> 本课程属于船票系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss1468)
-如果想以超低成本获得一年13门船票课程的学习机会，可购买船票。
-[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598)
+> :one: 本课程属于船说系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss1468){target="_blank"}
+> :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598){target="_blank"}
 {.is-success}
 
 
@@ -23,16 +22,16 @@ dateCreated: 2024-02-25T06:12:37.088Z
 
 > 2️⃣ 做好课前准备，需自行注册以下刷题平台：{.is-success}
 
-> ✅洛谷：https://www.luogu.com.cn/
-✅力扣：https://leetcode.cn/problemset/all/
-✅海贼OJ：[https://oj.haizeix.com/](https://oj.haizeix.com/)（如已注册海贼宝藏账号，使用该账号登录即可）
-✅欧拉计划：https://projecteuler.net/
+> ✅洛谷：[https://www.luogu.com.cn](https://www.luogu.com.cn){target="_blank"}
+✅力扣：[https://leetcode.cn/problemset/all](https://leetcode.cn/problemset/all){target="_blank"}
+✅海贼OJ：[https://oj.haizeix.com/](https://oj.haizeix.com/){target="_blank"}（如已注册海贼宝藏账号，使用该账号登录即可）
+✅欧拉计划：[https://projecteuler.net](https://projecteuler.net/){target="_blank"}
 {.is-info}
 
-> PS：无法访问欧拉原站，可不注册欧拉账号，使用中文替代站点看题：http://pe-cn.github.io/{.is-warning}
+> PS：无法访问欧拉原站，可不注册欧拉账号，使用中文替代站点看题：[http://pe-cn.github.io](http://pe-cn.github.io){target="_blank"}{.is-warning}
 
 > 3️⃣ 课程代码&讲义见下方章节内容，可以自取。
-> 同时也在Github上线了所有代码：👉 https地址: https://github.com/huguangAOA/Bilibili-Algorithm.git
+> 同时也在Github上线了所有代码：👉 https地址: [https://github.com/huguangAOA/Bilibili-Algorithm.git](https://github.com/huguangAOA/Bilibili-Algorithm.git){target="_blank"}
 {.is-success}
 
 > 4️⃣ 课程内容更新上线后，船长都会在群内通知大家
