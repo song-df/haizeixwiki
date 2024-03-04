@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-03-04T14:10:23.497Z
+date: 2024-03-04T14:21:18.309Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -63,17 +63,17 @@ dateCreated: 2024-02-25T06:09:59.515Z
 
 > 课程PPT
 
-- [船说：计算机基础-2.1 - 二进制数据表示与进制转换.pdf](https://www.alipan.com/s/hWd3PnpLKqC)
-- [船说：计算机基础-2.2 - 二进制数据计算.pdf](https://www.alipan.com/s/qCQh7p7UGZC)
-- [船说：计算机基础-2.3 - 二进制补码与减法.pdf](https://www.alipan.com/s/jz8PWvVBsL6)
-- [船说：计算机基础-2.4 - 二进制数据移位运算.pdf](https://www.alipan.com/s/eeEMfqqb5VE)
-- [船说：计算机基础-2.5 - 二进制数据乘除.pdf](https://www.alipan.com/s/DYpu4z4mtV6)
-- [船说：计算机基础-2.6 - 二进制浮点数.pdf](https://www.alipan.com/s/NZEXhPZR2KP)
-- [船说：计算机基础-2.7 - 计算机中文本信息处理与字符编码.pdf](https://www.alipan.com/s/1Aw7j3Po2da)
-- [船说：计算机基础-2.8 - 数据存储与主存储器.pdf](https://www.alipan.com/s/zZrRqcYk4nq)
-- [船说：计算机基础-2.9 - 高速缓存.pdf](https://www.alipan.com/s/DToadjwssDK)
-- [船说：计算机基础-2.10 - 虚拟存储.pdf](https://www.alipan.com/s/kTYAsBQnkth)
-- [船说：计算机基础-2.11 - 外部存储.pdf](https://www.alipan.com/s/Dvn6BZrAA2Q)
+- [船说：计算机基础-2.1 - 二进制数据表示与进制转换.pdf](computer_base_resource/Part1/chapter02/computer_base_chapter02_2.1.pdf)
+- [船说：计算机基础-2.2 - 二进制数据计算.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter02/computer_base_chapter02_2.2.pdf)
+- [船说：计算机基础-2.3 - 二进制补码与减法.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter02/computer_base_chapter02_2.3.pdf)
+- [船说：计算机基础-2.4 - 二进制数据移位运算.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter02/computer_base_chapter02_2.4.pdf)
+- [船说：计算机基础-2.5 - 二进制数据乘除.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter02/computer_base_chapter02_2.5.pdf)
+- [船说：计算机基础-2.6 - 二进制浮点数.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter02/computer_base_chapter02_2.6.pdf)
+- [船说：计算机基础-2.7 - 计算机中文本信息处理与字符编码.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter02/computer_base_chapter02_2.7.pdf)
+- [船说：计算机基础-2.8 - 数据存储与主存储器.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter02/computer_base_chapter02_2.8.pdf)
+- [船说：计算机基础-2.9 - 高速缓存.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter02/computer_base_chapter02_2.9.pdf)
+- [船说：计算机基础-2.10 - 虚拟存储.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter02/computer_base_chapter02_2.10.pdf)
+- [船说：计算机基础-2.11 - 外部存储.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter02/computer_base_chapter02_2.11.pdf)
 {.grid-list}
 
 > 本章其他内容
@@ -87,10 +87,10 @@ dateCreated: 2024-02-25T06:09:59.515Z
 
 > 课程PPT
 
-- [船说：计算机基础-3.1 - 指令系统设计.pdf](https://www.alipan.com/s/FA8et2CVR8K)
-- [船说：计算机基础-3.2 - CPU控制器.pdf](https://www.alipan.com/s/ZuJe4hFejQF)
-- [船说：计算机基础-3.3 - 总线.pdf](https://www.alipan.com/s/EfnbGRUzPLJ)
-- [船说：计算机基础-3.4 - IO系统.pdf](https://www.alipan.com/s/gJ2wpF1Dyqw)
+- [船说：计算机基础-3.1 - 指令系统设计.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter03/computer_base_chapter03_3.1.pdf)
+- [船说：计算机基础-3.2 - CPU控制器.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter03/computer_base_chapter03_3.2.pdf)
+- [船说：计算机基础-3.3 - 总线.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter03/computer_base_chapter03_3.3.pdf)
+- [船说：计算机基础-3.4 - IO系统.pdf](/courses_resource/computer_base/computer_base_resource/Part1/chapter03/computer_base_chapter03_3.4.pdf)
 {.grid-list}
 
 > 课程中使用的ARM汇编模拟器安装包: [VisUAL2 for Windows, MacOS and Linux Download](https://scc416.github.io/Visual2-doc/download)
