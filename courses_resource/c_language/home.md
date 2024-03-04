@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-04T03:49:44.974Z
+date: 2024-03-04T03:50:56.893Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -10,7 +10,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 > 本课程属于船票系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss3380){target="_blank"}
 如果想以超低成本获得一年13门船票课程的学习机会，可购买船票。
-[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598)
+[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598){target="_blank"}
 {.is-success}
 
 # 💗温馨提醒【初航我带你，远航靠自己】
