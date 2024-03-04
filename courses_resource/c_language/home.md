@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-04T15:32:25.988Z
+date: 2024-03-04T15:34:15.185Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -41,6 +41,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 有其他搞不明白的，可以找Bili姐：
 ![新bili姐.png](/images/新bili姐.png =200x)
 # Part1: C语言之应试篇
+> 零基础掌握C语言核心知识，打开编程世界之门，轻松搞定期末考试。{.is-success}
 ## 第一章 将C语言用起来
 > 学习提要
 {.is-info}
@@ -102,7 +103,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 
 # Part2: 程序设计进阶篇
-
+> 独家欧拉计划50题，开启编码之旅，掌握编程本质。从初识到蜕变，全面提升编码能力!{.is-success}
 
 ## 第九章 初识编码能力
 介绍欧拉计划，学习如何使用C语言解决欧拉计划题目
