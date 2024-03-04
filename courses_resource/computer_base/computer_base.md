@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-03-04T13:36:37.858Z
+date: 2024-03-04T14:04:29.212Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -42,9 +42,8 @@ dateCreated: 2024-02-25T06:09:59.515Z
 ## 第一章：CPU设计与结构
 
 > 课程PPT
-- [船说：计算机基础-1.1-计算工具历史.pdf](/courses_resource/computer_base/计算机基础从0到精通-课程资源/Part1-组成原理篇/第一章 CPU结构与设计/课程PPT/船说：计算机基础-1.1-计算工具历史.pdf)
-- [1、船说：计算机基础-1.1-计算工具历史](/courses_resource/computer_base/计算机基础从0到精通-课程资源/Part1-组成原理篇/第一章 CPU结构与设计/课程PPT/船说：计算机基础-1.1-计算工具历史.pdf)
-- [2、船说：计算机基础-1.2-开关演变成运算工具](https://www.alipan.com/s/4WbQXH2R3HQ)
+- [1、船说：计算机基础-1.1-计算工具历史](/courses_resource/computer_base/computer_base_resource/Part1/Chapter1/1.1.pdf)
+- [2、船说：计算机基础-1.2-开关演变成运算工具](/courses_resource/computer_base/computer_base_resource/Part1/Chapter1/1.2.pdf)
 - [3、船说：计算机基础-1.3-冯诺依曼架构](https://www.alipan.com/s/2YeHoTHsuua)
 - [4、船说：计算机基础-1.4-CPU内部结构与特点](https://www.alipan.com/s/2dmwxmiMLFn)
 - [5、船说：计算机基础-1.5-程序的执行](https://www.alipan.com/s/ekWfEtyeq8h)
