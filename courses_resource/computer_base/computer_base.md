@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-03-04T14:21:18.309Z
+date: 2024-03-04T14:23:24.593Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -42,16 +42,16 @@ dateCreated: 2024-02-25T06:09:59.515Z
 ## 第一章：CPU设计与结构
 
 > 课程PPT
-- [1、船说：计算机基础-1.1-计算工具历史](/courses_resource/computer_base/computer_base_resource/Part1/chapter01/computer_base_chapter01_1.1.pdf)
-- [2、船说：计算机基础-1.2-开关演变成运算工具](/courses_resource/computer_base/computer_base_resource/Part1/chapter01/computer_base_chapter01_1.2.pdf)
-- [3、船说：计算机基础-1.3-冯诺依曼架构](/courses_resource/computer_base/computer_base_resource/Part1/chapter01/computer_base_chapter01_1.3.pdf)
-- [4、船说：计算机基础-1.4-CPU内部结构与特点](/courses_resource/computer_base/computer_base_resource/Part1/chapter01/computer_base_chapter01_1.4.pdf)
-- [5、船说：计算机基础-1.5-程序的执行](/courses_resource/computer_base/computer_base_resource/Part1/chapter01/computer_base_chapter01_1.5.pdf)
-- [6、船说：计算机基础-1.6.1-程序中的条件判断](/courses_resource/computer_base/computer_base_resource/Part1/chapter01/computer_base_chapter01_1.6.1.pdf)
-- [7、船说：计算机基础-1.6.2-程序中循环处理](/courses_resource/computer_base/computer_base_resource/Part1/chapter01/computer_base_chapter01_1.6.2.pdf)
-- [8、船说：计算机基础-1.6.3-函数调用的底层处理](/courses_resource/computer_base/computer_base_resource/Part1/chapter01/computer_base_chapter01_1.6.3.pdf)
-- [9、船说：计算机基础-1.6.4-在函数内大片内存空间的使用处理](/courses_resource/computer_base/computer_base_resource/Part1/chapter01/computer_base_chapter01_1.6.4.pdf)
-- [10、船说：计算机基础-总结](/courses_resource/computer_base/computer_base_resource/Part1/chapter01/computer_base_chapter01_last.pdf)
+- [1、船说：计算机基础-1.1-计算工具历史](computer_base_resource/Part1/chapter01/computer_base_chapter01_1.1.pdf)
+- [2、船说：计算机基础-1.2-开关演变成运算工具](computer_base_resource/Part1/chapter01/computer_base_chapter01_1.2.pdf)
+- [3、船说：计算机基础-1.3-冯诺依曼架构](computer_base_resource/Part1/chapter01/computer_base_chapter01_1.3.pdf)
+- [4、船说：计算机基础-1.4-CPU内部结构与特点](computer_base_resource/Part1/chapter01/computer_base_chapter01_1.4.pdf)
+- [5、船说：计算机基础-1.5-程序的执行](computer_base_resource/Part1/chapter01/computer_base_chapter01_1.5.pdf)
+- [6、船说：计算机基础-1.6.1-程序中的条件判断](computer_base_resource/Part1/chapter01/computer_base_chapter01_1.6.1.pdf)
+- [7、船说：计算机基础-1.6.2-程序中循环处理](computer_base_resource/Part1/chapter01/computer_base_chapter01_1.6.2.pdf)
+- [8、船说：计算机基础-1.6.3-函数调用的底层处理](computer_base_resource/Part1/chapter01/computer_base_chapter01_1.6.3.pdf)
+- [9、船说：计算机基础-1.6.4-在函数内大片内存空间的使用处理](computer_base_resource/Part1/chapter01/computer_base_chapter01_1.6.4.pdf)
+- [10、船说：计算机基础-总结](computer_base_resource/Part1/chapter01/computer_base_chapter01_last.pdf)
 {.grid-list}
 
 > 课程中使用的ARM汇编模拟器安装包: [VisUAL2 for Windows, MacOS and Linux Download](https://scc416.github.io/Visual2-doc/download)
