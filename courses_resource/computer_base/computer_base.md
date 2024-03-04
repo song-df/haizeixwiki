@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-03-04T14:39:51.560Z
+date: 2024-03-04T14:42:44.189Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -78,7 +78,7 @@ dateCreated: 2024-02-25T06:09:59.515Z
 
 > 本章其他内容
 - [课后练习一.pdf](computer_base_resource/Part1/chapter02/homework/computer_base_chapter02_homework01.pdf)
-- [在线电路模拟器](https://exp.xiaogd.net/circuitjs1-zh/circuitjs.html)
+- [在线电路模拟器](https://exp.xiaogd.net/circuitjs1-zh/circuitjs.html){target="_blank"}
 - [模拟器-半加器.txt](computer_base_resource/Part1/chapter02/code/half-add.txt)
 - [模拟器-全加器.txt](computer_base_resource/Part1/chapter02/code/full-add.txt)
 {.grid-list}
@@ -92,8 +92,6 @@ dateCreated: 2024-02-25T06:09:59.515Z
 - [船说：计算机基础-3.3 - 总线.pdf](computer_base_resource/Part1/chapter03/computer_base_chapter03_3.3.pdf)
 - [船说：计算机基础-3.4 - IO系统.pdf](computer_base_resource/Part1/chapter03/computer_base_chapter03_3.4.pdf)
 {.grid-list}
-
-> 课程中使用的ARM汇编模拟器安装包: [VisUAL2 for Windows, MacOS and Linux Download](https://scc416.github.io/Visual2-doc/download)
 
 ## 第四章：缓存算法实现
 双向链表原理与程序实现，FIFO、LRU、LFU三种缓存转换算法的原理与实现
