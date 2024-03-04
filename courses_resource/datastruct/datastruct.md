@@ -2,7 +2,7 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-03-04T14:50:58.410Z
+date: 2024-03-04T14:55:11.618Z
 tags: 核心能力
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
@@ -25,8 +25,7 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > ✅洛谷：[https://www.luogu.com.cn](https://www.luogu.com.cn){target="_blank"}
 ✅力扣：[https://leetcode.cn/problemset/all](https://leetcode.cn/problemset/all){target="_blank"}
 ✅海贼OJ：[https://oj.haizeix.com/](https://oj.haizeix.com/){target="_blank"}（如已注册海贼宝藏账号，使用该账号登录即可）
-✅欧拉计划：[https://projecteuler.net](https://projecteuler.net/){target="_blank"}
-{.is-info}
+
 
 > PS：无法访问欧拉原站，可不注册欧拉账号，使用中文替代站点看题：[http://pe-cn.github.io](http://pe-cn.github.io){target="_blank"}{.is-warning}
 
