@@ -51,14 +51,14 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 6. 对于编码规范，根据船长的代码规范来规范自己的编码习惯。
 
 > 授课PPT  
-> 1. [ACM金牌带你零基础直达C语言精通-1.1-课程导学](\c_language_resource\part1\chapter01\pptx\c_language_chapter01_1.pdf)
-> 2. [ACM金牌带你零基础直达C语言精通-1.2-学环境配置](\c_language_resource\part1\chapter01\pptx\c_language_chapter01_2_12_14_15.pdf)
-> 3. [ACM金牌带你零基础直达C语言精通-1.3-Linux环境配置:如何获取配置文档](\c_language_resource\part1\chapter01\pptx\c_language_chapter01_3.pdf)
-> 4. [ACM金牌带你零基础直达C语言精通-1.4-1.6-Linux环境配置:服务器购买-Linux环境配置:云主机链接](\c_language_resource\part1\chapter01\pptx\c_language_chapter01_4to6.pdf) 
-> 5. [ACM金牌带你零基础直达C语言精通-1.7-1.11-Linux环境配置:云主机的配置-Linux环境配置:vim的基本使用](\c_language_resource\part1\chapter01\pptx\c_language_chapter01_7to11.pdf) 
-> 6. [ACM金牌带你零基础直达C语言精通-1.13-百度+阿里:编码规范介绍](\c_language_resource\part1\chapter01\pptx\c_language_chapter01_13(1).pdf) 
-> 7. [ACM金牌带你零基础直达C语言精通-1.13-谷歌:编码规范介绍](\c_language_resource\part1\chapter01\pptx\c_language_chapter01_13(2).pdf) 
-> 8. [ACM金牌带你零基础直达C语言精通-1.14-将C语言用起来](\c_language_resource\part1\chapter01\pptx\c_language_chapter01_14.pdf) 
+> 1. [ACM金牌带你零基础直达C语言精通-1.1-课程导学](c_language_resource/part1/chapter01/pptx/c_language_chapter01_1.pdf)
+> 2. [ACM金牌带你零基础直达C语言精通-1.2-学环境配置](c_language_resource/part1/chapter01/pptx/c_language_chapter01_2_12_14_15.pdf)
+> 3. [ACM金牌带你零基础直达C语言精通-1.3-Linux环境配置:如何获取配置文档](c_language_resource/part1/chapter01/pptx/c_language_chapter01_3.pdf)
+> 4. [ACM金牌带你零基础直达C语言精通-1.4-1.6-Linux环境配置:服务器购买-Linux环境配置:云主机链接](c_language_resource/part1/chapter01/pptx/c_language_chapter01_4to6.pdf) 
+> 5. [ACM金牌带你零基础直达C语言精通-1.7-1.11-Linux环境配置:云主机的配置-Linux环境配置:vim的基本使用](c_language_resource/part1/chapter01/pptx/c_language_chapter01_7to11.pdf) 
+> 6. [ACM金牌带你零基础直达C语言精通-1.13-百度+阿里:编码规范介绍](c_language_resource/part1/chapter01/pptx/c_language_chapter01_13(1).pdf) 
+> 7. [ACM金牌带你零基础直达C语言精通-1.13-谷歌:编码规范介绍](c_language_resource/part1/chapter01/pptx/c_language_chapter01_13(2).pdf) 
+> 8. [ACM金牌带你零基础直达C语言精通-1.14-将C语言用起来](c_language_resource/part1/chapter01/pptx/c_language_chapter01_14.pdf) 
 
 > 参考程序
 ```C
