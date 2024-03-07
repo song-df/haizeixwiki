@@ -2,10 +2,10 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-04T03:56:15.035Z
+date: 2024-03-07T13:52:23.106Z
 tags: 编程语言
 editor: markdown
-dateCreated: 2024-03-01T15:16:58.351Z
+dateCreated: 2024-03-06T09:39:04.268Z
 ---
 
 > :one: 本课程属于船说系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss3380){target="_blank"}
@@ -61,17 +61,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 8. [ACM金牌带你零基础直达C语言精通-1.14-将C语言用起来](c_language_resource/part1/chapter01/pptx/c_language_chapter01_14.pdf)   
 > ✅DevCpp 6.7.5 和Tabby的安装包:[百度网盘链接](https://pan.baidu.com/s/1771OHbtIEzwRyRJj09ruBw?pwd=3zuh){.is-info}
 
-> 参考程序
-```C
-    //头文件，包含着实现printf函数的代码
-    #include <stdio.h>
-    //C语言的主要结构主函数,对于解读会在后续的课程解读
-    int main(){
-        //printf函数，将""中的内容打印在终端上
-        printf("hello world");
-        return 0;
-    }
-```
 # 第二章 类型、运算符与表达式
 > 学习提要  
 > 1. 理解什么是类型，什么是变量。
