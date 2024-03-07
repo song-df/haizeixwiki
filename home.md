@@ -2,7 +2,7 @@
 title: 海贼宝藏
 description: 一日海贼，终身海贼！
 published: true
-date: 2024-03-07T14:34:33.137Z
+date: 2024-03-07T14:35:14.666Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T05:31:00.811Z
@@ -25,7 +25,7 @@ dateCreated: 2024-02-25T05:31:00.811Z
 - [🖥 1、快速使用云环境 *方便快捷的获得云上学习环境*](/courses_resource/cloud_usage/快速使用云环境.md)
 - [🚅 2、如何获取配置文档 *合适的环境，不但看着舒服，还能提升效率*](/courses_resource/cloud_usage/如何获取配置文档.md)
 - [🦭 3、Linux开发环境配置 *全程在Linux系统环境下学习*](/courses_resource/cloud_usage/Linux开发环境配置.md)
-- [🦭 4、编码规范 *Google C++ 编码规范中文版*](/courses_resource/reference_doc/Google_Cpp_Code_Style_CN.pdf)
+- [📖 4、编码规范 *Google C++ 编码规范中文版*](/courses_resource/reference_doc/Google_Cpp_Code_Style_CN.pdf)
 {.links-list}
 
 
