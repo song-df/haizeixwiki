@@ -2,7 +2,7 @@
 title: Linux开发环境配置
 description: 
 published: true
-date: 2024-03-12T08:33:13.388Z
+date: 2024-03-12T08:38:28.902Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:24.379Z
@@ -32,8 +32,7 @@ AI summary: 本文档介绍了在Linux上配置开发环境的步骤。首先，
 
 ## 云主机购买的基本策略
 
-> 
-❗ 以下策略请认真阅读，避免在购买云主机时出错。
+> ❗ 以下策略请认真阅读，避免在购买云主机时出错。
 
 
 1. 如果你是短期学习，可以领取[**腾讯云**](https://curl.qcloud.com/nEpnHWTj)，[**阿里云**](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=qiird2gj)，京东云，移动云的试用服务器，但是这里一定要明确一件事，**如果你领用了试用的服务器，你将丧失新用户的身份**，后续在同一平台购买服务器将不再享受优惠。
@@ -158,10 +157,7 @@ AI summary: 本文档介绍了在Linux上配置开发环境的步骤。首先，
 1. 打开tabby的官网：[https://tabby.sh/](https://tabby.sh/) 
 2. 点击右上角下载按钮，在新弹出的页面中，选择Windows版本的tabby下载
 
->❗ 如果Tabby下载速度很慢，你也可以直接点击  [这里](http://suyelu.pro/data/tabby.exe)   直接下载；
-也可以访问这里使用百度云盘下载：
-链接: [https://pan.baidu.com/s/1xHwvW4g1dGSog8GUtGQRFg?pwd=swxe](https://pan.baidu.com/s/1xHwvW4g1dGSog8GUtGQRFg?pwd=swxe) 提取码: swxe
-> ![注意此处下载tabby-x.x.xxx-setup-x64.exe这个文件，如果没有翻墙可能网速比较慢，可以选择上面的直接下载或者百度网盘下载]
+>❗ 如果Tabby下载速度很慢，你也可以直接点击  [这里](tabby.exe)   直接下载；
 
 ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%206.png)
 
@@ -247,7 +243,7 @@ apt update
 apt upgrade -y  #新增命令，视频中没有也需要你正常执行
 apt autoremove  #新增命令，视频中没有也需要你正常执行
 apt install wget -y
-wget http://123.57.102.65/data/init_env.sh
+wget https://wiki.haizeix.com/e/zh/courses_resource/cloud_usage/init_env.sh
 ```
 
 1. 执行下面的命令，完成环境配置
