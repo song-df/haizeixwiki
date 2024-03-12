@@ -1,14 +1,13 @@
 ---
-title: Vim_setup
+title: Vim优化配置
 description: 
 published: true
-date: 2024-03-12T08:32:13.025Z
+date: 2024-03-12T14:13:47.441Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-12T08:21:15.792Z
 ---
 
-# Vim优化配置
 
 <aside>
 📌 以下内容主要用在已有Linux或Mac环境的Vim配置
@@ -25,7 +24,7 @@ dateCreated: 2024-03-12T08:21:15.792Z
 
 ![Untitled](Vim%E7%9A%84%E9%85%8D%E7%BD%AE%2014a38241234140b2a6782b56e7cf838e/Untitled.png =800x)
 
-## 配置过程如下
+# 配置过程如下
 
 > **如果你是mac系统，请直接执行3，4步骤即可！**
 > 
