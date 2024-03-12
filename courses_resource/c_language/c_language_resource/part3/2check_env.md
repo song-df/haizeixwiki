@@ -2,7 +2,7 @@
 title: 2check_env
 description: 
 published: true
-date: 2024-03-12T08:15:19.220Z
+date: 2024-03-12T08:21:33.595Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-12T04:45:14.077Z
@@ -89,10 +89,10 @@ passwd username
 
 VIM的配置，请参考下面的文档：
 
-[Vim的配置](https://www.notion.so/Vim-df538ebfd7744ef8ae5b6c27e3611522?pvs=21) 
+[Vim的配置](/courses_resource/cloud_usage/Vim_setup) 
 
 ## 2.4 MAN手册
 
 MAN手册是Linux操作系统中面向系统编程者最重要的帮助工具，强烈建议大家使用man手册来查看系统文档，辅助学习。
 
-[快速使用云环境](https://www.notion.so/6f6f7dcad2994872bad29e27e33860d7?pvs=21)
+[快速使用云环境](/courses_resource/cloud_usage/快速使用云环境)
