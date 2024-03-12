@@ -2,7 +2,7 @@
 title: Vim_setup
 description: 
 published: true
-date: 2024-03-12T08:23:06.534Z
+date: 2024-03-12T08:23:32.705Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-12T08:21:15.792Z
@@ -28,7 +28,7 @@ dateCreated: 2024-03-12T08:21:15.792Z
 > 如果你没有Linux或Mac系统，请参照 [Linux开发环境配置](https://www.notion.so/Linux-e0ffc8d2e38645ff83756bd65e05b5a8?pvs=21) 来购买云主机，并配置以`Vim`为核心的编程环境。
 > 
 
-![Untitled](Vim%E7%9A%84%E9%85%8D%E7%BD%AE%2014a38241234140b2a6782b56e7cf838e/Untitled.png =500x)
+![Untitled](Vim%E7%9A%84%E9%85%8D%E7%BD%AE%2014a38241234140b2a6782b56e7cf838e/Untitled.png =800x)
 
 ## 配置过程如下
 
