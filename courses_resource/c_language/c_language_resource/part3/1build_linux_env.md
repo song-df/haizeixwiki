@@ -2,7 +2,7 @@
 title: 1build_linux_env
 description: 
 published: true
-date: 2024-03-12T08:09:11.769Z
+date: 2024-03-12T08:11:02.077Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-12T04:45:05.746Z
@@ -12,11 +12,10 @@ dateCreated: 2024-03-12T04:45:05.746Z
 
 AI summary: 本文介绍了打造系统编程环境的重要性，推荐使用云主机进行学习，并提供了腾讯云和阿里云的购买链接。不建议使用虚拟机，而是利用云主机搭建各种服务和个人博客。
 
-[回到首页](/root)
+[回到首页](/courses_resource/home)
 
 下一节:
-
-[2、验证环境是否符合要求](2.check_env)
+[2、验证环境是否符合要求](/courses_resource/c_language/c_language_resource/part3/2check_env)
 
 ## 1.1 学习环境概述
 
