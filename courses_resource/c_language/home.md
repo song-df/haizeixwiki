@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-04T03:56:15.035Z
+date: 2024-03-12T07:49:57.284Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -322,3 +322,12 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 3. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数--EP02-1.c](c_language_resource/part2/chapter10/code/EP02-1.c)
 > 4. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数--EP02-2.c](c_language_resource/part2/chapter10/code/EP02-2.c)
 > 5. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数--EP02-3.c](c_language_resource/part2/chapter10/code/EP02-3.c)
+
+# 第十三章 操作系统篇·搭建Linux开发环境
+
+>本章学习参考说明
+- [1、打造系统编程环境](/courses_resource/c_language/c_language_resource/part3/1build_linux_env)
+- [2、验证环境是否符合要求](/courses_resource/c_language/c_language_resource/part3/2.check_env)
+- [3、云主机的安全加固](/courses_resource/c_language/c_language_resource/part3/3.ecs_securet)
+- [4、将自己的代码备份到Github](/courses_resource/c_language/c_language_resource/part3/4.backup_code_to_github)
+{.link-list}
