@@ -2,7 +2,7 @@
 title: Linux开发环境配置
 description: 
 published: true
-date: 2024-03-12T14:09:51.311Z
+date: 2024-03-12T14:11:15.821Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:24.379Z
@@ -61,7 +61,7 @@ AI summary: 本文档介绍了在Linux上配置开发环境的步骤。首先，
 ## 【推荐】腾讯云新用户优惠
 
 > **依然推荐你购买腾讯云**，更高的带宽有助于提升远程操作的流畅性，同时阿里云目前作为云服务的实质上的第一，你可以在后续自己有明确的业务需求时，再使用阿里云新用户优惠购买合适的产品。
-> 
+
 
 > <img src="https://img0.baidu.com/it/u=1553499101,1560333694&fm=253&fmt=auto&app=138&f=JPEG?w=775&h=500" alt="https://img0.baidu.com/it/u=1553499101,1560333694&fm=253&fmt=auto&app=138&f=JPEG?w=775&h=500" width="40px" />腾讯云新用户优惠，轻量级服务器2核2G `62元1年`，每天仅需0.17元；2核4G 218`元1年`，每天只要0.60元。
 
@@ -90,8 +90,7 @@ AI summary: 本文档介绍了在Linux上配置开发环境的步骤。首先，
 
 ## 【推荐】阿里云新用户优惠
 
->
-<img src="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" alt="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" width="40px" /> 阿里云新用户优惠，轻量级服务器2核2G 108元1年，每天仅需0.3元；2核4G 298元1年，每天只要0.81元。
+><img src="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" alt="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" width="40px" /> 阿里云新用户优惠，轻量级服务器2核2G 108元1年，每天仅需0.3元；2核4G 298元1年，每天只要0.81元。
 
 
 
@@ -103,8 +102,7 @@ AI summary: 本文档介绍了在Linux上配置开发环境的步骤。首先，
 
 ## 阿里云-高校计划
 
->
-<img src="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" alt="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" width="40px" /> 高校计划适用于在校学生，通过任务，最长可以试用6个月。📢 **注意：参加高校计划会丧失新用户身份，后续不再享受首购优惠！**
+><img src="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" alt="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" width="40px" /> 高校计划适用于在校学生，通过任务，最长可以试用6个月。📢 **注意：参加高校计划会丧失新用户身份，后续不再享受首购优惠！**
 
 
 
