@@ -2,7 +2,7 @@
 title: 1build_linux_env
 description: 
 published: true
-date: 2024-03-12T07:55:15.159Z
+date: 2024-03-12T08:09:11.769Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-12T04:45:05.746Z
@@ -46,7 +46,7 @@ AI summary: 本文介绍了打造系统编程环境的重要性，推荐使用�
 
 **参考文档：**
 
-[Linux云主机的购买与配置](https://www.notion.so/Linux-43572cd6237d48929ab7d805ef78882b?pvs=21) 
+[Linux云主机的购买与配置](/courses_resource/cloud_usage/home)
 
 ## 1.5 虚拟机的使用
 
