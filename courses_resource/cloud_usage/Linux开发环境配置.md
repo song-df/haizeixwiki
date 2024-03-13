@@ -2,7 +2,7 @@
 title: Linux开发环境配置
 description: 
 published: true
-date: 2024-03-13T05:35:13.294Z
+date: 2024-03-13T05:39:56.233Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:24.379Z
@@ -154,6 +154,8 @@ AI summary: 本文档介绍了在Linux上配置开发环境的步骤。首先，
 
 1. 打开tabby的官网：[https://tabby.sh/](https://tabby.sh/) 
 2. 点击右上角下载按钮，在新弹出的页面中，选择Windows版本的tabby下载
+
+>❗ 如果Tabby下载速度很慢，你也在这里可以直接[tabby.exe](https://www.alipan.com/s/W3gn279cgFP){target="_blank"}
 
 ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%206.png)
 
