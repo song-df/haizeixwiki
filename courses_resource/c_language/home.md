@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-12T07:49:57.284Z
+date: 2024-03-16T04:23:25.264Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -326,8 +326,62 @@ dateCreated: 2024-03-01T15:16:58.351Z
 # 第十三章 操作系统篇·搭建Linux开发环境
 
 >本章学习参考说明
+
 - [1、打造系统编程环境](/courses_resource/c_language/c_language_resource/part3/1build_linux_env)
 - [2、验证环境是否符合要求](/courses_resource/c_language/c_language_resource/part3/2.check_env)
 - [3、云主机的安全加固](/courses_resource/c_language/c_language_resource/part3/3.ecs_securet)
 - [4、将自己的代码备份到Github](/courses_resource/c_language/c_language_resource/part3/4.backup_code_to_github)
 {.link-list}
+
+
+# 第十八章 嵌入式篇·嵌入式中的C语言另一面
+
+>本章参考工具：
+:one: [Arduino IDE 2.3.2 官方下载链接](https://www.arduino.cc/en/software){target="_blank"}.
+:two: [Keil](){}
+:three:[VSCode及相关插件](){}
+
+>课程PPT：
+
+>参考程序：
+
+
+# 第十九章 嵌入式篇·小系统的内存管理
+
+>本章学习参考说明
+
+>课程PPT：
+
+>参考程序：
+
+
+
+# 第二十章 嵌入式篇·片上裸程序的多任务机制
+
+>本章学习参考说明
+
+>课程PPT：
+
+>参考程序：
+
+
+
+# 第二十一章 嵌入式篇·实现应用于微型芯片中的miniprintf
+
+>本章学习参考说明
+
+>课程PPT：
+
+>参考程序：
+
+
+
+# 第二十二章 嵌入式篇·实现微小型系统里的简单内存分配与回收库
+
+>本章学习参考说明
+
+>课程PPT：
+
+>参考程序：
+
+
