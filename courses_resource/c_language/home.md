@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-16T12:18:36.592Z
+date: 2024-03-19T13:14:56.816Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -328,9 +328,9 @@ dateCreated: 2024-03-01T15:16:58.351Z
 >本章学习参考说明
 
 - [1、打造系统编程环境](/courses_resource/c_language/c_language_resource/part3/1build_linux_env)
-- [2、验证环境是否符合要求](/courses_resource/c_language/c_language_resource/part3/2.check_env)
-- [3、云主机的安全加固](/courses_resource/c_language/c_language_resource/part3/3.ecs_securet)
-- [4、将自己的代码备份到Github](/courses_resource/c_language/c_language_resource/part3/4.backup_code_to_github)
+- [2、验证环境是否符合要求](/courses_resource/c_language/c_language_resource/part3/2check_env)
+- [3、云主机的安全加固](/courses_resource/c_language/c_language_resource/part3/3ecs_securet)
+- [4、将自己的代码备份到Github](/courses_resource/c_language/c_language_resource/part3/4backup_code_to_github)
 {.link-list}
 
 
