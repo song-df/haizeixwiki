@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-03-04T14:46:06.863Z
+date: 2024-03-20T05:21:08.864Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -103,6 +103,34 @@ dateCreated: 2024-02-25T06:09:59.515Z
 
 # Part2：操作系统篇
 ## 第五章：操作系统概念
+### 1、环境准备
+
+>❓ **为什么要使用云主机？**
+
+
+**在本课程中必须使用云主机的原因如下：**
+
+1. 后续操作系统部分的代码实战部分，将**基于Linux**进行学习
+2. 计算机网络部分的网络编程需要一个**公网IP**，云主机是最佳选择
+3. 基于云主机的统一开发环境可以**避免**因环境问题导致的**时间和精力浪费**
+
+> 点击👆🏻 [腾讯云优惠页面](https://curl.qcloud.com/nEpnHWTj)，购买新用户优惠主机：61元，99元，165元，199元不等**【推荐】**
+
+> 点击👆🏻 [阿里云优惠页面](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=qiird2gj)，购买新用户优惠主机：61元，99元，165元，199元不等
+
+
+
+- [Linux开发环境配置](https://wiki.haizeix.com/courses_resource/cloud_usage/Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md) 
+- [快速使用云环境](https://wiki.haizeix.com/zh/courses_resource/cloud_usage/%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8%E4%BA%91%E7%8E%AF%E5%A2%83) 
+{.links-list}
+
+### 2、其他
+
+> 1. 根据大家的反馈，新手在按照流程操作的时候，遇到最多的问题主要为：
+    ❓使用Tabby连接云主机时，无法连接
+        **常见原因：未设置云主机登录密码、用户名错误、云主机系统并不是Ubuntu**
+        **解决方案：仔细文档中每个步骤的checklist，未设置密码则重置密码，用户名仅为ubuntu或者root，如果系统非ubuntu，则重置系统**
+
 ## 第六章：操作系统基础知识
 ## 第七章：文件与IO
 ## 第八章：进程
