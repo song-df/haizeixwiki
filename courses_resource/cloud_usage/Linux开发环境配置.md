@@ -2,7 +2,7 @@
 title: Linux开发环境配置
 description: 
 published: true
-date: 2024-03-21T09:41:29.955Z
+date: 2024-03-21T09:42:58.951Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:24.379Z
@@ -241,8 +241,7 @@ apt update
 apt upgrade -y  #新增命令，视频中没有也需要你正常执行
 apt autoremove  #新增命令，视频中没有也需要你正常执行
 apt install wget -y
-wget https://wiki.haizeix.com/e/zh/courses_resource/cloud_usage/init_vim.txt
-mv init_vim.txt init_vim.sh
+wget http://123.57.102.65/data/init_env.sh
 ```
 
 1. 执行下面的命令，完成环境配置
