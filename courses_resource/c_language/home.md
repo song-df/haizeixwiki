@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-23T08:24:06.221Z
+date: 2024-03-23T08:37:44.543Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -41,6 +41,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 有其他搞不明白的，可以找Bili姐：
 ![新bili姐.png](/images/新bili姐.png =200x)
 # Part1：C语言之应试篇
+> 零基础掌握C语言核心知识，打开编程世界之门，轻松搞定期末考试{.is-success}
 ## 第一章 将C语言用起来
 > 学习提要
 - 1. 学习课程时一定不要跳看课程，每节课都会有着不同的知识点。
@@ -308,6 +309,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 16. [ACM金牌带你零基础直达C语言精通-8.19~8.30-项目文件--13.project](c_language_resource/part1/chapter08/code/13.project)
 
 # Part2：程序设计进阶篇
+> 独家欧拉计划50题，开启编码之旅，掌握编程本质。从初识到蜕变，全面提升编码能力！{.is-success}
 ## 第九章 初识编码能力
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-9.1-什么是编码能力](c_language_resource/part2/chapter09/pptx/c_language_chapter09_1.pdf)
@@ -330,6 +332,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 5. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数--EP02-3.c](c_language_resource/part2/chapter10/code/EP02-3.c)
 
 # Part3：实战之操作系统编程篇
+> 从零开始学习Linux开发，实战掌握文件操作、多进程编程，快速提升开发技能！{.is-success}
 ## 第十三章 操作系统篇·搭建Linux开发环境
 
 >本章学习参考说明
@@ -341,6 +344,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 {.link-list}
 
 # Part4：实战之嵌入式编程篇
+> 探索嵌入式编程技巧，从c语言基础到嵌入式设备中简单多任务编程模式处理，掌握C语言硬件控制方式，开启万物互联世界的编程之旅！{.is-success}
 ## 第十八章 嵌入式篇·嵌入式中的C语言另一面
 
 >本章参考工具：
