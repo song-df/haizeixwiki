@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-19T13:14:56.816Z
+date: 2024-03-23T08:10:21.643Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -40,8 +40,8 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 > 有其他搞不明白的，可以找Bili姐：
 ![新bili姐.png](/images/新bili姐.png =200x)
-
-# 第一章 将C语言用起来
+# Part1：C语言之应试篇
+## 第一章 将C语言用起来
 > 学习提要
 > 1. 学习课程时一定不要跳看课程，每节课都会有着不同的知识点。
 > 2. 配置学习环境的配置(必要)，推荐配置Linux环境。
@@ -72,7 +72,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
         return 0;
     }
 ```
-# 第二章 类型、运算符与表达式
+## 第二章 类型、运算符与表达式
 > 学习提要  
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
 > 2. 理解什么是类型，什么是变量;
@@ -113,7 +113,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 24. [ACM金牌带你零基础直达C语言精通-2.24-注水问题:HZOJ-102--24.HZOJ-102.c](c_language_resource/part1/chapter02/code/24.HZOJ-102.c)
 
 
-# 第三章 控制流
+## 第三章 控制流
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-3-控制流](c_language_resource/part1/chapter03/pptx/c_language_chapter03.pdf)  
 
@@ -155,7 +155,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 35. [ACM金牌带你零基础直达C语言精通-3.26-循环-课后实战题:第三讲--35.HZOJ-142.c](c_language_resource/part1/chapter03/code/35.HZOJ-142.c)
 > 36. [ACM金牌带你零基础直达C语言精通-3.26-【补充】昨天和明天--36.HZOJ-119.c](c_language_resource/part1/chapter03/code/36.HZOJ-119.c)
 
-# 第四章 函数与程序结构
+## 第四章 函数与程序结构
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-4-函数与程序结构](c_language_resource/part1/chapter04/pptx/c_language_chapter04.pdf)
 > 2. [ACM金牌带你零基础直达C语言精通-4-20-【附加题】HZOJ-239-不规则的街道](c_language_resource/part1/chapter04/pptx/c_language_chapter04_20.pdf)
@@ -186,7 +186,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 23. [ACM金牌带你零基础直达C语言精通-4.20-HZOJ-239不规则的街道--23.HZOJ-239.cpp](c_language_resource/part1/chapter04/code/23.HZOJ-239.cpp)
 
 
-# 第五章 指针与数组
+## 第五章 指针与数组
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-5-指针与数组](c_language_resource/part1/chapter05/pptx/c_language_chapter05.pdf)
 
@@ -226,7 +226,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 33. [ACM金牌带你零基础直达C语言精通-5.29-【附加内容】快速排序--33.quick_sort.cpp](c_language_resource/part1/chapter05/code/33.quick_sort.cpp)
 > 34. [ACM金牌带你零基础直达C语言精通-5.31-小项目：从0实现 qsort 函数--34.my_qsort.c](c_language_resource/part1/chapter05/code/34.my_qsort.c)
 
-# 第六章 结构体与联合体
+## 第六章 结构体与联合体
 > 授课PPT 
 > 1. [ACM金牌带你零基础直达C语言精通-6-预处理命令与结构体](c_language_resource/part1/chapter06/pptx/c_language_chapter06.pdf)
 
@@ -262,7 +262,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 29. [ACM金牌带你零基础直达C语言精通-6.24-【附加内容】链表：代码演示--24.linklist.cpp](c_language_resource/part1/chapter06/code/24.linklist.cpp)
 > 30. [ACM金牌带你零基础直达C语言精通-6.25~6.26-实现一种有趣的链表结构--26.funny_linklist.c](c_language_resource/part1/chapter06/code/26.funny_linklist.c)
 
-# 第七章 重学输入输出
+## 第七章 重学输入输出
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-7-重学输入输出](c_language_resource/part1/chapter07/pptx/c_language_chapter07.pdf)
 
@@ -280,7 +280,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 11. [ACM金牌带你零基础直达C语言精通-7.6-实现 printf 函数：输出『hello world』--9.my_printf.c](c_language_resource/part1/chapter07/code/9.my_printf.c)
 > 12. [ACM金牌带你零基础直达C语言精通-7.6~7.9-实现 printf 函数：输出『hello world』--9.my_printf.c](c_language_resource/part1/chapter07/code/9.my_printf.c)
 
-# 第八章 文件操作
+## 第八章 文件操作
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-8-文件操作](c_language_resource/part1/chapter08/pptx/c_language_chapter08.pdf)
 
@@ -302,7 +302,8 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 15. [ACM金牌带你零基础直达C语言精通-8.20-编程技巧：注册函数--14.attribute.c](c_language_resource/part1/chapter08/code/14.attribute.c)
 > 16. [ACM金牌带你零基础直达C语言精通-8.19~8.30-项目文件--13.project](c_language_resource/part1/chapter08/code/13.project)
 
-# 第九章 初识编码能力
+# Part2：程序设计进阶篇
+## 第九章 初识编码能力
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-9.1-什么是编码能力](c_language_resource/part2/chapter09/pptx/c_language_chapter09_1.pdf)
 > 2. [ACM金牌带你零基础直达C语言精通-9.2-欧拉计划介绍](c_language_resource/part2/chapter09/pptx/c_language_chapter09_2.pdf)
@@ -310,7 +311,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > ✅[欧拉计划国内镜像网站](https://pe-cn.github.io/problems/){.is-info}  
 > ✅[欧拉计划网站](https://projecteuler.net/){.is-info}
 
-# 第十章 编码能力·启航篇
+## 第十章 编码能力·启航篇
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-10.1~10.3-EP01:3或5的倍数](c_language_resource/part2/chapter10/pptx/c_language_chapter10_1.pdf)
 > 2. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数](c_language_resource/part2/chapter10/pptx/c_language_chapter10_2.pdf)
@@ -323,7 +324,8 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 4. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数--EP02-2.c](c_language_resource/part2/chapter10/code/EP02-2.c)
 > 5. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数--EP02-3.c](c_language_resource/part2/chapter10/code/EP02-3.c)
 
-# 第十三章 操作系统篇·搭建Linux开发环境
+# Part3：实战之操作系统编程篇
+## 第十三章 操作系统篇·搭建Linux开发环境
 
 >本章学习参考说明
 
@@ -333,8 +335,8 @@ dateCreated: 2024-03-01T15:16:58.351Z
 - [4、将自己的代码备份到Github](/courses_resource/c_language/c_language_resource/part3/4backup_code_to_github)
 {.link-list}
 
-
-# 第十八章 嵌入式篇·嵌入式中的C语言另一面
+# Part4：实战之嵌入式编程篇
+## 第十八章 嵌入式篇·嵌入式中的C语言另一面
 
 >本章参考工具：
 :one: [Arduino IDE 2.3.2 官方下载链接](https://www.arduino.cc/en/software){target="_blank"}.
@@ -345,7 +347,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 >参考程序：
 
 
-# 第十九章 嵌入式篇·小系统的内存管理
+## 第十九章 嵌入式篇·小系统的内存管理
 
 >本章学习参考说明
 
@@ -355,7 +357,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 
 
-# 第二十章 嵌入式篇·片上裸程序的多任务机制
+## 第二十章 嵌入式篇·片上裸程序的多任务机制
 
 >本章学习参考说明
 
@@ -365,7 +367,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 
 
-# 第二十一章 嵌入式篇·实现应用于微型芯片中的miniprintf
+## 第二十一章 嵌入式篇·实现应用于微型芯片中的miniprintf
 
 >本章学习参考说明
 
@@ -375,7 +377,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 
 
-# 第二十二章 嵌入式篇·实现微小型系统里的简单内存分配与回收库
+## 第二十二章 嵌入式篇·实现微小型系统里的简单内存分配与回收库
 
 >本章学习参考说明
 
