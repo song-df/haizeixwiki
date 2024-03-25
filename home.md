@@ -1,8 +1,8 @@
 ---
 title: 海贼宝藏课程资料
-description: 一日海贼，终身海贼！
+description: 初航我带你，远航靠自己
 published: true
-date: 2024-03-25T06:00:34.870Z
+date: 2024-03-25T06:01:43.830Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T05:31:00.811Z
