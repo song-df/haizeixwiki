@@ -1,17 +1,18 @@
 ---
-title: B站合作课程
+title: B站合作-船票系列课程
 description: 
 published: true
-date: 2024-03-25T02:54:32.153Z
+date: 2024-03-25T06:32:58.542Z
 tags: b站
 editor: markdown
 dateCreated: 2024-02-25T05:37:26.506Z
 ---
 
-# 船票系列课程
 > 船票系列课程，是B站课堂联系海贼宝藏一起打造的计算机基础核心技术学习课程。
 [💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598)
 {.is-success}
+
+# 船票系列课程学习说明
 
 > 💗【初航我带你，远航靠自己】
 > 🙋‍♂️哈喽各位同学，👏欢迎登船
