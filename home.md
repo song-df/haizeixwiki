@@ -1,8 +1,8 @@
 ---
-title: 海贼宝藏
+title: 海贼宝藏课程资料
 description: 一日海贼，终身海贼！
 published: true
-date: 2024-03-08T04:38:53.083Z
+date: 2024-03-25T06:00:34.870Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T05:31:00.811Z
