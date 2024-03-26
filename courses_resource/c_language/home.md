@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-26T07:18:04.495Z
+date: 2024-03-26T08:41:04.071Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -352,6 +352,15 @@ dateCreated: 2024-03-01T15:16:58.351Z
 :two: [Arduino IDE 2 官方使用文档](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started-ide-v2){target="_blank"}
 :three:[Arduino 安装说明](/courses_resource/embed_tools/install_arduino)
 :four:[VSCode及相关插件](https://www.alipan.com/s/Cfjgrz9Fxrd){target="_blank"}
+
+>其他开发板管理器地址：
+```
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+http://dan.drown.org/stm32duino/package_STM32duino_index.json
+https://arduino.me/packages/esp32.json
+https://dl.espressif.com/dl/package_esp32_index.json
+https://espressif.github.io/arduino-esp32/package_esp32_index.json
+```
 
 >课程PPT：
 
