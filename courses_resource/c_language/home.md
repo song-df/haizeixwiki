@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-25T02:38:17.902Z
+date: 2024-03-26T05:02:05.828Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -348,8 +348,9 @@ dateCreated: 2024-03-01T15:16:58.351Z
 ## 第十八章 嵌入式篇·嵌入式中的C语言另一面
 
 >本章参考工具：
-:one: [Arduino IDE 2.3.2 官方下载链接](https://www.arduino.cc/en/software){target="_blank"}.
-:two: [VSCode及相关插件](https://www.alipan.com/s/Cfjgrz9Fxrd){target="_blank"}
+:one: [Arduino IDE 2.3.2 官方下载链接](https://www.arduino.cc/en/software){target="_blank"}
+:two: [Arduino IDE 2 官方使用文档](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started-ide-v2){target="_blank"}
+:three:[VSCode及相关插件](https://www.alipan.com/s/Cfjgrz9Fxrd){target="_blank"}
 
 >课程PPT：
 
