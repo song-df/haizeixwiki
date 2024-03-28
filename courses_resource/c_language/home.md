@@ -2,7 +2,11 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
+<<<<<<< HEAD
 date: 2024-03-26T08:41:04.071Z
+=======
+date: 2024-03-04T03:56:15.035Z
+>>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -67,6 +71,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 > ✅DevCpp 6.7.5 和Tabby的安装包:[百度网盘链接](https://pan.baidu.com/s/1771OHbtIEzwRyRJj09ruBw?pwd=3zuh){.is-info}
 
+<<<<<<< HEAD
 > 参考程序
 ```C
     //头文件，包含着实现printf函数的代码
@@ -79,6 +84,9 @@ dateCreated: 2024-03-01T15:16:58.351Z
     }
 ```
 ## 第二章 类型、运算符与表达式
+=======
+# 第二章 类型、运算符与表达式
+>>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 学习提要  
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
 > 2. 理解什么是类型，什么是变量;
@@ -118,8 +126,25 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 23. [ACM金牌带你零基础直达C语言精通-2.23-计算各位和:HZOJ-101--23.HZOJ-101.c](c_language_resource/part1/chapter02/code/23.HZOJ-101.c)
 > 24. [ACM金牌带你零基础直达C语言精通-2.24-注水问题:HZOJ-102--24.HZOJ-102.c](c_language_resource/part1/chapter02/code/24.HZOJ-102.c)
 
+> 课代表笔记  
+> [C语言笔记：类型、运算符与表达式](https://blog.csdn.net/qq_58240849/article/details/136563987?spm=1001.2014.3001.5502)
 
+
+<<<<<<< HEAD
 ## 第三章 控制流
+=======
+# 第三章 控制流
+> 学习提要
+> 1. ❗在学习过程中一定要跟着船长一起敲代码;
+> 2. 明白什么是条件表达式，并熟练掌握每个关系系运算符;
+> 3. 学会如何使用if-else语句和switch语句，并且熟练掌握;
+> 4. 视频3.10附加内容，搞明白为什么分支结构会降低程序的执行效率;
+> 5. 学会while和for语句，并实际自己尝试利用这些语句去实现一些简单逻辑和题目;
+> 6. 学习如何使用goto语句，然后实现课程中的每个模拟;
+> 7. 理解五种类型语句,一定要理解到循环和分支后面控制的是那条语句;
+> 8. 看完课程题目后，一定要自己再去尝试敲一遍，通过自己的思路完成题目;
+
+>>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-3-控制流](c_language_resource/part1/chapter03/pptx/c_language_chapter03.pdf)  
 
@@ -161,7 +186,22 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 35. [ACM金牌带你零基础直达C语言精通-3.26-循环-课后实战题:第三讲--35.HZOJ-142.c](c_language_resource/part1/chapter03/code/35.HZOJ-142.c)
 > 36. [ACM金牌带你零基础直达C语言精通-3.26-【补充】昨天和明天--36.HZOJ-119.c](c_language_resource/part1/chapter03/code/36.HZOJ-119.c)
 
+<<<<<<< HEAD
 ## 第四章 函数与程序结构
+=======
+> 课代表笔记  
+> [C语言笔记:控制流](https://blog.csdn.net/qq_58240849/article/details/136682648?spm=1001.2014.3001.5502)
+
+# 第四章 函数与程序结构
+> 学习提要
+> 1. ❗在学习过程中一定要跟着船长一起敲代码;
+> 2. 理解作用域的基本概念,定义一个变量，它的作用的区域在哪儿在看完课程后可以自己判断;
+> 3. 理解为什么程序设计需要函数，以及函数的定义和使用以及声明;
+> 4. 对于函数中的形参和实参的区分，以及理解函数的定义和讲解;
+> 5. ❗需要熟练掌握递归函数的技巧，但是对于课程中短时间去学会可能会很困难，所以需要通过训练;
+> 6. ❗变参函数的学习，以及主函数的参数了解，这两个内容是非常重要的; 
+
+>>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-4-函数与程序结构](c_language_resource/part1/chapter04/pptx/c_language_chapter04.pdf)
 > 2. [ACM金牌带你零基础直达C语言精通-4-20-【附加题】HZOJ-239-不规则的街道](c_language_resource/part1/chapter04/pptx/c_language_chapter04_20.pdf)
@@ -191,8 +231,28 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 22. [ACM金牌带你零基础直达C语言精通-4.19-HZOJ-237递归实现排列型枚举--22.HZOJ-237.cpp](c_language_resource/part1/chapter04/code/22.HZOJ-237.cpp)
 > 23. [ACM金牌带你零基础直达C语言精通-4.20-HZOJ-239不规则的街道--23.HZOJ-239.cpp](c_language_resource/part1/chapter04/code/23.HZOJ-239.cpp)
 
+> 课代表笔记  
+> [C语言笔记:函数与程序结构](https://blog.csdn.net/qq_58240849/article/details/136746434?spm=1001.2014.3001.5501)
 
+
+
+<<<<<<< HEAD
 ## 第五章 指针与数组
+=======
+# 第五章 指针与数组
+
+> 学习提要
+> 1. ❗在学习过程中一定要跟着船长一起敲代码;
+> 2. 看完课程，需要有地址的概念,以及对十六进制的理解;
+> 3. ❗熟练掌握数组的定义和使用,以及对数组的地址的理解;
+> 4. 对于多维数组的理解,理解后可以熟练的使用,以及多维数组对应下标对应的是那个元素,以及地址如何求;
+> 5. ❗对于指针的理解, p + 1, *p,以及指针变量的场景和用途,取值是根据什么来进行取值的,指针偏移是如何进行偏移的;
+> 6. 指针的等价形式,这个不用去死记硬背,一定要去理解记忆再加上把疑问带到代码中去验证;
+> 7. 函数的指针的理解和运用,以及明白函数指针的用途,并理解数组和指针之间的转化;
+> 8. 对于内存管理，malloc和calloc是重点内容，这是必须学会和理解的函数，以及理解底层原理是怎么样的;
+> 9. 课程后小项目和题目讲解，看一遍,跟着船长做一遍,再自己下来做一遍;
+
+>>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-5-指针与数组](c_language_resource/part1/chapter05/pptx/c_language_chapter05.pdf)
 
@@ -232,7 +292,26 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 33. [ACM金牌带你零基础直达C语言精通-5.29-【附加内容】快速排序--33.quick_sort.cpp](c_language_resource/part1/chapter05/code/33.quick_sort.cpp)
 > 34. [ACM金牌带你零基础直达C语言精通-5.31-小项目：从0实现 qsort 函数--34.my_qsort.c](c_language_resource/part1/chapter05/code/34.my_qsort.c)
 
+<<<<<<< HEAD
 ## 第六章 结构体与联合体
+=======
+> 课代表笔记  
+> [C语言笔记:指针与数组](https://blog.csdn.net/qq_58240849/article/details/136885165?spm=1001.2014.3001.5502)
+ 
+# 第六章 结构体与联合体
+
+> 学习提要
+> 1. ❗在学习过程中一定要跟着船长一起敲代码;
+> 2. 理解编译过程究竟在做什么，编程过程的几个步骤分别是干什么的;
+> 3. ❗理解#include头文件的工作原理，在后续的项目阶段会用到; 
+> 4. ❗理解#define宏定义的工作原理，以及#和##的工作原理，知道C语言中的内置宏，以及其作用;
+> 5. ❗理解#if的工作原理，#if的用法可能会在以后的工作环境中会用到;
+> 6. ❗学会利用结构体，结构体会在后续数据结构课程中常用，并理解结构体的内存对齐规则;
+> 7. 理解联合体的基本使用，以及内存是如何进行公用的;
+> 8. 学会如何使用枚举类型，在之后的编程中可以提高代码的阅读性;
+> 9. 了解位域的相关概念;
+
+>>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT 
 > 1. [ACM金牌带你零基础直达C语言精通-6-预处理命令与结构体](c_language_resource/part1/chapter06/pptx/c_language_chapter06.pdf)
 
@@ -268,7 +347,24 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 29. [ACM金牌带你零基础直达C语言精通-6.24-【附加内容】链表：代码演示--24.linklist.cpp](c_language_resource/part1/chapter06/code/24.linklist.cpp)
 > 30. [ACM金牌带你零基础直达C语言精通-6.25~6.26-实现一种有趣的链表结构--26.funny_linklist.c](c_language_resource/part1/chapter06/code/26.funny_linklist.c)
 
+<<<<<<< HEAD
 ## 第七章 重学输入输出
+=======
+> 课代表笔记  
+> [C语言笔记:预处理命令与结构体](https://blog.csdn.net/qq_58240849/article/details/136992781?spm=1001.2014.3001.5502)
+
+# 第七章 重学输入输出
+
+
+> 学习提要
+> 1. ❗在学习过程中一定要跟着船长一起敲代码;
+> 2. 理解3个标准流是如何和文件之间进行传输的,终端也是一个文件,在linux系统下一切皆文件;
+> 3. 理解3个标准流的缓存区的作用，以及如何利用缓存区进行输入输出;
+> 4. 学会使用fscanf和fprintf函数对标准流的窥探,学会两种方法进行对标准流的输出和输入的重定向;
+> 5. 理解scanf是如何进行读取数据的，然后在读取过程中发现问题时，去利用对缓存区的理解，然后进行对自己的代码进行Debug;
+> 6. 最后实现printf函数，跟着船长先敲一遍代码，然后自己再敲一遍代码，如果不理解的地方再回看视频，最后通过自己的想法再敲一遍代码进行实现;
+
+>>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-7-重学输入输出](c_language_resource/part1/chapter07/pptx/c_language_chapter07.pdf)
 
@@ -286,7 +382,14 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 11. [ACM金牌带你零基础直达C语言精通-7.6-实现 printf 函数：输出『hello world』--9.my_printf.c](c_language_resource/part1/chapter07/code/9.my_printf.c)
 > 12. [ACM金牌带你零基础直达C语言精通-7.6~7.9-实现 printf 函数：输出『hello world』--9.my_printf.c](c_language_resource/part1/chapter07/code/9.my_printf.c)
 
+<<<<<<< HEAD
 ## 第八章 文件操作
+=======
+> 课代表笔记  
+> [C语言笔记:重学输入和输出](https://blog.csdn.net/qq_58240849/article/details/137045706?spm=1001.2014.3001.5502)
+
+# 第八章 文件操作
+>>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-8-文件操作](c_language_resource/part1/chapter08/pptx/c_language_chapter08.pdf)
 
@@ -318,11 +421,23 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > ✅[欧拉计划国内镜像网站](https://pe-cn.github.io/problems/){.is-info}  
 > ✅[欧拉计划网站](https://projecteuler.net/){.is-info}
 
+<<<<<<< HEAD
 ## 第十章 编码能力·启航篇
+=======
+# 第十章 编码能力·启航篇
+> 学习提要
+> 1. ❗在学习过程中一定要跟着船长一起敲代码;
+> 2. 跟着船长敲一遍，自己再敲一遍不懂就看，最后单独靠自己实现一遍;
+> 3. 先理解解题过程，然后将解题过程转换为代码，如果解题过程都不清晰，那么代码也无法敲出来;
+> 4. 如果有自己的思路可以尝试区实现自己的思路;
+
+>>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-10.1~10.3-EP01:3或5的倍数](c_language_resource/part2/chapter10/pptx/c_language_chapter10_1.pdf)
 > 2. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数](c_language_resource/part2/chapter10/pptx/c_language_chapter10_2.pdf)
-
+> 3. [ACM金牌带你零基础直达C语言精通-10.8~10.10-EP04:最大回文乘积](c_language_resource/part2/chapter10/pptx/c_language_chapter10_3.pdf)
+> 4. [ACM金牌带你零基础直达C语言精通-10.11~10.13-EP06:平方和与和平法之差](c_language_resource/part2/chapter10/pptx/c_language_chapter10_4.pdf)
+> 5. [ACM金牌带你零基础直达C语言精通-10.14~10.15-EP30:各位数字的五次幂](c_language_resource/part2/chapter10/pptx/c_language_chapter10_5.pdf)
 
 > 参考程序
 > 1. [ACM金牌带你零基础直达C语言精通-10.1~10.3-EP01:3或5的倍数--EP01-1.c](c_language_resource/part2/chapter10/code/EP01-1.c)
@@ -330,17 +445,34 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 3. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数--EP02-1.c](c_language_resource/part2/chapter10/code/EP02-1.c)
 > 4. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数--EP02-2.c](c_language_resource/part2/chapter10/code/EP02-2.c)
 > 5. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数--EP02-3.c](c_language_resource/part2/chapter10/code/EP02-3.c)
+> 6. [ACM金牌带你零基础直达C语言精通-10.8~10.10-EP04:最大回文乘积--EP04-1.c](c_language_resource/part2/chapter10/code/EP04-1.c)
+> 7. [ACM金牌带你零基础直达C语言精通-10.8~10.10-EP04:最大回文乘积--EP04-2.c](c_language_resource/part2/chapter10/code/EP04-2.c)
+> 8. [ACM金牌带你零基础直达C语言精通-10.11~10.13-EP06:平方和与和平法之差--EP06.c](c_language_resource/part2/chapter10/code/EP06.c)
+> 9. [ACM金牌带你零基础直达C语言精通-10.11~10.13-EP06:平方和与和平法之差--EP06-2.c](c_language_resource/part2/chapter10/code/EP06-2.c)
+> 10. [ACM金牌带你零基础直达C语言精通-10.14~10.15-EP30:各位数字的五次幂--EP30.c](c_language_resource/part2/chapter10/code/EP30.c)
+
+> 课代表笔记  
+> 欧拉计划1-50题的题目解析和题目答案:[欧拉计划:EP01-50](https://blog.csdn.net/qq_58240849?spm=1000.2115.3001.5343)
 
 # Part3：实战之操作系统编程篇
 > 从零开始学习Linux开发，实战掌握文件操作、多进程编程，快速提升开发技能！{.is-success}
 ## 第十三章 操作系统篇·搭建Linux开发环境
 
 >本章学习参考说明
+- [1、打造系统编程环境](c_language_resource/part3/chapter13/1build_linux_env)
+- [2、验证环境是否符合要求](c_language_resource/part3/chapter13/2check_env)
+- [3、云主机的安全加固](c_language_resource/part3/chapter13/3ecs_securet)
+- [4、将自己的代码备份到Github](c_language_resource/part3/chapter13/4backup_code_to_github)
+{.link-list}
 
-- [1、打造系统编程环境](/courses_resource/c_language/c_language_resource/part3/1build_linux_env)
-- [2、验证环境是否符合要求](/courses_resource/c_language/c_language_resource/part3/2check_env)
-- [3、云主机的安全加固](/courses_resource/c_language/c_language_resource/part3/3ecs_securet)
-- [4、将自己的代码备份到Github](/courses_resource/c_language/c_language_resource/part3/4backup_code_to_github)
+# 第十四章 操作系统篇·操作系统基础知识
+
+> 授课PPT
+> 1. [14.1、什么是操作系统](c_language_resource/part3/chapter14/Operating_System_chapter014_1.pdf)
+> 2. [14.2、操作系统的运行机制、中断和系统调用](c_language_resource/part3/chapter14/Operating_System_chapter014_2.pdf)
+
+>本章学习参考说明
+- [1、实战：使用系统调用来实现scanf和printf](c_language_resource/part3/chapter14/Hands_on_Implementing_scanf_and_printf_using_system_calls.md)
 {.link-list}
 
 # Part4：实战之嵌入式编程篇
