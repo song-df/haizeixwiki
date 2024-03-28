@@ -1,12 +1,21 @@
+---
+title: 1build_linux_env
+description: 
+published: true
+date: 2024-03-12T08:13:17.340Z
+tags: 
+editor: markdown
+dateCreated: 2024-03-12T04:45:05.746Z
+---
+
 # 1、打造系统编程环境
 
 AI summary: 本文介绍了打造系统编程环境的重要性，推荐使用云主机进行学习，并提供了腾讯云和阿里云的购买链接。不建议使用虚拟机，而是利用云主机搭建各种服务和个人博客。
 
-[回到首页](https://www.notion.so/22960bcff7024287bda3c1f6dc3a46bc?pvs=21)
+[回到首页](/home)
 
 下一节:
-
-[2、验证环境是否符合要求](https://www.notion.so/2-c4c66a72af874bc4b6392f844d123aa1?pvs=21)
+[2、验证环境是否符合要求](/courses_resource/c_language/c_language_resource/part3/2check_env)
 
 ## 1.1 学习环境概述
 
@@ -22,10 +31,10 @@ AI summary: 本文介绍了打造系统编程环境的重要性，推荐使用�
 
 考虑到统一的学习环境和未来可能遇到的问题，我们强烈建议你购买并使用云主机进行学习。云主机可以为你提供一个纯正的Linux环境,并且易于维护和管理。
 
-> 点击👆🏻 [腾讯云优惠页面](https://curl.qcloud.com/nEpnHWTj)，购买新用户优惠主机：61云，99元，165元，199元不等
+> 点击👆🏻 [腾讯云优惠页面](https://curl.qcloud.com/nEpnHWTj){target="_blank"}，购买新用户优惠主机：61云，99元，165元，199元不等
 > 
 
-> 点击👆🏻 [阿里云优惠页面](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=qiird2gj)，购买新用户优惠主机：61元，99元，165元，199元不等
+> 点击👆🏻 [阿里云优惠页面](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=qiird2gj){target="_blank"}，购买新用户优惠主机：61元，99元，165元，199元不等
 > 
 
 **两家主流云平台都对新用户有优惠，建议不要领取免费主机浪费新用户优惠。**
@@ -36,7 +45,7 @@ AI summary: 本文介绍了打造系统编程环境的重要性，推荐使用�
 
 **参考文档：**
 
-[Linux云主机的购买与配置](https://www.notion.so/Linux-43572cd6237d48929ab7d805ef78882b?pvs=21) 
+[Linux云主机的购买与配置](/courses_resource/cloud_usage/home)
 
 ## 1.5 虚拟机的使用
 
@@ -46,6 +55,3 @@ AI summary: 本文介绍了打造系统编程环境的重要性，推荐使用�
 
 以下是船长基于云主机搭建的两个站点，你也可以基于云主机做很多酷炫的事情：
 
-[宿船长的主页](https://linux.wiki/)
-
-[Running Page](https://suyelu.github.io/running_page/)
