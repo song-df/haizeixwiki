@@ -2,15 +2,13 @@
 title: 2、验证环境是否符合要求
 description: 
 published: true
-date: 2024-03-28T14:53:04.557Z
+date: 2024-03-28T14:55:17.395Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-28T08:02:31.076Z
 ---
 
 > 验证环境是否符合要求，包括确认操作系统版本、主机用户确认、VIM功能和MAN手册的重要性。{.is-success}
-
-[回到首页](/courses_resource/home)
 
 
 > 不管是**云主机**还是**虚拟机**，需要首先连接到Ubuntu系统或者打开终端，并进行下面的操作。
