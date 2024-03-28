@@ -102,7 +102,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 24. [ACM金牌带你零基础直达C语言精通-2.24-注水问题:HZOJ-102--24.HZOJ-102.c](c_language_resource/part1/chapter02/code/24.HZOJ-102.c)
 
 > 课代表笔记  
-> [C语言笔记：类型、运算符与表达式](https://blog.csdn.net/qq_58240849/article/details/136563987?spm=1001.2014.3001.5502)
+> [C语言笔记：类型、运算符与表达式](https://blog.csdn.net/qq_58240849/article/details/136563987?spm=1001.2014.3001.5502){target='_blank'}
 
 
 # 第三章 控制流
@@ -158,7 +158,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 36. [ACM金牌带你零基础直达C语言精通-3.26-【补充】昨天和明天--36.HZOJ-119.c](c_language_resource/part1/chapter03/code/36.HZOJ-119.c)
 
 > 课代表笔记  
-> [C语言笔记:控制流](https://blog.csdn.net/qq_58240849/article/details/136682648?spm=1001.2014.3001.5502)
+> [C语言笔记:控制流](https://blog.csdn.net/qq_58240849/article/details/136682648?spm=1001.2014.3001.5502){target='_blank'}
 
 # 第四章 函数与程序结构
 > 学习提要
@@ -199,7 +199,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 23. [ACM金牌带你零基础直达C语言精通-4.20-HZOJ-239不规则的街道--23.HZOJ-239.cpp](c_language_resource/part1/chapter04/code/23.HZOJ-239.cpp)
 
 > 课代表笔记  
-> [C语言笔记:函数与程序结构](https://blog.csdn.net/qq_58240849/article/details/136746434?spm=1001.2014.3001.5501)
+> [C语言笔记:函数与程序结构](https://blog.csdn.net/qq_58240849/article/details/136746434?spm=1001.2014.3001.5501){target='_blank'}
 
 
 
@@ -256,7 +256,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 34. [ACM金牌带你零基础直达C语言精通-5.31-小项目：从0实现 qsort 函数--34.my_qsort.c](c_language_resource/part1/chapter05/code/34.my_qsort.c)
 
 > 课代表笔记  
-> [C语言笔记:指针与数组](https://blog.csdn.net/qq_58240849/article/details/136885165?spm=1001.2014.3001.5502)
+> [C语言笔记:指针与数组](https://blog.csdn.net/qq_58240849/article/details/136885165?spm=1001.2014.3001.5502){target='_blank'}
  
 # 第六章 结构体与联合体
 
@@ -307,7 +307,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 30. [ACM金牌带你零基础直达C语言精通-6.25~6.26-实现一种有趣的链表结构--26.funny_linklist.c](c_language_resource/part1/chapter06/code/26.funny_linklist.c)
 
 > 课代表笔记  
-> [C语言笔记:预处理命令与结构体](https://blog.csdn.net/qq_58240849/article/details/136992781?spm=1001.2014.3001.5502)
+> [C语言笔记:预处理命令与结构体](https://blog.csdn.net/qq_58240849/article/details/136992781?spm=1001.2014.3001.5502){target='_blank'}
 
 # 第七章 重学输入输出
 
@@ -338,7 +338,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 12. [ACM金牌带你零基础直达C语言精通-7.6~7.9-实现 printf 函数：输出『hello world』--9.my_printf.c](c_language_resource/part1/chapter07/code/9.my_printf.c)
 
 > 课代表笔记  
-> [C语言笔记:重学输入和输出](https://blog.csdn.net/qq_58240849/article/details/137045706?spm=1001.2014.3001.5502)
+> [C语言笔记:重学输入和输出](https://blog.csdn.net/qq_58240849/article/details/137045706?spm=1001.2014.3001.5502){target='_blank'}
 
 # 第八章 文件操作
 > 授课PPT
