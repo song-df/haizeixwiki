@@ -1,8 +1,8 @@
 ---
-title: 待发布课程
+title: HarmonyOS应用开发者基础认证
 description: 
 published: true
-date: 2024-03-28T10:11:29.402Z
+date: 2024-03-28T10:11:53.803Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-02T14:29:12.861Z
