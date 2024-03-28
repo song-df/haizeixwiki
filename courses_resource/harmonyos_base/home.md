@@ -2,7 +2,7 @@
 title: HarmonyOS应用开发者基础认证
 description: 
 published: true
-date: 2024-03-28T10:13:01.005Z
+date: 2024-03-28T13:59:03.465Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-02T14:29:12.861Z
@@ -33,13 +33,14 @@ dateCreated: 2024-03-02T14:29:12.861Z
 
 # 第1章 准备工作
 
-> [第1章 授课PPT](/)  
+> [第1章 授课PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter01/ppt/harmonyos_ch01.pdf)
+
 
 # 第2章 登录页面开发
 
->  [第2章 授课PPT](/)  
+>  [第2章 授课PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter02/ppt/harmonyos_ch02.pdf)  
 
->  [第2章 程序](/)  
+>  [第2章 程序 FunUnion_Backend-0.0.1-SNAPSHOT.jar](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter02/code/FunUnion_Backend-0.0.1-SNAPSHOT.jar)  
 
 
 # 第3章 注册页面开发
