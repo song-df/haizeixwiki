@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-28T14:05:52.728Z
+date: 2024-03-28T14:29:06.014Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -421,6 +421,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 
 # 第十五章 操作系统篇·实战·实现cp和ls命令
+> [作业：开发一个简易的天气查询命令行工具](/courses_resource/c_language/c_language_resource/part3/chapter15/c_ch15_homework)
 
 # 第十六章 操作系统篇·进程与多进程
 
