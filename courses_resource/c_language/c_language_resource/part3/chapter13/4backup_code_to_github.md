@@ -2,17 +2,14 @@
 title: 4、将自己的代码备份到Github
 description: 
 published: true
-date: 2024-03-28T14:37:06.707Z
+date: 2024-03-28T15:00:49.211Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-28T14:37:06.707Z
 ---
 
-# 4、将自己的代码备份在Github
 
-将自己的代码备份在Github的步骤包括创建GitHub账号并申请学生认证，创建空白仓库并将代码push到GitHub上，定期更新数据，以及在新系统上克隆数据或在不同机器上同步更新。
-
-[回到首页](/courses_resource/home.md)
+> 将自己的代码备份在Github的步骤包括创建GitHub账号并申请学生认证，创建空白仓库并将代码push到GitHub上，定期更新数据，以及在新系统上克隆数据或在不同机器上同步更新。{.is-success}
 
 1. 创建自己的GitHub账号
     1. 有条件使用学校的邮箱，并申请学生认证
