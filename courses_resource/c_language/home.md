@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-28T08:07:57.236Z
+date: 2024-03-28T14:01:58.522Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -419,6 +419,12 @@ dateCreated: 2024-03-01T15:16:58.351Z
 - [1、实战：使用系统调用来实现scanf和printf](c_language_resource/part3/chapter14/Hands_on_Implementing_scanf_and_printf_using_system_calls.md)
 {.link-list}
 
+
+# 第十五章 操作系统篇·实战·实现cp和ls命令
+
+# 第十六章 操作系统篇·进程与多进程
+
+# 第十七章 操作系统篇·实战·实现程序的编辑、编译与执行的自动化
 
 # 第十八章 嵌入式篇·嵌入式中的C语言另一面
 
