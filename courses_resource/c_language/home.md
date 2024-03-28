@@ -2,11 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-<<<<<<< HEAD
-date: 2024-03-26T08:41:04.071Z
-=======
 date: 2024-03-04T03:56:15.035Z
->>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -44,49 +40,28 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 > 有其他搞不明白的，可以找Bili姐：
 ![新bili姐.png](/images/新bili姐.png =200x)
-# Part1：C语言之应试篇
-> 零基础掌握C语言核心知识，打开编程世界之门，轻松搞定期末考试{.is-success}
-## 第一章 将C语言用起来
+
+# 第一章 将C语言用起来
 > 学习提要
-- 1. 学习课程时一定不要跳看课程，每节课都会有着不同的知识点。
-- 2. 配置学习环境的配置(必要)，推荐配置Linux环境。
-- 3. 学习Linux环境的使用和一些Linux环境中常用的命令。
-- 4. 需要熟练掌握VIM编辑器(在Linux环境)的使用。
-- 5. 知道[cppreference](https://en.cppreference.com/w/)参考网站，在后续的学习中知道如何查询。
-- 6. 对于编码规范，根据船长的代码规范来规范自己的编码习惯。
-{.grids-list}
+> 1. 学习课程时一定不要跳看课程，每节课都会有着不同的知识点。
+> 2. 配置学习环境的配置(必要)，推荐配置Linux环境。
+> 3. 学习Linux环境的使用和一些Linux环境中常用的命令。
+> 4. 需要熟练掌握VIM编辑器(在Linux环境)的使用。
+> 5. 知道[cppreference](https://en.cppreference.com/w/)参考网站，在后续的学习中知道如何查询。
+> 6. 对于编码规范，根据船长的代码规范来规范自己的编码习惯。
 
-
-> 授课PPT
-
- - [1.ACM金牌带你零基础直达C语言精通-1.1-课程导学](c_language_resource/part1/chapter01/pptx/c_language_chapter01_1.pdf)
- - [2.ACM金牌带你零基础直达C语言精通-1.2-学环境配置](c_language_resource/part1/chapter01/pptx/c_language_chapter01_2_12_14_15.pdf)
- - [3.ACM金牌带你零基础直达C语言精通-1.3-Linux环境配置:如何获取配置文档](c_language_resource/part1/chapter01/pptx/c_language_chapter01_3.pdf)
- - [4.ACM金牌带你零基础直达C语言精通-1.4-1.6-Linux环境配置:服务器购买-Linux环境配置:云主机链接](c_language_resource/part1/chapter01/pptx/c_language_chapter01_4to6.pdf) 
- - [5.ACM金牌带你零基础直达C语言精通-1.7-1.11-Linux环境配置:云主机的配置-Linux环境配置:vim的基本使用](c_language_resource/part1/chapter01/pptx/c_language_chapter01_7to11.pdf) 
- - [6.ACM金牌带你零基础直达C语言精通-1.13-百度+阿里:编码规范介绍](c_language_resource/part1/chapter01/pptx/c_language_chapter01_13(1).pdf) 
- - [7.ACM金牌带你零基础直达C语言精通-1.13-谷歌:编码规范介绍](c_language_resource/part1/chapter01/pptx/c_language_chapter01_13(2).pdf) 
- - [8.ACM金牌带你零基础直达C语言精通-1.14-将C语言用起来](c_language_resource/part1/chapter01/pptx/c_language_chapter01_14.pdf)   
-{.links-list}
-
+> 授课PPT  
+> 1. [ACM金牌带你零基础直达C语言精通-1.1-课程导学](c_language_resource/part1/chapter01/pptx/c_language_chapter01_1.pdf)
+> 2. [ACM金牌带你零基础直达C语言精通-1.2-学环境配置](c_language_resource/part1/chapter01/pptx/c_language_chapter01_2_12_14_15.pdf)
+> 3. [ACM金牌带你零基础直达C语言精通-1.3-Linux环境配置:如何获取配置文档](c_language_resource/part1/chapter01/pptx/c_language_chapter01_3.pdf)
+> 4. [ACM金牌带你零基础直达C语言精通-1.4-1.6-Linux环境配置:服务器购买-Linux环境配置:云主机链接](c_language_resource/part1/chapter01/pptx/c_language_chapter01_4to6.pdf) 
+> 5. [ACM金牌带你零基础直达C语言精通-1.7-1.11-Linux环境配置:云主机的配置-Linux环境配置:vim的基本使用](c_language_resource/part1/chapter01/pptx/c_language_chapter01_7to11.pdf) 
+> 6. [ACM金牌带你零基础直达C语言精通-1.13-百度+阿里:编码规范介绍](c_language_resource/part1/chapter01/pptx/c_language_chapter01_13(1).pdf) 
+> 7. [ACM金牌带你零基础直达C语言精通-1.13-谷歌:编码规范介绍](c_language_resource/part1/chapter01/pptx/c_language_chapter01_13(2).pdf) 
+> 8. [ACM金牌带你零基础直达C语言精通-1.14-将C语言用起来](c_language_resource/part1/chapter01/pptx/c_language_chapter01_14.pdf)   
 > ✅DevCpp 6.7.5 和Tabby的安装包:[百度网盘链接](https://pan.baidu.com/s/1771OHbtIEzwRyRJj09ruBw?pwd=3zuh){.is-info}
 
-<<<<<<< HEAD
-> 参考程序
-```C
-    //头文件，包含着实现printf函数的代码
-    #include <stdio.h>
-    //C语言的主要结构主函数,对于解读会在后续的课程解读
-    int main(){
-        //printf函数，将""中的内容打印在终端上
-        printf("hello world");
-        return 0;
-    }
-```
-## 第二章 类型、运算符与表达式
-=======
 # 第二章 类型、运算符与表达式
->>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 学习提要  
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
 > 2. 理解什么是类型，什么是变量;
@@ -130,9 +105,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > [C语言笔记：类型、运算符与表达式](https://blog.csdn.net/qq_58240849/article/details/136563987?spm=1001.2014.3001.5502)
 
 
-<<<<<<< HEAD
-## 第三章 控制流
-=======
 # 第三章 控制流
 > 学习提要
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
@@ -144,7 +116,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 7. 理解五种类型语句,一定要理解到循环和分支后面控制的是那条语句;
 > 8. 看完课程题目后，一定要自己再去尝试敲一遍，通过自己的思路完成题目;
 
->>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-3-控制流](c_language_resource/part1/chapter03/pptx/c_language_chapter03.pdf)  
 
@@ -186,9 +157,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 35. [ACM金牌带你零基础直达C语言精通-3.26-循环-课后实战题:第三讲--35.HZOJ-142.c](c_language_resource/part1/chapter03/code/35.HZOJ-142.c)
 > 36. [ACM金牌带你零基础直达C语言精通-3.26-【补充】昨天和明天--36.HZOJ-119.c](c_language_resource/part1/chapter03/code/36.HZOJ-119.c)
 
-<<<<<<< HEAD
-## 第四章 函数与程序结构
-=======
 > 课代表笔记  
 > [C语言笔记:控制流](https://blog.csdn.net/qq_58240849/article/details/136682648?spm=1001.2014.3001.5502)
 
@@ -201,7 +169,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 5. ❗需要熟练掌握递归函数的技巧，但是对于课程中短时间去学会可能会很困难，所以需要通过训练;
 > 6. ❗变参函数的学习，以及主函数的参数了解，这两个内容是非常重要的; 
 
->>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-4-函数与程序结构](c_language_resource/part1/chapter04/pptx/c_language_chapter04.pdf)
 > 2. [ACM金牌带你零基础直达C语言精通-4-20-【附加题】HZOJ-239-不规则的街道](c_language_resource/part1/chapter04/pptx/c_language_chapter04_20.pdf)
@@ -236,9 +203,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 
 
-<<<<<<< HEAD
-## 第五章 指针与数组
-=======
 # 第五章 指针与数组
 
 > 学习提要
@@ -252,7 +216,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 8. 对于内存管理，malloc和calloc是重点内容，这是必须学会和理解的函数，以及理解底层原理是怎么样的;
 > 9. 课程后小项目和题目讲解，看一遍,跟着船长做一遍,再自己下来做一遍;
 
->>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-5-指针与数组](c_language_resource/part1/chapter05/pptx/c_language_chapter05.pdf)
 
@@ -292,9 +255,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 33. [ACM金牌带你零基础直达C语言精通-5.29-【附加内容】快速排序--33.quick_sort.cpp](c_language_resource/part1/chapter05/code/33.quick_sort.cpp)
 > 34. [ACM金牌带你零基础直达C语言精通-5.31-小项目：从0实现 qsort 函数--34.my_qsort.c](c_language_resource/part1/chapter05/code/34.my_qsort.c)
 
-<<<<<<< HEAD
-## 第六章 结构体与联合体
-=======
 > 课代表笔记  
 > [C语言笔记:指针与数组](https://blog.csdn.net/qq_58240849/article/details/136885165?spm=1001.2014.3001.5502)
  
@@ -311,7 +271,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 8. 学会如何使用枚举类型，在之后的编程中可以提高代码的阅读性;
 > 9. 了解位域的相关概念;
 
->>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT 
 > 1. [ACM金牌带你零基础直达C语言精通-6-预处理命令与结构体](c_language_resource/part1/chapter06/pptx/c_language_chapter06.pdf)
 
@@ -347,9 +306,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 29. [ACM金牌带你零基础直达C语言精通-6.24-【附加内容】链表：代码演示--24.linklist.cpp](c_language_resource/part1/chapter06/code/24.linklist.cpp)
 > 30. [ACM金牌带你零基础直达C语言精通-6.25~6.26-实现一种有趣的链表结构--26.funny_linklist.c](c_language_resource/part1/chapter06/code/26.funny_linklist.c)
 
-<<<<<<< HEAD
-## 第七章 重学输入输出
-=======
 > 课代表笔记  
 > [C语言笔记:预处理命令与结构体](https://blog.csdn.net/qq_58240849/article/details/136992781?spm=1001.2014.3001.5502)
 
@@ -364,7 +320,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 5. 理解scanf是如何进行读取数据的，然后在读取过程中发现问题时，去利用对缓存区的理解，然后进行对自己的代码进行Debug;
 > 6. 最后实现printf函数，跟着船长先敲一遍代码，然后自己再敲一遍代码，如果不理解的地方再回看视频，最后通过自己的想法再敲一遍代码进行实现;
 
->>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-7-重学输入输出](c_language_resource/part1/chapter07/pptx/c_language_chapter07.pdf)
 
@@ -382,14 +337,10 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 11. [ACM金牌带你零基础直达C语言精通-7.6-实现 printf 函数：输出『hello world』--9.my_printf.c](c_language_resource/part1/chapter07/code/9.my_printf.c)
 > 12. [ACM金牌带你零基础直达C语言精通-7.6~7.9-实现 printf 函数：输出『hello world』--9.my_printf.c](c_language_resource/part1/chapter07/code/9.my_printf.c)
 
-<<<<<<< HEAD
-## 第八章 文件操作
-=======
 > 课代表笔记  
 > [C语言笔记:重学输入和输出](https://blog.csdn.net/qq_58240849/article/details/137045706?spm=1001.2014.3001.5502)
 
 # 第八章 文件操作
->>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-8-文件操作](c_language_resource/part1/chapter08/pptx/c_language_chapter08.pdf)
 
@@ -411,9 +362,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 15. [ACM金牌带你零基础直达C语言精通-8.20-编程技巧：注册函数--14.attribute.c](c_language_resource/part1/chapter08/code/14.attribute.c)
 > 16. [ACM金牌带你零基础直达C语言精通-8.19~8.30-项目文件--13.project](c_language_resource/part1/chapter08/code/13.project)
 
-# Part2：程序设计进阶篇
-> 独家欧拉计划50题，开启编码之旅，掌握编程本质。从初识到蜕变，全面提升编码能力！{.is-success}
-## 第九章 初识编码能力
+# 第九章 初识编码能力
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-9.1-什么是编码能力](c_language_resource/part2/chapter09/pptx/c_language_chapter09_1.pdf)
 > 2. [ACM金牌带你零基础直达C语言精通-9.2-欧拉计划介绍](c_language_resource/part2/chapter09/pptx/c_language_chapter09_2.pdf)
@@ -421,9 +370,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > ✅[欧拉计划国内镜像网站](https://pe-cn.github.io/problems/){.is-info}  
 > ✅[欧拉计划网站](https://projecteuler.net/){.is-info}
 
-<<<<<<< HEAD
-## 第十章 编码能力·启航篇
-=======
 # 第十章 编码能力·启航篇
 > 学习提要
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
@@ -431,7 +377,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 3. 先理解解题过程，然后将解题过程转换为代码，如果解题过程都不清晰，那么代码也无法敲出来;
 > 4. 如果有自己的思路可以尝试区实现自己的思路;
 
->>>>>>> 5f2355f31620b9e25b01070bb326c5b061eeaca8
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-10.1~10.3-EP01:3或5的倍数](c_language_resource/part2/chapter10/pptx/c_language_chapter10_1.pdf)
 > 2. [ACM金牌带你零基础直达C语言精通-10.4~10.7-EP02:偶斐波那契数](c_language_resource/part2/chapter10/pptx/c_language_chapter10_2.pdf)
@@ -454,9 +399,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 课代表笔记  
 > 欧拉计划1-50题的题目解析和题目答案:[欧拉计划:EP01-50](https://blog.csdn.net/qq_58240849?spm=1000.2115.3001.5343)
 
-# Part3：实战之操作系统编程篇
-> 从零开始学习Linux开发，实战掌握文件操作、多进程编程，快速提升开发技能！{.is-success}
-## 第十三章 操作系统篇·搭建Linux开发环境
+# 第十三章 操作系统篇·搭建Linux开发环境
 
 >本章学习参考说明
 - [1、打造系统编程环境](c_language_resource/part3/chapter13/1build_linux_env)
@@ -475,31 +418,19 @@ dateCreated: 2024-03-01T15:16:58.351Z
 - [1、实战：使用系统调用来实现scanf和printf](c_language_resource/part3/chapter14/Hands_on_Implementing_scanf_and_printf_using_system_calls.md)
 {.link-list}
 
-# Part4：实战之嵌入式编程篇
-> 探索嵌入式编程技巧，从c语言基础到嵌入式设备中简单多任务编程模式处理，掌握C语言硬件控制方式，开启万物互联世界的编程之旅！{.is-success}
-## 第十八章 嵌入式篇·嵌入式中的C语言另一面
+
+# 第十八章 嵌入式篇·嵌入式中的C语言另一面
 
 >本章参考工具：
-:one: [Arduino IDE 2.3.2 官方下载链接](https://www.arduino.cc/en/software){target="_blank"}
-:two: [Arduino IDE 2 官方使用文档](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started-ide-v2){target="_blank"}
-:three:[Arduino 安装说明](/courses_resource/embed_tools/install_arduino)
-:four:[VSCode及相关插件](https://www.alipan.com/s/Cfjgrz9Fxrd){target="_blank"}
-
->其他开发板管理器地址：
-```
-http://arduino.esp8266.com/stable/package_esp8266com_index.json
-http://dan.drown.org/stm32duino/package_STM32duino_index.json
-https://arduino.me/packages/esp32.json
-https://dl.espressif.com/dl/package_esp32_index.json
-https://espressif.github.io/arduino-esp32/package_esp32_index.json
-```
+:one: [Arduino IDE 2.3.2 官方下载链接](https://www.arduino.cc/en/software){target="_blank"}.
+:two: [VSCode及相关插件](https://www.alipan.com/s/Cfjgrz9Fxrd){target="_blank"}
 
 >课程PPT：
 
 >参考程序：
 
 
-## 第十九章 嵌入式篇·小系统的内存管理
+# 第十九章 嵌入式篇·小系统的内存管理
 
 >本章学习参考说明
 
@@ -509,7 +440,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 
 
-## 第二十章 嵌入式篇·片上裸程序的多任务机制
+# 第二十章 嵌入式篇·片上裸程序的多任务机制
 
 >本章学习参考说明
 
@@ -519,7 +450,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 
 
-## 第二十一章 嵌入式篇·实现应用于微型芯片中的miniprintf
+# 第二十一章 嵌入式篇·实现应用于微型芯片中的miniprintf
 
 >本章学习参考说明
 
@@ -529,7 +460,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 
 
-## 第二十二章 嵌入式篇·实现微小型系统里的简单内存分配与回收库
+# 第二十二章 嵌入式篇·实现微小型系统里的简单内存分配与回收库
 
 >本章学习参考说明
 
