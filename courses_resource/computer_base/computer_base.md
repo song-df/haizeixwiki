@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-03-29T02:13:45.147Z
+date: 2024-03-29T02:20:13.283Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -131,9 +131,9 @@ dateCreated: 2024-02-25T06:09:59.515Z
         **常见原因：未设置云主机登录密码、用户名错误、云主机系统并不是Ubuntu**
         **解决方案：仔细文档中每个步骤的checklist，未设置密码则重置密码，用户名仅为ubuntu或者root，如果系统非ubuntu，则重置系统**
 
-> 授课PPT：[本章真题](/courses_resource/)
+> 授课PPT：[本章真题](computer_base_resource/Part2/chapter05/计算机基础_第五章_真题.pdf)
 ## 第六章：操作系统基础知识
-> 授课PPT：[操作系统基础知识PPT]()
+> 授课PPT：[操作系统基础知识PPT](computer_base_resource/Part2/chapter06/计算机基础_第六章PPT.pdf)
 
 ## 第七章：文件与IO
 ## 第八章：进程
