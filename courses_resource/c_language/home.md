@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-29T12:43:44.867Z
+date: 2024-03-29T13:16:31.538Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -446,8 +446,12 @@ https://dl.espressif.com/dl/package_esp32_index.json
 https://espressif.github.io/arduino-esp32/package_esp32_index.json
 ```
 
->ESP WROOM-32 模块参数：
+>MacOS下ESP32 WROOM-32 模块参数：
 ![ESP WROOM-32 模块参数](c_language_resource/part4/chapter18/images/ESP32WROOM-32param.jpg)
+
+>Windows10下ESP32 WROOM-32 模块参数：
+![ESP WROOM-32 模块参数](c_language_resource/part4/chapter18/images/ESP32WROOM-32param_w.jpg)
+
 
 >课程PPT：
 
