@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-03-29T09:22:32.047Z
+date: 2024-03-29T12:43:44.867Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -434,7 +434,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 :two: [Arduino IDE 2 官方使用文档](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started-ide-v2){target="_blank"}
 :three:[Arduino 安装说明](/courses_resource/embed_tools/install_arduino)
 :four:[在线开发板Wokwi](https://www.wokwi.com){target="_blank"}
-:five:[windows平台ESP WROOM-32开发板驱动]()
+:five:[windows平台ESP WROOM-32开发板驱动](c_language_resource/part4/chapter18/tools/CH341SER_V3.7.EXE.zip)
 :six:[VSCode及相关插件](https://www.alipan.com/s/Cfjgrz9Fxrd){target="_blank"}
 
 >其他开发板管理器地址：
@@ -447,7 +447,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 ```
 
 >ESP WROOM-32 模块参数：
-
+![ESP WROOM-32 模块参数](c_language_resource/part4/chapter18/images/ESP32WROOM-32param.jpg)
 
 >课程PPT：
 
