@@ -2,7 +2,7 @@
 title: 云主机如何连接Github仓库
 description: 
 published: true
-date: 2024-04-02T15:08:11.346Z
+date: 2024-04-02T15:09:26.617Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-02T14:18:40.162Z
@@ -96,7 +96,8 @@ git config --global user.name "Your Name"
 
 ![img](images/12.png =800x)
 
-"Your Name"你github的用户名![img](images/13.png =800x)
+"Your Name"你github的用户名
+![img](images/13.png =800x)
 
 ### 6.最后将github仓库克隆到本地：
 
