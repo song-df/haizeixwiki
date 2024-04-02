@@ -341,6 +341,14 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > [C语言笔记:重学输入和输出](https://blog.csdn.net/qq_58240849/article/details/137045706?spm=1001.2014.3001.5502){target='_blank'}
 
 # 第八章 文件操作
+
+> 学习提要
+> 1. ❗在学习过程中一定要跟着船长一起敲代码;
+> 2. 进行本章学习之前，一定要有前面章节基础支持的支撑，如果对于本章的位置那些地方吃力那么就需要回顾之前的内容;
+> 3. 进行本章学习尽量在一段时间进行连续性的学习;
+> 4. 理解程序是如何进行对文件进行操作;
+
+
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-8-文件操作](c_language_resource/part1/chapter08/pptx/c_language_chapter08.pdf)
 
@@ -383,6 +391,10 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 3. [ACM金牌带你零基础直达C语言精通-10.8~10.10-EP04:最大回文乘积](c_language_resource/part2/chapter10/pptx/c_language_chapter10_3.pdf)
 > 4. [ACM金牌带你零基础直达C语言精通-10.11~10.13-EP06:平方和与和平法之差](c_language_resource/part2/chapter10/pptx/c_language_chapter10_4.pdf)
 > 5. [ACM金牌带你零基础直达C语言精通-10.14~10.15-EP30:各位数字的五次幂](c_language_resource/part2/chapter10/pptx/c_language_chapter10_5.pdf)
+> 6. [ACM金牌带你零基础直达C语言精通-10.16~10.17-EP34:数字阶乘和](c_language_resource/part2/chapter10/pptx/c_language_chapter10_6.pdf)
+> 7. [ACM金牌带你零基础直达C语言精通-10.18~10.19-EP36:双进制回文数](c_language_resource/part2/chapter10/pptx/c_language_chapter10_7.pdf)
+> 8. [ACM金牌带你零基础直达C语言精通-10.20~10.21-EP28:螺旋数阵对角线](c_language_resource/part2/chapter10/pptx/c_language_chapter10_8.pdf)
+> 9. [ACM金牌带你零基础直达C语言精通-10.22~10.23-EP03:最大质因数](c_language_resource/part2/chapter10/pptx/c_language_chapter10_9.pdf)
 
 > 参考程序
 > 1. [ACM金牌带你零基础直达C语言精通-10.1~10.3-EP01:3或5的倍数--EP01-1.c](c_language_resource/part2/chapter10/code/EP01-1.c)
@@ -395,19 +407,30 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 8. [ACM金牌带你零基础直达C语言精通-10.11~10.13-EP06:平方和与和平法之差--EP06.c](c_language_resource/part2/chapter10/code/EP06.c)
 > 9. [ACM金牌带你零基础直达C语言精通-10.11~10.13-EP06:平方和与和平法之差--EP06-2.c](c_language_resource/part2/chapter10/code/EP06-2.c)
 > 10. [ACM金牌带你零基础直达C语言精通-10.14~10.15-EP30:各位数字的五次幂--EP30.c](c_language_resource/part2/chapter10/code/EP30.c)
+> 11. [ACM金牌带你零基础直达C语言精通-10.16~10.17-EP34:数字阶乘和--EP34.c](c_language_resource/part2/chapter10/code/EP34.c)
+> 12. [ACM金牌带你零基础直达C语言精通-10.18~10.19-EP36:双进制回文数--EP36.c](c_language_resource/part2/chapter10/code/EP36.c)
+> 13. [ACM金牌带你零基础直达C语言精通-10.20~10.21-EP28:螺旋数对角阵--EP28.c](c_language_resource/part2/chapter10/code/EP28.c)
+> 14. [ACM金牌带你零基础直达C语言精通-10.22~10.23-EP03:最大质因子--EP03.c](c_language_resource/part2/chapter10/code/EP03.c)
 
 > 课代表笔记  
-> 欧拉计划1-50题的题目解析和题目答案:[欧拉计划:EP01-50](https://blog.csdn.net/qq_58240849?spm=1000.2115.3001.5343)
+> 欧拉计划1-50题的题目解析和题目答案:[欧拉计划:EP01-50](https://blog.csdn.net/qq_58240849?spm=1000.2115.3001.5343){target='_blank'}
+
+# 第十一章 编码能力·突破篇
+
+> 授课PPT
+> 1. [ACM金牌带你零基础直达C语言精通-11.1~11.2-EP05:最小公倍数](c_language_resource/part2/chapter11/pptx/c_language_chapter11_1.pdf)
+
+> 参考程序
+> 1. [ACM金牌带你零基础直达C语言精通-11.1~11.2-EP05:最小公倍数--EP05.c](c_language_resource/part2/chapter11/code/EP05.c)
 
 # 第十三章 操作系统篇·搭建Linux开发环境
 
 >本章学习参考说明
-
 - [1、打造系统编程环境](/courses_resource/c_language/c_language_resource/part3/chapter13/1build_linux_env.md)
 - [2、验证环境是否符合要求](/courses_resource/c_language/c_language_resource/part3/chapter13/2check_env.md)
 - [3、云主机的安全加固](/courses_resource/c_language/c_language_resource/part3/chapter13/3ecs_securet.md)
 - [4、将自己的代码备份到Github](/courses_resource/c_language/c_language_resource/part3/chapter13/4backup_code_to_github.md)
-{.link-list}
+  {.link-list}
 
 # 第十四章 操作系统篇·操作系统基础知识
 
@@ -418,7 +441,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 >本章学习参考说明
 - [1、实战：使用系统调用来实现scanf和printf](c_language_resource/part3/chapter14/Hands_on_Implementing_scanf_and_printf_using_system_calls.md)
 {.link-list}
-
 
 # 第十五章 操作系统篇·实战·实现cp和ls命令
 > [作业：开发一个简易的天气查询命令行工具](/courses_resource/c_language/c_language_resource/part3/chapter15/c_ch15_homework)
