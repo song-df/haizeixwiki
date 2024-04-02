@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-04-02T05:17:44.605Z
+date: 2024-04-02T05:18:16.448Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -479,6 +479,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 >参考程序：
 - [18.1.HelloWorld.ino](c_language_resource/part4/chapter18/code/18.1.HelloWorld)
+{.links-list}
 
 # 第十九章 嵌入式篇·小系统的内存管理
 
