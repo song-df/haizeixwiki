@@ -2,7 +2,7 @@
 title: 云主机如何连接Github仓库
 description: 
 published: true
-date: 2024-04-02T15:09:26.617Z
+date: 2024-04-02T15:09:59.173Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-02T14:18:40.162Z
@@ -56,7 +56,8 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 cat .ssh/id_rsa.pub
 ```
 
-然后可以得到很长的字符串，复制这一长串![img](images/5.png =800x)
+然后可以得到很长的字符串，复制这一长串：
+![img](images/5.png =800x)
 
 ### 3. 然后将ssh公钥添加到Github上
 
