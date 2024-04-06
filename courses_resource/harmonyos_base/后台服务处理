@@ -1,0 +1,19 @@
+环境准备：
+
+1、搭建java环境，推荐jdk11，并配置环境变量
+
+2、安装MySQL数据库，建议数据库root密码为：Snkey123
+
+
+
+后台使用步骤：
+
+1、将数据库sql文件导入到自己的mysql数据库中。
+
+2、修改自己的mysql数据库密码为 Snkey123，因为后台项目jar包里面的数据库连接密码为Snkey123。
+
+3、运行后台项目。
+
+```
+java -jar FunUnion_Backend-0.0.1-SNAPSHOT.jar
+```
