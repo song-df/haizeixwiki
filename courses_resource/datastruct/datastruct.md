@@ -83,7 +83,8 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 2. 如果对于在实现代码过程中，对于设计代码的点有疑问，而不是思想上的逻辑问题，可以先去看船长的C语言基础部分讲解;
 > 3. 学习数据结构，先明白你想要实现什么东西，然后构思设计，最后在写代码;
 > 4. 对于顺序表和链表的代码实现，先跟着船长一起敲一遍，然后自己下来敲两遍;
-
+> 5.  
+ 
 > 授课PPT
 > 1. [ACM大牛带你玩转算法与数据结构-2-顺序表与链表](ds_resource/part01/chapter03/pptx/datastruct_chapter02.pdf)
 
@@ -396,6 +397,9 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 授课PPT
 > 1. [ACM大牛带你玩转算法与数据结构-15-字符串匹配算法(上)](ds_resource/part02/chapter16/pptx/datastruct_chapter15_1.pdf)
 > 2. [ACM大牛带你玩转算法与数据结构-15-字符串匹配算法(下)](ds_resource/part02/chapter16/pptx/datastruct_chapter15_2.pdf)
+> 3. [ACM大牛带你玩转算法与数据结构-15.28-HZOJ-278：循环的字符串](ds_resource/part02/chapter16/pptx/datastruct_chapter15_3.pdf)
+> 4. [ACM大牛带你玩转算法与数据结构-15.29-HZOJ-279：项链的主人](ds_resource/part02/chapter16/pptx/datastruct_chapter15_4.pdf)
+> 5. [ACM大牛带你玩转算法与数据结构-15.31-HZOJ-282：最大异或对](ds_resource/part02/chapter16/pptx/datastruct_chapter15_5.pdf)
 
 >参考程序
 > 1. [ACM大牛带你玩转算法与数据结构-15.2-Brute Force 算法讲解--1.brute_force.cpp](ds_resource/part02/chapter16/code/1.brute_force.cpp)
