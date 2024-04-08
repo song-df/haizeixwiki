@@ -54,6 +54,13 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 4. [ACM大牛带你玩转算法与数据结构-0.4~0.5-为什么要学复杂度的分析方法](ds_resource/part01/chapter01/pptx/datastruct_chapter00_4.pdf)
 
 # 第一章 递归函数设计技巧
+
+> 学习提要 
+> 1. ❗在学习过程中一定要跟着船长一起敲代码;
+> 2.  先理解数学归纳法，然后对于程序中是如何利用数学归纳法的;
+> 3.  理解递归的过程，尝试用数学归纳法去推到递归的过程;
+> 4.  对于递归函数，多加练习后就可以熟练掌握了。
+
 > 授课PPT
 > 1. [ACM大牛带你玩转算法与数据结构-1.1-递归函数的设计技巧](ds_resource/part01/chapter02/pptx/datastruct_chapter01_1.pdf)
 > 2. [ACM大牛带你玩转算法与数据结构-1.7-【题目讲解】HZOJ-239-不规则的街道](ds_resource/part01/chapter02/pptx/datastruct_chapter01_2.pdf)
@@ -66,7 +73,17 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 5. [ACM大牛带你玩转算法与数据结构-1.6-【题目讲解】HZOJ-237-递归实现排列型枚举--5.HZOJ-237.cpp](ds_resource/part01/chapter02/code/5.HZOJ-237.cpp)
 > 6. [ACM大牛带你玩转算法与数据结构-1.7-【题目讲解】HZOJ-239-不规则的街道--6.HZOJ-239.cpp](ds_resource/part01/chapter02/code/6.HZOJ-239.cpp)
 
+> 课代表笔记:
+> [数据结构与算法笔记:递归函数使用技巧](https://blog.csdn.net/qq_58240849/article/details/137464500?spm=1001.2014.3001.5502){target='_blank'}
+
 # 第二章 顺序表与链表
+
+> 学习提要
+> 1. ❗在学习过程中一定要跟着船长一起敲代码;
+> 2. 如果对于在实现代码过程中，对于设计代码的点有疑问，而不是思想上的逻辑问题，可以先去看船长的C语言基础部分讲解;
+> 3. 学习数据结构，先明白你想要实现什么东西，然后构思设计，最后在写代码;
+> 4. 对于顺序表和链表的代码实现，先跟着船长一起敲一遍，然后自己下来敲两遍;
+
 > 授课PPT
 > 1. [ACM大牛带你玩转算法与数据结构-2-顺序表与链表](ds_resource/part01/chapter03/pptx/datastruct_chapter02.pdf)
 
@@ -81,6 +98,10 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 8. [ACM大牛带你玩转算法与数据结构-2.13-删除链表倒数第 N 个节点：Leetcode-19--8.leetcode-19.cpp](ds_resource/part01/chapter03/code/8.leetcode-19.cpp)
 > 9. [ACM大牛带你玩转算法与数据结构-2.14-环形链表Ⅱ：Leetcode-142--9.leetcode-142.cpp](ds_resource/part01/chapter03/code/9.leetcode-142.cpp)
 > 10. [ACM大牛带你玩转算法与数据结构-2.15-反转链表Ⅱ：Leetcode-92--9.leetcode-92.cpp](ds_resource/part01/chapter03/code/10.leetcode-92.cpp)
+
+> 课代表笔记
+> [数据结构——顺序表](ttps://blog.csdn.net/qq_58240849/article/details/137464500?spm=1001.2014.3001.5502){target='_blank'}
+> [数据结构——链表](){target='_blank'}
 
 # 第三章 栈和队列
 > 授课PPT
@@ -384,4 +405,19 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 5. [ACM大牛带你玩转算法与数据结构-15.12-Rabin-Karp 算法：单模匹配-代码演示--5.RabinKarp.cpp](ds_resource/part02/chapter16/code/5.RabinKarp.cpp)
 > 6. [ACM大牛带你玩转算法与数据结构-15.13-Rabin-Karp 算法：多模匹配-代码演示--6.RabinKarp_mult.cpp](ds_resource/part02/chapter16/code/6.RabinKarp_mult.cpp)
 > 7. [ACM大牛带你玩转算法与数据结构-15.15-Shift-and 算法：代码演示--7.shift_and.cpp](ds_resource/part02/chapter16/code/7.shift_and.cpp)
+> 8. [ACM大牛带你玩转算法与数据结构-15.18-Trie 字典树：代码演示--8.trie.cpp](ds_resource/part02/chapter16/code/8.trie.cpp)
+> 9. [ACM大牛带你玩转算法与数据结构-15.19-双数组字典树：代码演示--9.double_array_trie.cpp](ds_resource/part02/chapter16/code/9.double_array_trie.cpp)
+> 10. [ACM大牛带你玩转算法与数据结构-15.22-可持久化字典树：代码演示--10.trie.cpp](ds_resource/part02/chapter16/code/10.trie.cpp)
+> 11. [ACM大牛带你玩转算法与数据结构-15.24-AC自动机：代码演示--11.ac.cpp](ds_resource/part02/chapter16/code/11.ac.cpp)
+> 12. [ACM大牛带你玩转算法与数据结构-15.25-AC自动机：线索化优化--12.ac_op.cpp](ds_resource/part02/chapter16/code/12.ac_op.cpp)
+> 13. [ACM大牛带你玩转算法与数据结构-15.26-【模板】AC自动机（简单版）：P3808--13.P3808.cpp](ds_resource/part02/chapter16/code/13.P3808.cpp)
+> 14. [ACM大牛带你玩转算法与数据结构-15.27-【模板】AC自动机（加强版）：P3796--14.P3796.cpp](ds_resource/part02/chapter16/code/14.P3796.cpp)
+> 15. [ACM大牛带你玩转算法与数据结构-15.28-HZOJ-278：循环的字符串--15.HZOJ-278.cpp](ds_resource/part02/chapter16/code/15.HZOJ-278.cpp)
+> 16. [ACM大牛带你玩转算法与数据结构-15.29-HZOJ-279：项链的主人--16.HZOJ-279.cpp](ds_resource/part02/chapter16/code/16.HZOJ-279.cpp)
+> 17. [ACM大牛带你玩转算法与数据结构-15.30-HZOJ-281：前缀统计--17.HZOJ-281.cpp](ds_resource/part02/chapter16/code/17.HZOJ-281.cpp)
+> 18. [ACM大牛带你玩转算法与数据结构-15.31-HZOJ-282：最大异或对--18.HZOJ-282.cpp](ds_resource/part02/chapter16/code/18.HZOJ-282.cpp)
+> 19. [ACM大牛带你玩转算法与数据结构-15.32-HZOJ-283：拨号--19.HZOJ-283.cpp](ds_resource/part02/chapter16/code/19.HZOJ-283.cpp)
+> 20. [ACM大牛带你玩转算法与数据结构-15.33-P3370：【模板】字符串哈希--20.P3370.cpp](ds_resource/part02/chapter16/code/20.P3370.cpp)
+> 21. [ACM大牛带你玩转算法与数据结构-15.36-P1470：最长前缀--22.P1470.cpp](ds_resource/part02/chapter16/code/22.P1470.cpp)
+> 22. [ACM大牛带你玩转算法与数据结构-15.37-P8306：【模板】字典树--23.P8306.cpp](ds_resource/part02/chapter16/code/23.P8306.cpp)
 
