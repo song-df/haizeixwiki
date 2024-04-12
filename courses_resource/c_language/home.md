@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-04-10T02:59:35.975Z
+date: 2024-04-12T07:33:33.307Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -458,6 +458,8 @@ dateCreated: 2024-03-01T15:16:58.351Z
 :four:[在线开发板Wokwi](https://www.wokwi.com){target="_blank"}
 :five:[windows平台ESP WROOM-32开发板驱动](c_language_resource/part4/chapter18/tools/CH341SER_V3.7.EXE.zip)
 :six:[VSCode及相关插件](https://www.alipan.com/s/Cfjgrz9Fxrd){target="_blank"}
+:seven:[ESP32模块使用手册：esp32-wroom-32_datasheet_cn.pdf](/courses_resource/c_language/c_language_resource/part4/chapter18/tools/esp32-wroom-32_datasheet_cn.pdf)
+
 
 >其他开发板管理器地址：
 ```
