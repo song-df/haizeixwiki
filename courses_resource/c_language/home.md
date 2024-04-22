@@ -347,6 +347,9 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 2. 进行本章学习之前，一定要有前面章节基础支持的支撑，如果对于本章的位置那些地方吃力那么就需要回顾之前的内容;
 > 3. 进行本章学习尽量在一段时间进行连续性的学习;
 > 4. 理解程序是如何进行对文件进行操作;
+> 5. 学会对学生管理系统的两种优化的方式，并理解优化的过程是优化的什么地方;
+> 6. 对于用程序做项目，最重要的是写代码前的思路分析，然后再是程序设计，只要思路清晰，一定可以找到对应的代码进行设计;
+> 7. 对于该项目完成后，可以后续的进行自己对于该项目的优化和改进。
 
 
 > 授课PPT
@@ -369,6 +372,9 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 14. [ACM金牌带你零基础直达C语言精通-8.18-编程技巧：界面切换流程--12.user_interface.c](c_language_resource/part1/chapter08/code/12.user_interface.c)
 > 15. [ACM金牌带你零基础直达C语言精通-8.20-编程技巧：注册函数--14.attribute.c](c_language_resource/part1/chapter08/code/14.attribute.c)
 > 16. [ACM金牌带你零基础直达C语言精通-8.19~8.30-项目文件--13.project](c_language_resource/part1/chapter08/code/13.project)
+
+> 课代表笔记
+> [C语言笔记:文件操作](https://blog.csdn.net/qq_58240849/article/details/137114939?spm=1001.2014.3001.5502){target='_blank'}
 
 # 第九章 初识编码能力
 > 授课PPT
@@ -419,13 +425,24 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-11.1~11.2-EP05:最小公倍数](c_language_resource/part2/chapter11/pptx/c_language_chapter11_1.pdf)
+> 2. [ACM金牌带你零基础直达C语言精通-11.3-EP10：质数求和](c_language_resource/part2/chapter11/pptx/c_language_chapter11_2.pdf)
+> 3. [ACM金牌带你零基础直达C语言精通-11.4~11.5-EP35：圆周素数](c_language_resource/part2/chapter11/pptx/c_language_chapter11_3.pdf)
+> 4. [ACM金牌带你零基础直达C语言精通-11.6~11.7-EP37：可截素数](c_language_resource/part2/chapter11/pptx/c_language_chapter11_4.pdf)
+> 5. [ACM金牌带你零基础直达C语言精通-11.8~11.9-EP46：哥德巴赫的另一个猜想](c_language_resource/part2/chapter11/pptx/c_language_chapter11_5.pdf)
+> 6. [ACM金牌带你零基础直达C语言精通-11.10~11.11-EP08：连续数字最大乘积](c_language_resource/part2/chapter11/pptx/c_language_chapter11_6.pdf)
 
 > 参考程序
 > 1. [ACM金牌带你零基础直达C语言精通-11.1~11.2-EP05:最小公倍数--EP05.c](c_language_resource/part2/chapter11/code/EP05.c)
+> 2. [ACM金牌带你零基础直达C语言精通-11.3-EP10：质数求和-EP10.c](c_language_resource/part2/chapter11/code/EP10.c)
+> 3. [ACM金牌带你零基础直达C语言精通-11.4~11.5-EP35：圆周素数-EP35.c](c_language_resource/part2/chapter11/code/EP35.c)
+> 4. [ACM金牌带你零基础直达C语言精通-11.6~11.7-EP37：可截素数-EP37.c](c_language_resource/part2/chapter11/code/EP37.c)
+> 5. [ACM金牌带你零基础直达C语言精通-11.8~11.9-EP46：哥德巴赫的另一个猜想-EP46.c](c_language_resource/part2/chapter11/code/EP46.c)
+> 6. [ACM金牌带你零基础直达C语言精通-11.10~11.11-EP08：连续数字最大乘积-EP08.h](c_language_resource/part2/chapter11/code/EP08.h)
+> 7. [ACM金牌带你零基础直达C语言精通-11.10~11.11-EP08：连续数字最大乘积-EP08.c](c_language_resource/part2/chapter11/code/EP08.c)
+
 
 
 # 第十二章 编码能力·蜕变篇
-
 
 # 第十三章 操作系统篇·搭建Linux开发环境
 
@@ -490,6 +507,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 >参考程序：
 - [18.1.HelloWorld.ino](c_language_resource/part4/chapter18/code/18.1.HelloWorld)
 {.links-list}
+
 
 # 第十九章 嵌入式篇·小系统的内存管理
 
