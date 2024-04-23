@@ -2,12 +2,11 @@
 title: HarmonyOS应用开发者基础认证
 description: 
 published: true
-date: 2024-04-03T03:18:20.592Z
+date: 2024-04-23T01:54:52.257Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-02T14:29:12.861Z
 ---
-
 
 > :one: 本课程属于船说系列课程之一，现只对船票学员开放学习，不支持单独购买
 > :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598){target="_blank"}
@@ -38,20 +37,32 @@ dateCreated: 2024-03-02T14:29:12.861Z
 
 # 第2章 登录页面开发
 
->  [第2章 授课PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter02/ppt/harmonyos_ch02.pdf)  
+>  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter02/ppt/harmonyos_ch02.pdf)  
 
 
 > 想和老师使用相同的测试后台，可以看看：[测试后台搭建说明](/courses_resource/harmonyos_base/后台服务处理.md)
 
 > 后台服务jar包 [FunUnion_Backend-0.0.1-SNAPSHOT.jar](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter02/code/FunUnion_Backend-0.0.1-SNAPSHOT.jar)  
 > 后台服务数据库 [dump-fununion-202403281735.sql](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter02/code/dump-fununion-202403281735.sql)  
+> 本章参考程序 [FunUnion2.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter02/code/FunUnion2.zip)  
 
 
 
 # 第3章 注册页面开发
+>  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter03/ppt/harmonyos_ch03.pdf)  
+> 本章参考程序 [FunUnion3.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter03/code/FunUnion3.zip)  
+
 
 # 第4章 引导页面开发
+>  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter04/ppt/harmonyos_ch04.pdf)  
+> 本章参考程序 [FunUnion3.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter04/code/FunUnion4.zip)  
+
 
 # 第5章 主页开发
+>  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter05/ppt/harmonyos_ch05.pdf)  
+> 本章参考程序 [FunUnion3.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter03/code/FunUnion5.zip)  
+
 
 # 第6章 内容详情页开发
+>  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter06/ppt/harmonyos_ch06.pdf)  
+> 本章参考程序 [FunUnion3.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter06/code/FunUnion6.zip)  
