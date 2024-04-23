@@ -2,7 +2,7 @@
 title: HarmonyOS应用开发者基础认证
 description: 
 published: true
-date: 2024-04-23T01:57:36.534Z
+date: 2024-04-23T01:59:45.760Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-02T14:29:12.861Z
@@ -49,20 +49,20 @@ dateCreated: 2024-03-02T14:29:12.861Z
 
 
 # 第3章 注册页面开发
->  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter03/ppt/第三章 注册页面开发.pdf)  
+>  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter03/harmonyos_ch03.pdf)  
 > 本章参考程序 [FunUnion3.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter03/code/FunUnion3.zip)  
 
 
 # 第4章 引导页面开发
->  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter04/ppt/第四章 引导页面开发 .pdf)  
+>  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter04/ppt/harmonyos_ch04.pdf)  
 > 本章参考程序 [FunUnion3.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter04/code/FunUnion4.zip)  
 
 
 # 第5章 主页开发
->  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter05/ppt/第五章 主页面开发 .pdf)  
+>  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter05/ppt/harmonyos_ch05.pdf)  
 > 本章参考程序 [FunUnion3.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter03/code/FunUnion5.zip)  
 
 
 # 第6章 内容详情页开发
->  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter06/ppt/第六章 详情页面开发 .pdf)  
+>  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter06/ppt/harmonyos_ch06.pdf)  
 > 本章参考程序 [FunUnion3.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter06/code/FunUnion6.zip)  
