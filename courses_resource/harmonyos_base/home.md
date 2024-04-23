@@ -2,7 +2,7 @@
 title: HarmonyOS应用开发者基础认证
 description: 
 published: true
-date: 2024-04-23T01:59:45.760Z
+date: 2024-04-23T02:03:02.434Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-02T14:29:12.861Z
@@ -55,14 +55,14 @@ dateCreated: 2024-03-02T14:29:12.861Z
 
 # 第4章 引导页面开发
 >  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter04/ppt/harmonyos_ch04.pdf)  
-> 本章参考程序 [FunUnion3.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter04/code/FunUnion4.zip)  
+> 本章参考程序 [FunUnion4.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter04/code/FunUnion4.zip)  
 
 
 # 第5章 主页开发
 >  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter05/ppt/harmonyos_ch05.pdf)  
-> 本章参考程序 [FunUnion3.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter03/code/FunUnion5.zip)  
+> 本章参考程序 [FunUnion5.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter03/code/FunUnion5.zip)  
 
 
 # 第6章 内容详情页开发
 >  [本章PPT](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter06/ppt/harmonyos_ch06.pdf)  
-> 本章参考程序 [FunUnion3.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter06/code/FunUnion6.zip)  
+> 本章参考程序 [FunUnion6.zip](/courses_resource/harmonyos_base/HarmonyOS_resource/chapter06/code/FunUnion6.zip)  
