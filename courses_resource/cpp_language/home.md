@@ -48,10 +48,35 @@ dateCreated: 2024-03-02T14:03:08.619Z
 
 # 第0章：从C++为什么难学开始讲起
 
-# 第1章：从C到C++
 > 授课PPT
+> 1. [课程导学.pdf](cpp_language_resource/part1/chapter00/pptx/cpp_language_chapter00_1.pdf)
+> 2. [阻碍你学好C++的那些事.pdf](cpp_language_resource/part1/chapter00/pptx/cpp_language_chapter00_2.pdf)
+> 3. [回答:C++为什么难学.pdf](cpp_language_resource/part1/chapter00/pptx/cpp_language_chapter00_3.pdf)
+> 4. [揭秘:船说中的C++学习方法.pdf](cpp_language_resource/part1/chapter00/pptx/cpp_language_chapter00_4.pdf)
+
+# 第1章：从C到C++
+
+> 授课PPT
+> 1. [第一章:从C到C++.pdf](cpp_language_resource/part1/chapter01/pptx/cpp_language_chapter01_1.pdf)
+> 2. [Google_C++编码规范中文版.pdf](cpp_language_resource/part1/chapter01/pptx/cpp_language_chapter01_2.pdf)
+> 3. [C++编码规范.pdf](cpp_language_resource/part1/chapter01/pptx/cpp_language_chapter01_3.pdf)
 
 > 参考程序
+> 1. [1.header.cpp](cpp_language_resource/part1/chapter01/code/1.header.cpp)
+> 2. [2.namespace.cpp](cpp_language_resource/part1/chapter01/code/2.namespace.cpp)
+> 3. [3.swap.cpp](cpp_language_resource/part1/chapter01/code/3.swap.cpp)
+> 4. [4.cout.cpp](cpp_language_resource/part1/chapter01/code/4.cout.cpp)
+> 5. [5.cin.cpp](cpp_language_resource/part1/chapter01/code/5.cin.cpp)
+> 6. [6.cout_any_type.cpp](cpp_language_resource/part1/chapter01/code/6.cout_any_type.cpp)
+> 7. [7.string.cpp](cpp_language_resource/part1/chapter01/code/7.string.cpp)
+> 8. [8.HZOJ-166.cpp](cpp_language_resource/part1/chapter01/code/8.HZOJ-166.cpp)
+> 9. [9.HZOJ-167.cpp](cpp_language_resource/part1/chapter01/code/9.HZOJ-167.cpp)
+> 10. [10.HZOJ-170.cpp](cpp_language_resource/part1/chapter01/code/10.HZOJ-170.cpp)
+> 11. [11.map.cpp](cpp_language_resource/part1/chapter01/code/11.map.cpp)
+> 12. [12.HZOJ-218.cpp](cpp_language_resource/part1/chapter01/code/12.HZOJ-218.cpp)
+> 13. [13.HZOJ-172.cpp](cpp_language_resource/part1/chapter01/code/13.HZOJ-172.cpp)
+> 14. [14.BigInt.cpp](cpp_language_resource/part1/chapter01/code/14.BigInt.cpp)
+> 15. [15.function.cpp](cpp_language_resource/part1/chapter01/code/15.function.cpp)
 
 # 第2章：封装
 > 授课PPT
