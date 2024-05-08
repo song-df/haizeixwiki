@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-05-08T04:19:53.576Z
+date: 2024-05-08T06:08:25.495Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -139,7 +139,7 @@ dateCreated: 2024-02-25T06:09:59.515Z
 > 授课PPT：[7.1文件](computer_base_resource/Part2/chapter07/7.1文件.pdf)
 > 授课PPT：[7.2文件及磁盘真题](computer_base_resource/Part2/chapter07/7.2文件及磁盘真题.pdf)
 
-> 演示程序：[7.3参考代码](computer_base_resource/Part2/chapter07/7.3参考代码.md)
+> 演示程序：[7.3参考代码](computer_base_resource/Part2/chapter07/demo_code7.3.md)
 
 
 ## 第八章：进程
