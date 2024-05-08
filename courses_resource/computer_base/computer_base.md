@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-03-29T02:20:13.283Z
+date: 2024-05-08T04:18:02.371Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -136,6 +136,11 @@ dateCreated: 2024-02-25T06:09:59.515Z
 > 授课PPT：[操作系统基础知识PPT](computer_base_resource/Part2/chapter06/计算机基础_第六章PPT.pdf)
 
 ## 第七章：文件与IO
+> 授课PPT：[7.1文件](computer_base_resource/Part2/chapter07/7.1文件.pdf)
+> 授课PPT：[7.2文件及磁盘真题](computer_base_resource/Part2/chapter07/7.2 文件及磁盘真题.pdf)
+> 演示程序：[7.3参考代码](computer_base_resource/Part2/chapter07/7.3 参考代码.md)
+
+
 ## 第八章：进程
 ## 第九章：内存
 ## 第十章：线程与并发
