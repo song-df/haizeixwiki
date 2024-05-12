@@ -1,14 +1,12 @@
-<!--
-title: 18.6.ledctrl_index
-description: 
-published: true
-date: 2024-05-12T07:32:41.488Z
-tags: 
-editor: code
-dateCreated: 2024-05-12T07:32:41.488Z
--->
+#include <WiFi.h>
+#include <ESPAsyncWebServer.h>
 
-<!DOCTYPE HTML><html>
+#define SSID  "Xiaomi_Jack_2.4G"
+#define PASSWD  "135792460"
+
+AsyncWebServer server(80);//http server port
+
+const char index_html[] PROGMEM = R"rawliteral(<!DOCTYPE HTML><html>
 <head>
 <style>
   <style>
@@ -83,7 +81,7 @@ function toggleLED() {
       }
     }
   };
-  
+
   // 发送LED控制请求到服务器端
   var ledState = document.querySelector("button").innerText === "Toggle LED" ? 1 : 0;
   xhttp.open("POST", "/led", true);
@@ -91,4 +89,44 @@ function toggleLED() {
   xhttp.send("state=" + ledState);
 }
 </script>
-</html>
+</html>)rawliteral";
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(115200);
+  WiFi.begin(SSID,PASSWD);
+  delay(500);
+  // Serial.println(WiFi.status());
+  // if(WL_CONNECTED == WiFi.status())
+  //   Serial.println("wifi connect success!");
+  // else
+  //   Serial.println("wifi connect failure!");
+  while(WiFi.status() != WL_CONNECTED){
+    //Serial.println(WiFi.status());
+    delay(300);
+    Serial.print(".");
+  }
+  Serial.print("\nIP:");
+  Serial.println(WiFi.localIP());
+
+  server.on("/",HTTP_GET,[](AsyncWebServerRequest* request){
+    request->send_P(200,"text/html",index_html);
+  });//注册了根服务函数
+  server.on("/led",[](AsyncWebServerRequest* request){
+    Serial.println("led");
+    if(request->hasParam("state",true)){
+      int ledState = request->getParam("state",true)->value().toInt();
+      Serial.print("LEDState:");
+      Serial.println(ledState);
+    }
+    request->send(200,"text/plain","LED State Changed!");
+  });
+
+  server.begin();
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
