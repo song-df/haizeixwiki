@@ -1,5 +1,6 @@
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
+#include "led.h"
 
 #define SSID  "Xiaomi_Jack_2.4G"
 #define PASSWD  "135792460"
@@ -94,6 +95,7 @@ function toggleLED() {
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(115200);
+  led_init();
   WiFi.begin(SSID,PASSWD);
   delay(500);
   // Serial.println(WiFi.status());
@@ -118,6 +120,7 @@ void setup() {
       int ledState = request->getParam("state",true)->value().toInt();
       Serial.print("LEDState:");
       Serial.println(ledState);
+      led_ctrl((bool)ledState);
     }
     request->send(200,"text/plain","LED State Changed!");
   });
