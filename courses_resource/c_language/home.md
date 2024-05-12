@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-05-12T10:36:07.226Z
+date: 2024-05-12T10:37:20.607Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -501,8 +501,6 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 > 硬件模块购买与技术支持微信：
 ![新bili姐.png](/images/junlang.jpg =200x)
 {.is-success}
-
->课程PPT：
 
 >参考程序：
 - [18.1.HelloWorld.ino](c_language_resource/part4/chapter18/code/18.1.HelloWorld)
