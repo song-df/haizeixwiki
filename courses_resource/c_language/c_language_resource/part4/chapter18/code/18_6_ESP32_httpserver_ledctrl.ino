@@ -105,7 +105,7 @@ void setup() {
   //   Serial.println("wifi connect failure!");
   while(WiFi.status() != WL_CONNECTED){
     //Serial.println(WiFi.status());
-    delay(300);
+    delay(1000);
     Serial.print(".");
   }
   Serial.print("\nIP:");
@@ -115,12 +115,12 @@ void setup() {
     request->send_P(200,"text/html",index_html);
   });//注册了根服务函数
   server.on("/led",[](AsyncWebServerRequest* request){
-    Serial.println("led");
     if(request->hasParam("state",true)){
+      
       int ledState = request->getParam("state",true)->value().toInt();
       Serial.print("LEDState:");
       Serial.println(ledState);
-      led_ctrl((bool)ledState);
+      led_ctrl(ledState);
     }
     request->send(200,"text/plain","LED State Changed!");
   });
