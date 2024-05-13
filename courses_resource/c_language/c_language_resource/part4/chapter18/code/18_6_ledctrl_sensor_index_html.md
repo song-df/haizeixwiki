@@ -2,7 +2,7 @@
 title: 18.6.ledctrl_sensor_index_html
 description: 
 published: true
-date: 2024-05-12T14:02:43.918Z
+date: 2024-05-13T02:45:37.694Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T14:01:51.112Z
@@ -109,6 +109,6 @@ function fetchSensorData() {
     xhttp.open("GET", "/sensor", true);
     xhttp.send();
   }
-setInterval(fetchSensorData, 1000);  // 每1000毫秒（1秒）请求一次数据
+setInterval(fetchSensorData, 3000);  // 每3000毫秒（3秒）请求一次数据
 </script>
 </html>
