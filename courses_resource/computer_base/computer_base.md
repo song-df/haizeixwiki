@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-05-08T06:08:25.495Z
+date: 2024-05-13T03:10:57.955Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -53,8 +53,10 @@ dateCreated: 2024-02-25T06:09:59.515Z
 - [10、船说：计算机基础-总结](computer_base_resource/Part1/chapter01/computer_base_chapter01_last.pdf)
 {.grid-list}
 
-> 课程中使用的ARM汇编模拟器安装包: [VisUAL2 for Windows, MacOS and Linux Download](https://scc416.github.io/Visual2-doc/download)
-{.is-info}
+> 课程中使用的ARM汇编模拟器安装包: 
+- [VisUAL2 for Windows, MacOS and Linux Download](https://scc416.github.io/Visual2-doc/download)
+- [Digital Logic Sim](https://sebastian.itch.io/digital-logic-sim){target=_blank}
+{.links-list}
 
 
 
