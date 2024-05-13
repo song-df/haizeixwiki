@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-05-13T03:11:41.438Z
+date: 2024-05-13T04:38:00.535Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -56,6 +56,8 @@ dateCreated: 2024-02-25T06:09:59.515Z
 > 课程中使用的模拟工具: 
 - [VisUAL2 for Windows, MacOS and Linux Download](https://scc416.github.io/Visual2-doc/download)
 - [Digital Logic Sim](https://sebastian.itch.io/digital-logic-sim){target=_blank}
+- [Digital Logic Sim2](https://limeinc.itch.io/digital-logic-sim2){target=_blank}
+
 {.links-list}
 
 
