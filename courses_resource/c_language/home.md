@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-05-13T02:48:04.293Z
+date: 2024-05-13T07:59:35.751Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -514,7 +514,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 - [18.6.led.cpp](c_language_resource/part4/chapter18/code/led.cpp)
 - [18.6.led.h](c_language_resource/part4/chapter18/code/led.h)
 - [18.7.ESP32_httpserver_ledctrl_sensor.ino](c_language_resource/part4/chapter18/code/18.7.ESP32_httpserver_ledctrl_sensor.ino)
-- [18.7.ledctrl_sensor_index.html](c_language_resource/part4/chapter18/code/18.7.ledctrl_sensor_index_html.md)
+- [18.7.ledctrl_sensor_index.html](c_language_resource/part4/chapter18/code/18_7_ledctrl_sensor_index_html.md)
 # 第十九章 嵌入式篇·小系统的内存管理
 
 >本章学习参考说明
