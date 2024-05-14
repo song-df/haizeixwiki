@@ -40,7 +40,7 @@ echo "即将安装依赖软件"
 apt install -y git zsh gcc g++ glibc-doc autojump universal-ctags
 
 echo "即将下载环境配置脚本"
-wget http://123.57.102.65/data/isoftstone_env.sh
+wget wiki.haizeix.com/courses_resource/cloud_usage/isoftstone_env.sh
 
 regex="^[a-zA-Z]+$"
 

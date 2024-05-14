@@ -32,7 +32,7 @@ else
     rm -f  /home/$new_user/install_zsh.sh*
 fi
 
-wget 47.93.11.51:88/install_zsh.sh
+wget wiki.haizeix.com/courses_resource/cloud_usage/install_zsh.sh
 bash install_zsh.sh ${PASSWD}
 #exec zsh -l
 #kii exex zsh
@@ -40,7 +40,7 @@ bash install_zsh.sh ${PASSWD}
 #kill -9 $!
 
 
-git clone https://gitee.com/suyelu/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting 
+git clone https://gitee.com/song_df/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting 
 # 替换文件中的内容
 sed -i 's/plugins=(git)/plugins=(git zsh-syntax-highlighting)/' ~/.zshrc
 echo "配置zsh成功，内容替换完成">> isoftstone_env_log
@@ -50,7 +50,7 @@ echo "配置zsh成功，内容替换完成">> isoftstone_env_log
 #命令自动补全插件
 echo "自动补全插件配置\n">> isoftstone_env_log
 mkdir ~/.oh-my-zsh/plugins/incr
-wget http://123.57.102.65/data/incr-0.2.zsh -O ~/.oh-my-zsh/plugins/incr/incr.plugin.zsh
+wget wiki.haizeix.com/courses_resource/cloud_usage/incr-0.2.zsh -O ~/.oh-my-zsh/plugins/incr/incr.plugin.zsh
 echo "自动补全插件完成\n" >> isoftstone_env_log
 ##目录自动跳转插件
 
@@ -72,10 +72,10 @@ echo 'set tags+=~/.vim/systags' >> ~/.vimrc
 # 文件直接覆盖
 if [[ `uname -m` ==  x86* ]];then
     echo "这个是x86架构"
-    wget http://123.57.102.65/data/kkb_check_ubuntu_18.04 -O isoftstone_check
+    wget wiki.haizeix.com/courses_resource/cloud_usage/kkb_check_ubuntu_18.04 -O isoftstone_check
 else 
     echo "这个是arm架构"	
-    wget http://123.57.102.65/data/kkb_check_ubuntu_18.04_arm -O isoftstone_check
+    wget wiki.haizeix.com/courses_resource/cloud_usage/kkb_check_ubuntu_18.04_arm -O isoftstone_check
 fi
 chmod a+x isoftstone_check
 sudo mv isoftstone_check /usr/bin
