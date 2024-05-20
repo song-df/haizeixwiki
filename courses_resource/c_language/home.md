@@ -425,20 +425,40 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-11.1~11.2-EP05:最小公倍数](c_language_resource/part2/chapter11/pptx/c_language_chapter11_1.pdf)
-> 2. [ACM金牌带你零基础直达C语言精通-11.3-EP10：质数求和](c_language_resource/part2/chapter11/pptx/c_language_chapter11_2.pdf)
-> 3. [ACM金牌带你零基础直达C语言精通-11.4~11.5-EP35：圆周素数](c_language_resource/part2/chapter11/pptx/c_language_chapter11_3.pdf)
-> 4. [ACM金牌带你零基础直达C语言精通-11.6~11.7-EP37：可截素数](c_language_resource/part2/chapter11/pptx/c_language_chapter11_4.pdf)
-> 5. [ACM金牌带你零基础直达C语言精通-11.8~11.9-EP46：哥德巴赫的另一个猜想](c_language_resource/part2/chapter11/pptx/c_language_chapter11_5.pdf)
-> 6. [ACM金牌带你零基础直达C语言精通-11.10~11.11-EP08：连续数字最大乘积](c_language_resource/part2/chapter11/pptx/c_language_chapter11_6.pdf)
+> 2. [ACM金牌带你零基础直达C语言精通-11.3~11.11-EP07:第10001个质数](c_language_resource/part2/chapter11/pptx/c_language_chapter11_9.pdf)
+> 3. [ACM金牌带你零基础直达C语言精通-11.12-EP10：质数求和](c_language_resource/part2/chapter11/pptx/c_language_chapter11_2.pdf)
+> 4. [ACM金牌带你零基础直达C语言精通-11.13~11.14-EP35：圆周素数](c_language_resource/part2/chapter11/pptx/c_language_chapter11_3.pdf)
+> 5. [ACM金牌带你零基础直达C语言精通-11.15~11.16-EP37：可截素数](c_language_resource/part2/chapter11/pptx/c_language_chapter11_4.pdf)
+> 6. [ACM金牌带你零基础直达C语言精通-11.17~11.18-EP46：哥德巴赫的另一个猜想](c_language_resource/part2/chapter11/pptx/c_language_chapter11_5.pdf)
+> 7. [ACM金牌带你零基础直达C语言精通-11.19~11.20-EP08：连续数字最大乘积](c_language_resource/part2/chapter11/pptx/c_language_chapter11_6.pdf)
+> 8. [ACM金牌带你零基础直达C语言精通-11.21~11.22-EP11：方阵中的最大乘积](c_language_resource/part2/chapter11/pptx/c_language_chapter11_8.pdf)
+> 9. [ACM金牌带你零基础直达C语言精通-11.23~11.26-EP14：最长考拉兹序列](c_language_resource/part2/chapter11/pptx/c_language_chapter11_10.pdf)
+> 10. [ACM金牌带你零基础直达C语言精通-11.27~11.28-EP17：【整数英文表达的字母计数】](c_language_resource/part2/chapter11/pptx/c_language_chapter11_11.pdf)
+> 11. [ACM金牌带你零基础直达C语言精通-11.29~11.30-EP32：【全数字乘积】](c_language_resource/part2/chapter11/pptx/c_language_chapter11_12.pdf)
+> 12. [ACM金牌带你零基础直达C语言精通-11.31~11.32-EP33：【消去数字分数】](c_language_resource/part2/chapter11/pptx/c_language_chapter11_13.pdf)
+> 13. [ACM金牌带你零基础直达C语言精通-11.33~11.34-EP38：【全数字倍数】](c_language_resource/part2/chapter11/pptx/c_language_chapter11_14.pdf)
 
 > 参考程序
 > 1. [ACM金牌带你零基础直达C语言精通-11.1~11.2-EP05:最小公倍数--EP05.c](c_language_resource/part2/chapter11/code/EP05.c)
-> 2. [ACM金牌带你零基础直达C语言精通-11.3-EP10：质数求和-EP10.c](c_language_resource/part2/chapter11/code/EP10.c)
-> 3. [ACM金牌带你零基础直达C语言精通-11.4~11.5-EP35：圆周素数-EP35.c](c_language_resource/part2/chapter11/code/EP35.c)
-> 4. [ACM金牌带你零基础直达C语言精通-11.6~11.7-EP37：可截素数-EP37.c](c_language_resource/part2/chapter11/code/EP37.c)
-> 5. [ACM金牌带你零基础直达C语言精通-11.8~11.9-EP46：哥德巴赫的另一个猜想-EP46.c](c_language_resource/part2/chapter11/code/EP46.c)
-> 6. [ACM金牌带你零基础直达C语言精通-11.10~11.11-EP08：连续数字最大乘积-EP08.h](c_language_resource/part2/chapter11/code/EP08.h)
-> 7. [ACM金牌带你零基础直达C语言精通-11.10~11.11-EP08：连续数字最大乘积-EP08.c](c_language_resource/part2/chapter11/code/EP08.c)
+> 2. [ACM金牌带你零基础直达C语言精通-11.3~11.11-EP07:第10001个质数-EO07-1.c](c_language_resource/part2/chapter11/code/EP07-1.c)
+> 3. [ACM金牌带你零基础直达C语言精通-11.3~11.11-EP07:第10001个质数-EP07-2.c](c_language_resource/part2/chapter11/code/EP07-2.c)
+> 4. [ACM金牌带你零基础直达C语言精通-11.3~11.11-EP07:第10001个质数-EP07-3.c](c_language_resource/part2/chapter11/code/EP07-3.c)
+> 5. [ACM金牌带你零基础直达C语言精通-11.3~11.11-EP07:第10001个质数-EP07-test1.c](c_language_resource/part2/chapter11/code/EP07-test1.c)
+> 6. [ACM金牌带你零基础直达C语言精通-11.3~11.11-EP07:第10001个质数-EP07-test2.c](c_language_resource/part2/chapter11/code/EP07-test2.c)
+> 7. [ACM金牌带你零基础直达C语言精通-11.12-EP10：质数求和-EP10.c](c_language_resource/part2/chapter11/code/EP10.c)
+> 8. [ACM金牌带你零基础直达C语言精通-11.13~11.14-EP35：圆周素数-EP35.c](c_language_resource/part2/chapter11/code/EP35.c)
+> 9. [ACM金牌带你零基础直达C语言精通-11.15~11.16-EP37：可截素数-EP37.c](c_language_resource/part2/chapter11/code/EP37.c)
+> 10. [ACM金牌带你零基础直达C语言精通-11.17~11.18-EP46：哥德巴赫的另一个猜想-EP46.c](c_language_resource/part2/chapter11/code/EP46.c)
+> 11. [ACM金牌带你零基础直达C语言精通-11.19~11.20-EP08：连续数字最大乘积-EP08.h](c_language_resource/part2/chapter11/code/EP08.h)
+> 12. [ACM金牌带你零基础直达C语言精通-11.19~11.20-EP08：连续数字最大乘积-EP08.c](c_language_resource/part2/chapter11/code/EP08.c)
+> 13. [ACM金牌带你零基础直达C语言精通-11.19~11.20-EP08：连续数字最大乘积-EP08.c](c_language_resource/part2/chapter11/code/EP08.c)I
+> 14. [ACM金牌带你零基础直达C语言精通-11.21~11.22-EP11：方阵中的最大乘积-EP11.c](c_language_resource/part2/chapter11/code/EP11.c)
+> 15. [ACM金牌带你零基础直达C语言精通-11.23~11.26-EP14：最长考拉兹序列-EP14.c](c_language_resource/part2/chapter11/code/EP14.c)
+> 16. [ACM金牌带你零基础直达C语言精通-11.23~11.26-EP14：最长考拉兹序列-EP14-2.c](c_language_resource/part2/chapter11/code/EP14-2.c)
+> 17. [ACM金牌带你零基础直达C语言精通-11.27~11.28-EP17：【整数英文表达的字母计数】-EP17.c](c_language_resource/part2/chapter11/code/EP17.c)
+> 18. [ACM金牌带你零基础直达C语言精通-11.29~11.30-EP32：【全数字乘积】-EP32.c](c_language_resource/part2/chapter11/code/EP32.c)
+> 19. [ACM金牌带你零基础直达C语言精通-11.31~11.32-EP33：【消去数字分数】-EP33.c](c_language_resource/part2/chapter11/code/EP33.c)
+> 20. [ACM金牌带你零基础直达C语言精通-11.33~11.34-EP38：【全数字倍数】-EP38.c](c_language_resource/part2/chapter11/code/EP38.c)
 
 
 
@@ -479,9 +499,8 @@ dateCreated: 2024-03-01T15:16:58.351Z
 :four:[在线开发板Wokwi](https://www.wokwi.com){target="_blank"}
 :five:[windows平台ESP WROOM-32开发板驱动](c_language_resource/part4/chapter18/tools/CH341SER_V3.7.EXE.zip)
 :six:[VSCode及相关插件](https://www.alipan.com/s/Cfjgrz9Fxrd){target="_blank"}
-:seven:[ESP32核心模块使用手册：esp32-wroom-32_datasheet_cn.pdf](/courses_resource/c_language/c_language_resource/part4/chapter18/tools/esp32-wroom-32_datasheet_cn.pdf)
-:eight:[ESP32模块使用手册：ESP32-DEVKit-32-dev-guide.pdf](/courses_resource/c_language/c_language_resource/part4/chapter18/tools/ESP32-DEVKit-32-dev-guide.pdf)
-:nine:[ESP32官方参考文档](https://docs.espressif.com/projects/arduino-esp32/en/latest/index.html){target="_blank"}
+:seven:[ESP32模块使用手册：esp32-wroom-32_datasheet_cn.pdf](/courses_resource/c_language/c_language_resource/part4/chapter18/tools/esp32-wroom-32_datasheet_cn.pdf)
+
 
 >其他开发板管理器地址：
 ```
@@ -503,19 +522,13 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 ![新bili姐.png](/images/junlang.jpg =200x)
 {.is-success}
 
+>课程PPT：
+
 >参考程序：
 - [18.1.HelloWorld.ino](c_language_resource/part4/chapter18/code/18.1.HelloWorld)
 {.links-list}
-- [18.2.sensor1.ino](c_language_resource/part4/chapter18/code/18.2.sensor1.ino)
-- [18.3.wifi_sta.ino](c_language_resource/part4/chapter18/code/18.3.wifi_sta.ino)
-- [18.4.wifi_ap.ino](c_language_resource/part4/chapter18/code/18.4.wifi_ap.ino)
-- [18.5.ESP32_httpserver.ino](c_language_resource/part4/chapter18/code/18_5_ESP32_httpserver.ino)
-- [18.6.ESP32_httpserver_ledctrl.ino](c_language_resource/part4/chapter18/code/18_6_ESP32_httpserver_ledctrl.ino)
-- [18.6.ledctrl_index.html](c_language_resource/part4/chapter18/code/18_6_ledctrl_index_html.md)
-- [18.6.led.cpp](c_language_resource/part4/chapter18/code/led.cpp)
-- [18.6.led.h](c_language_resource/part4/chapter18/code/led.h)
-- [18.7.ESP32_httpserver_ledctrl_sensor.ino](c_language_resource/part4/chapter18/code/18.7.ESP32_httpserver_ledctrl_sensor.ino)
-- [18.7.ledctrl_sensor_index.html](c_language_resource/part4/chapter18/code/18_7_ledctrl_sensor_index_html.md)
+
+
 # 第十九章 嵌入式篇·小系统的内存管理
 
 >本章学习参考说明
