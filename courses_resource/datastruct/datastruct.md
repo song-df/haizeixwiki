@@ -83,7 +83,7 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 2. 如果对于在实现代码过程中，对于设计代码的点有疑问，而不是思想上的逻辑问题，可以先去看船长的C语言基础部分讲解;
 > 3. 学习数据结构，先明白你想要实现什么东西，然后构思设计，最后在写代码;
 > 4. 对于顺序表和链表的代码实现，先跟着船长一起敲一遍，然后自己下来敲两遍;
-> 5.  
+> 5. 如果时间充足可以把船长讲解的题目看完，并分析后在自己实现;
  
 > 授课PPT
 > 1. [ACM大牛带你玩转算法与数据结构-2-顺序表与链表](ds_resource/part01/chapter03/pptx/datastruct_chapter02.pdf)
@@ -102,9 +102,13 @@ dateCreated: 2024-02-25T06:12:37.088Z
 
 > 课代表笔记
 > [数据结构——顺序表](ttps://blog.csdn.net/qq_58240849/article/details/137464500?spm=1001.2014.3001.5502){target='_blank'}
-> [数据结构——链表](){target='_blank'}
+> [数据结构——链表](https://blog.csdn.net/qq_58240849/article/details/132510622?spm=1001.2014.3001.5501){target='_blank'}
 
 # 第三章 栈和队列
+
+> 学习提要
+> 1. ❗在学习过程中一定要跟着船长一起敲代码;
+
 > 授课PPT
 > 1. [ACM大牛带你玩转算法与数据结构-3-栈和队列](ds_resource/part01/chapter04/pptx/datastruct_chapter03.pdf)
 > 2. [ACM大牛带你玩转算法与数据结构-3.15-【解题思路】表达式求值: HZOJ-266](ds_resource/part01/chapter04/pptx/datastruct_chapter03_15.pdf)
@@ -123,7 +127,12 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 11. [ACM大牛带你玩转算法与数据结构-3.14-设计循环队列:Leetcode-622--11.Leetcode.cpp](ds_resource/part01/chapter04/code/11.Leetcode-622.cpp)
 > 12. [ACM大牛带你玩转算法与数据结构-3.16-【代码演示】表达式求值: HZOJ-266--12.HZOJ-266.cpp](ds_resource/part01/chapter04/code/12.HZOJ-266.cpp)
 
+> 课代表笔记
+> [数据结构——栈](https://blog.csdn.net/qq_58240849/article/details/132532430?spm=1001.2014.3001.5501){target='_blank'}
+> [数据结构——队列](https://blog.csdn.net/qq_58240849/article/details/132524463?spm=1001.2014.3001.5501){target='_blank'}
+
 # 第四章 树与二叉树
+
 > 授课PPT
 > 1. [ACM大牛带你玩转算法与数据结构-4-树与二叉树](ds_resource/part01/chapter05/pptx/datastruct_chapter04.pdf)
 
@@ -146,6 +155,11 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 16. [ACM大牛带你玩转算法与数据结构-4.22-货仓选址：HZOJ-245--16.HZOJ-245.cpp](ds_resource/part01/chapter05/code/16.HZOJ-245.cpp)
 > 17. [ACM大牛带你玩转算法与数据结构--input.txt](ds_resource/part01/chapter05/code/input.txt)
 
+> 课代表笔记：
+> [树](https://blog.csdn.net/qq_58240849/article/details/132554905){target='_blank'}
+> [广义表与二叉树](https://blog.csdn.net/qq_58240849/article/details/137957314){target='_blank'}
+> [哈夫曼编码](https://blog.csdn.net/qq_58240849/article/details/137967476){target='_blank'}
+
 # 第五章 堆与优先队列
 > 授课PPT
 > 1. [ACM大牛带你玩转算法与数据结构-5-堆与优先队列](ds_resource/part01/chapter06/pptx/datastruct_chapter05.pdf)
@@ -166,6 +180,9 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 10. [ACM大牛带你玩转算法与数据结构-5.12-序列 M 小和：HZOJ-285--10.HZOJ-285.cpp](ds_resource/part01/chapter06/code/10.HZOJ-285.cpp)
 > 11. [ACM大牛带你玩转算法与数据结构-5.32-序列 M 小和：HZOJ-285--11.HZOJ-289.cpp](ds_resource/part01/chapter06/code/11.HZOJ-289.cpp)
 > 12. [ACM大牛带你玩转算法与数据结构--input.txt](ds_resource/part01/chapter06/code/input.txt)
+
+> 课代表笔记：
+> 1.[堆与优先队列](https://blog.csdn.net/qq_58240849/article/details/132579105){target='_blank'}
 
 # 第六章 排序算法
 > 授课PPT 
@@ -194,6 +211,9 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 19. [ACM大牛带你玩转算法与数据结构-6.22--国王游戏：HZOJ-256（基础实现）--18.HZOJ-256-1.cpp](ds_resource/part01/chapter07/code/18.HZOJ-256-1.cpp)
 > 20. [ACM大牛带你玩转算法与数据结构-6.23--国王游戏：HZOJ-256（大整数实现）--19.HZOJ-256-2.cpp](ds_resource/part01/chapter07/code/19.HZOJ-256-2.cpp)
 
+> 课代表笔记
+> [8种排序算法](https://blog.csdn.net/qq_58240849/article/details/132595997){target='_blank'}
+
 # 第七章 查找算法
 > 授课PPT
 > 1. [ACM大牛带你玩转算法与数据结构-7-查找算法](ds_resource/part01/chapter08/pptx/datastruct_chapter07.pdf)
@@ -214,6 +234,10 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 10. [ACM大牛带你玩转算法与数据结构-7.13-【再学】两个正序数组的中位数：Leetcode-04--10.Leetcode-04.cpp](ds_resource/part01/chapter08/code/10.Leetcode-04.cpp)
 > 11. [ACM大牛带你玩转算法与数据结构-7.14-最大平均值：HZOJ-242--11.HZOJ-242.cpp](ds_resource/part01/chapter08/code/11.HZOJ-242.cpp)
 > 12. [ACM大牛带你玩转算法与数据结构-7.15-奶牛围栏：HZOJ-244--12.HZOJ-244.cpp](ds_resource/part01/chapter08/code/12.HZOJ-244.cpp)
+
+> 课代表笔记：
+> [二分查找与跳跃表](https://blog.csdn.net/qq_58240849/article/details/138866759){target='_blank'}
+> [哈希表](https://blog.csdn.net/qq_58240849/article/details/132623579){target='_blank'}
 
 # 第八章 平衡树基础
 > 授课PPT
