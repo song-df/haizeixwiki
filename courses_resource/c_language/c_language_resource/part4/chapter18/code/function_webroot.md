@@ -2,11 +2,13 @@
 title: Wifi配网主页
 description: 
 published: true
-date: 2024-05-24T05:55:09.832Z
+date: 2024-05-24T06:04:35.572Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-24T05:55:09.831Z
 ---
+
+> 注意：以下代码无法单独运行，必须结合课程中的工程使用{.is-success}
 
 ```C
 void webroot(AsyncWebServerRequest *request) {
