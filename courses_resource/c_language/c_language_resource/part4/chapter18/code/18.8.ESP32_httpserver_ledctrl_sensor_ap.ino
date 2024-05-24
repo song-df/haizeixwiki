@@ -3,7 +3,7 @@
 #include <AHT20.h>
 #include <Wire.h>
 #include "led.h"
-#define  WIFI_STA_MODE 1
+#define  WIFI_STA_MODE 0
 
 #if WIFI_STA_MODE
 #define SSID  "Xiaomi_Jack_2.4G"
