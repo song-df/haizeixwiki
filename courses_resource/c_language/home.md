@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-05-24T06:03:06.633Z
+date: 2024-05-29T13:34:43.778Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -41,7 +41,9 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 有其他搞不明白的，可以找Bili姐：
 ![新bili姐.png](/images/新bili姐.png =200x)
 
-# 第一章 将C语言用起来
+# Part1:C语言之应试篇
+> 零基础掌握C语言核心知识，打开编程世界之门，轻松搞定期末考试{.is-success}
+## 第一章 将C语言用起来
 > 学习提要
 > 1. 学习课程时一定不要跳看课程，每节课都会有着不同的知识点。
 > 2. 配置学习环境的配置(必要)，推荐配置Linux环境。
@@ -61,7 +63,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 8. [ACM金牌带你零基础直达C语言精通-1.14-将C语言用起来](c_language_resource/part1/chapter01/pptx/c_language_chapter01_14.pdf)   
 > ✅DevCpp 6.7.5 和Tabby的安装包:[百度网盘链接](https://pan.baidu.com/s/1771OHbtIEzwRyRJj09ruBw?pwd=3zuh){.is-info}
 
-# 第二章 类型、运算符与表达式
+## 第二章 类型、运算符与表达式
 > 学习提要  
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
 > 2. 理解什么是类型，什么是变量;
@@ -105,7 +107,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > [C语言笔记：类型、运算符与表达式](https://blog.csdn.net/qq_58240849/article/details/136563987?spm=1001.2014.3001.5502){target='_blank'}
 
 
-# 第三章 控制流
+## 第三章 控制流
 > 学习提要
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
 > 2. 明白什么是条件表达式，并熟练掌握每个关系系运算符;
@@ -160,7 +162,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 课代表笔记  
 > [C语言笔记:控制流](https://blog.csdn.net/qq_58240849/article/details/136682648?spm=1001.2014.3001.5502){target='_blank'}
 
-# 第四章 函数与程序结构
+## 第四章 函数与程序结构
 > 学习提要
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
 > 2. 理解作用域的基本概念,定义一个变量，它的作用的区域在哪儿在看完课程后可以自己判断;
@@ -203,7 +205,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 
 
-# 第五章 指针与数组
+## 第五章 指针与数组
 
 > 学习提要
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
@@ -258,7 +260,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 课代表笔记  
 > [C语言笔记:指针与数组](https://blog.csdn.net/qq_58240849/article/details/136885165?spm=1001.2014.3001.5502){target='_blank'}
  
-# 第六章 结构体与联合体
+## 第六章 结构体与联合体
 
 > 学习提要
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
@@ -309,7 +311,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 课代表笔记  
 > [C语言笔记:预处理命令与结构体](https://blog.csdn.net/qq_58240849/article/details/136992781?spm=1001.2014.3001.5502){target='_blank'}
 
-# 第七章 重学输入输出
+## 第七章 重学输入输出
 
 
 > 学习提要
@@ -340,7 +342,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 课代表笔记  
 > [C语言笔记:重学输入和输出](https://blog.csdn.net/qq_58240849/article/details/137045706?spm=1001.2014.3001.5502){target='_blank'}
 
-# 第八章 文件操作
+## 第八章 文件操作
 
 > 学习提要
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
@@ -376,7 +378,10 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 课代表笔记
 > [C语言笔记:文件操作](https://blog.csdn.net/qq_58240849/article/details/137114939?spm=1001.2014.3001.5502){target='_blank'}
 
-# 第九章 初识编码能力
+# Part2:程序设计进阶篇
+> 独家欧拉计划50题，开启编码之旅，掌握编程本质。从初识到蜕变，全面提升编码能力{.is-success}
+
+## 第九章 初识编码能力
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-9.1-什么是编码能力](c_language_resource/part2/chapter09/pptx/c_language_chapter09_1.pdf)
 > 2. [ACM金牌带你零基础直达C语言精通-9.2-欧拉计划介绍](c_language_resource/part2/chapter09/pptx/c_language_chapter09_2.pdf)
@@ -384,7 +389,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > ✅[欧拉计划国内镜像网站](https://pe-cn.github.io/problems/){.is-info}  
 > ✅[欧拉计划网站](https://projecteuler.net/){.is-info}
 
-# 第十章 编码能力·启航篇
+## 第十章 编码能力·启航篇
 > 学习提要
 > 1. ❗在学习过程中一定要跟着船长一起敲代码;
 > 2. 跟着船长敲一遍，自己再敲一遍不懂就看，最后单独靠自己实现一遍;
@@ -421,7 +426,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 课代表笔记  
 > 欧拉计划1-50题的题目解析和题目答案:[欧拉计划:EP01-50](https://blog.csdn.net/qq_58240849?spm=1000.2115.3001.5343){target='_blank'}
 
-# 第十一章 编码能力·突破篇
+## 第十一章 编码能力·突破篇
 
 > 授课PPT
 > 1. [ACM金牌带你零基础直达C语言精通-11.1~11.2-EP05:最小公倍数](c_language_resource/part2/chapter11/pptx/c_language_chapter11_1.pdf)
@@ -462,9 +467,12 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 
 
-# 第十二章 编码能力·蜕变篇
+## 第十二章 编码能力·蜕变篇
 
-# 第十三章 操作系统篇·搭建Linux开发环境
+# Part3:实战之操作系统编程篇
+> 从零开始学习Linux开发，实战掌握文件操作、多进程编程，快速提升开发技能{.is-success}
+
+## 第十三章 操作系统篇·搭建Linux开发环境
 
 >本章学习参考说明
 - [1、打造系统编程环境](/courses_resource/c_language/c_language_resource/part3/chapter13/1build_linux_env.md)
@@ -473,7 +481,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 - [4、将自己的代码备份到Github](/courses_resource/c_language/c_language_resource/part3/chapter13/4backup_code_to_github.md)
   {.link-list}
 
-# 第十四章 操作系统篇·操作系统基础知识
+## 第十四章 操作系统篇·操作系统基础知识
 
 > 授课PPT
 > 1. [14.1、什么是操作系统](c_language_resource/part3/chapter14/Operating_System_chapter014_1.pdf)
@@ -483,14 +491,17 @@ dateCreated: 2024-03-01T15:16:58.351Z
 - [1、实战：使用系统调用来实现scanf和printf](c_language_resource/part3/chapter14/Hands_on_Implementing_scanf_and_printf_using_system_calls.md)
 {.link-list}
 
-# 第十五章 操作系统篇·实战·实现cp和ls命令
+## 第十五章 操作系统篇·实战·实现cp和ls命令
 > [作业：开发一个简易的天气查询命令行工具](/courses_resource/c_language/c_language_resource/part3/chapter15/c_ch15_homework)
 
-# 第十六章 操作系统篇·进程与多进程
+## 第十六章 操作系统篇·进程与多进程
 
-# 第十七章 操作系统篇·实战·实现程序的编辑、编译与执行的自动化
+## 第十七章 操作系统篇·实战·实现程序的编辑、编译与执行的自动化
 
-# 第十八章 嵌入式篇·嵌入式中的C语言另一面
+# Part4:实战之嵌入式编程篇
+> 探索嵌入式编程技巧，从C语言基础到嵌入式设备中简单多任务编程模式处理，掌握C语言硬件控制方式，开启万物互联世界的编程之旅{.is-success}
+
+## 第十八章 嵌入式篇·嵌入式中的C语言另一面
 
 >本章参考工具：
 :one: [Arduino IDE 2.3.2 官方下载链接](https://www.arduino.cc/en/software){target="_blank"}
@@ -540,7 +551,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 - [18.8.ESP32_httpserver_ledctrl_sensor_ap.ino](c_language_resource/part4/chapter18/code/18.8.ESP32_httpserver_ledctrl_sensor_ap.ino)
 - [18.9.Wifi配置主页](/courses_resource/c_language/c_language_resource/part4/chapter18/code/function_webroot)
 
-# 第十九章 嵌入式篇·小系统的内存管理
+## 第十九章 嵌入式篇·小系统的内存管理
 
 >本章学习参考说明
 
@@ -550,7 +561,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 
 
-# 第二十章 嵌入式篇·片上裸程序的多任务机制
+## 第二十章 嵌入式篇·片上裸程序的多任务机制
 
 >本章学习参考说明
 
@@ -560,7 +571,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 
 
-# 第二十一章 嵌入式篇·实现应用于微型芯片中的miniprintf
+## 第二十一章 嵌入式篇·实现应用于微型芯片中的miniprintf
 
 >本章学习参考说明
 
@@ -570,7 +581,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 
 
-# 第二十二章 嵌入式篇·实现微小型系统里的简单内存分配与回收库
+## 第二十二章 嵌入式篇·实现微小型系统里的简单内存分配与回收库
 
 >本章学习参考说明
 
