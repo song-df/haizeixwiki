@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-06-02T12:50:38.105Z
+date: 2024-06-02T12:57:09.495Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -588,6 +588,43 @@ sudo make install
 export LD_LIBRARY_PATH=.
 ./mjpg_streamer -o "output_http.so -w ./www" -i "input_uvc.so"
 ```
+以上命令如何能执行成功，会看到如下提示信息：
+```
+MJPG Streamer Version: git rev: 310b29f4a94c46652b20c4b7b6e5cf24e532af39
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: -1
+ i: Format............: JPEG
+ i: TV-Norm...........: DEFAULT
+UVCIOC_CTRL_ADD - Error at Pan (relative): Inappropriate ioctl for device (25)
+UVCIOC_CTRL_ADD - Error at Tilt (relative): Inappropriate ioctl for device (25)
+UVCIOC_CTRL_ADD - Error at Pan Reset: Inappropriate ioctl for device (25)
+UVCIOC_CTRL_ADD - Error at Tilt Reset: Inappropriate ioctl for device (25)
+UVCIOC_CTRL_ADD - Error at Pan/tilt Reset: Inappropriate ioctl for device (25)
+UVCIOC_CTRL_ADD - Error at Focus (absolute): Inappropriate ioctl for device (25)
+UVCIOC_CTRL_MAP - Error at Pan (relative): Inappropriate ioctl for device (25)
+UVCIOC_CTRL_MAP - Error at Tilt (relative): Inappropriate ioctl for device (25)
+UVCIOC_CTRL_MAP - Error at Pan Reset: Inappropriate ioctl for device (25)
+UVCIOC_CTRL_MAP - Error at Tilt Reset: Inappropriate ioctl for device (25)
+UVCIOC_CTRL_MAP - Error at Pan/tilt Reset: Inappropriate ioctl for device (25)
+UVCIOC_CTRL_MAP - Error at Focus (absolute): Inappropriate ioctl for device (25)
+UVCIOC_CTRL_MAP - Error at LED1 Mode: Inappropriate ioctl for device (25)
+UVCIOC_CTRL_MAP - Error at LED1 Frequency: Inappropriate ioctl for device (25)
+UVCIOC_CTRL_MAP - Error at Disable video processing: Inappropriate ioctl for device (25)
+UVCIOC_CTRL_MAP - Error at Raw bits per pixel: Inappropriate ioctl for device (25)
+ o: www-folder-path......: ./www/
+ o: HTTP TCP port........: 8080
+ o: HTTP Listen Address..: (null)
+ o: username:password....: disabled
+ o: commands.............: enabled
+
+```
+现在可以在树莓派所在的同一局域网内使用浏览器打开以下地址：
+
+http://{你的树莓派IP地址}:8080
+
+![MJPG-Streamer](/courses_resource/c_language/c_language_resource/part4/chapter18/images/mjpg-streamer-1.png)
+
 
 ## 第十九章 嵌入式篇·小系统的内存管理
 
