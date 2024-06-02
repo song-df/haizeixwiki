@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-05-29T13:34:43.778Z
+date: 2024-06-02T12:50:38.105Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -550,6 +550,44 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 - [18.7.ledctrl_sensor_index.html](c_language_resource/part4/chapter18/code/18_7_ledctrl_sensor_index_html.md)
 - [18.8.ESP32_httpserver_ledctrl_sensor_ap.ino](c_language_resource/part4/chapter18/code/18.8.ESP32_httpserver_ledctrl_sensor_ap.ino)
 - [18.9.Wifi配置主页](/courses_resource/c_language/c_language_resource/part4/chapter18/code/function_webroot)
+
+>树莓派使用参考
+- 1、更换速度更快的清华安装源
+```
+cp /etc/apt/sources.list ~/sources.list.backup
+sudo vi /etc/apt/sources.list
+
+#将sources.list中的内容都在开关加上#关闭，使用下面的内容：
+# 默认注释了源码镜像以提高 apt update 速度，如有需要可自行取消注释
+deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm main contrib non-free non-free-firmware
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm main contrib non-free non-free-firmware
+
+deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-updates main contrib non-free non-free-firmware
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-updates main contrib non-free non-free-firmware
+
+deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-backports main contrib non-free non-free-firmware
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-backports main contrib non-free non-free-firmware
+
+# 以下安全更新软件源包含了官方源与镜像站配置，如有需要可自行修改注释切换
+deb https://security.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
+# deb-src https://security.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
+
+#更新完成sources.list文件保存后执行：
+sudo apt update
+```
+除最后一句使用官方安全更新，其他内容速度很快。
+
+- 2、安装MJPEG-Streamer服务
+```
+sudo apt install cmake libjpeg62-turbo-dev
+git clone https://github.com/jacksonliam/mjpg-streamer.git
+cd mjpg-streamer/mjpg-streamer-experimental
+make 
+sudo make install
+
+export LD_LIBRARY_PATH=.
+./mjpg_streamer -o "output_http.so -w ./www" -i "input_uvc.so"
+```
 
 ## 第十九章 嵌入式篇·小系统的内存管理
 
