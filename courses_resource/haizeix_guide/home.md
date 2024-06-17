@@ -2,7 +2,7 @@
 title: 海贼宝藏注册和使用说明
 description: 
 published: true
-date: 2024-06-17T05:34:51.563Z
+date: 2024-06-17T05:40:41.010Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-17T05:30:37.811Z
@@ -21,7 +21,11 @@ dateCreated: 2024-06-17T05:30:37.811Z
 
 # 2.宝藏大会员如何如何兑换课程
 
-提醒：这里的教程是需要拥有宝藏大会员才能完成的
+> 提醒：这里的教程是需要拥有宝藏大会员才能完成的
+宝藏大会员具体介绍和购买通道：[宝藏大会员](https://www.haizeix.com/vip)
+如果你曾经免费获得过宝藏大会员，还没有领取的，可以找Bili姐：
+![新bili姐.png](/images/新bili姐.png)
+{.is-success}
 
 第一步：找到你想兑换的课程(并且课程带有会员免费)
 
