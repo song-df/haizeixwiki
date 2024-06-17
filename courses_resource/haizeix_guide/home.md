@@ -1,3 +1,13 @@
+---
+title: 海贼宝藏注册和使用说明
+description: 
+published: true
+date: 2024-06-17T05:34:51.563Z
+tags: 
+editor: markdown
+dateCreated: 2024-06-17T05:30:37.811Z
+---
+
 # 1.海贼宝藏注册与登录
 
 第一步：打开海贼宝藏官网-[官网链接](https://www.haizeix.com/){target='_blank'}
