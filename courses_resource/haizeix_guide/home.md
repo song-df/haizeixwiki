@@ -2,7 +2,7 @@
 title: 海贼宝藏注册和使用说明
 description: 
 published: true
-date: 2024-06-17T05:40:41.010Z
+date: 2024-06-18T07:23:12.776Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-17T05:30:37.811Z
@@ -14,7 +14,7 @@ dateCreated: 2024-06-17T05:30:37.811Z
 
 第二步：注册账号，在海贼官网的右上角
 
-![register](img/1.2-img.jpg)
+![register](img/1.2-img.png)
 
 第三步：注册完成以后，登录账号，也在海贼官网的右上角
 ![Login](img/1.3-img.jpg)
