@@ -2,15 +2,16 @@
 title: C++零基础到高级
 description: 
 published: true
-date: 2024-03-28T15:30:32.575Z
+date: 2024-06-29T12:48:27.435Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-02T14:03:08.619Z
 ---
 
 > :one: 本课程属于船说系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss3380){target="_blank"}
-> :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598){target="_blank"}
+> :two: 你也可以选择购买『【船票4年特惠】计算机专业零基础直达就业系列课程』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://b23.tv/Bk1ydbx){target="_blank"}
 {.is-success}
+
 
 # 💗温馨提醒【初航我带你，远航靠自己】
 
