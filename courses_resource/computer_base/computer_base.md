@@ -2,15 +2,16 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-05-13T04:38:00.535Z
+date: 2024-06-29T12:47:48.332Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
 ---
 
 > :one: 本课程属于船说系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss7381){target="_blank"}
-> :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598){target="_blank"}
+> :two: 你也可以选择购买『【船票4年特惠】计算机专业零基础直达就业系列课程』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://b23.tv/Bk1ydbx){target="_blank"}
 {.is-success}
+
 
 # 💗温馨提醒【初航我带你，远航靠自己】
 
