@@ -2,7 +2,7 @@
 title: 海贼AI助教使用手册
 description: 
 published: true
-date: 2024-06-29T12:21:07.932Z
+date: 2024-06-29T12:22:26.019Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-06-29T11:59:00.080Z
@@ -20,8 +20,8 @@ dateCreated: 2024-06-29T11:59:00.080Z
 `#小程序://海贼AI助手/WV1ytQixcA4CX8d`
 
 
-> 海贼AI助教使用示例，他还能运行程序，直接输出结果
-![海贼ai助教示例.png](/images/海贼ai助教WX示例.png =600x)
+> 海贼AI助教小程序使用示例，有什么学习方面的问题，尽管放心找她啊。
+![海贼AI助教小程序示例](/images/海贼ai助教WX示例.png =600x)
 {.is-info}
 
 注意：请暂时不要付费升级。
