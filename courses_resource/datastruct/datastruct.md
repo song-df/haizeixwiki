@@ -2,14 +2,14 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-03-04T14:55:11.618Z
+date: 2024-06-29T12:48:06.712Z
 tags: 核心能力
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
 ---
 
 > :one: 本课程属于船说系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss1468){target="_blank"}
-> :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598){target="_blank"}
+> :two: 你也可以选择购买『【船票4年特惠】计算机专业零基础直达就业系列课程』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://b23.tv/Bk1ydbx){target="_blank"}
 {.is-success}
 
 
