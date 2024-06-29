@@ -2,7 +2,7 @@
 title: 618活动第一批摆件及奖品快递记录查询
 description: 
 published: true
-date: 2024-06-29T09:38:14.375Z
+date: 2024-06-29T09:43:04.704Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-29T09:31:45.975Z
@@ -18,7 +18,7 @@ dateCreated: 2024-06-29T09:31:45.975Z
 《船票4年》：https://b23.tv/byzTiaB
 《船票1年》：https://b23.tv/uCOhTk2
 
-- 注意：所有课程均可能海贼宝藏同步学习，因为审核机制原因，海贼宝藏上新速度快于B站，请大家注意{.is-success}
+> 注意：所有课程均可在海贼宝藏官网（www.haizeix.com）同步学习，因为审核机制原因，海贼宝藏上新速度快于B站，请大家注意{.is-success}
 
 137\*\***1792
 195\*\***0803
