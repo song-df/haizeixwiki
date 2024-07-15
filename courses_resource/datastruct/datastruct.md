@@ -2,14 +2,14 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-06-29T12:48:06.712Z
+date: 2024-03-04T14:55:11.618Z
 tags: 核心能力
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
 ---
 
 > :one: 本课程属于船说系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss1468){target="_blank"}
-> :two: 你也可以选择购买『【船票4年特惠】计算机专业零基础直达就业系列课程』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://b23.tv/Bk1ydbx){target="_blank"}
+> :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598){target="_blank"}
 {.is-success}
 
 
@@ -449,3 +449,19 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 21. [ACM大牛带你玩转算法与数据结构-15.36-P1470：最长前缀--22.P1470.cpp](ds_resource/part02/chapter16/code/22.P1470.cpp)
 > 22. [ACM大牛带你玩转算法与数据结构-15.37-P8306：【模板】字典树--23.P8306.cpp](ds_resource/part02/chapter16/code/23.P8306.cpp)
 
+# 第十六章 树状数组与线段树
+
+> 授课PPT
+> 1. [ACM大牛带你玩转算法与数据结构-16-树状数组与线段树](ds_resource/part02/chapter17/pptx/datastruct_chapter16_1.pdf)
+ 
+> 参考程序
+> 1. [ACM大牛带你玩转算法与数据结构-16.3-B3612：求区间和: 1.B3612.cpp](ds_resource/part02/chapter17/code/1.B3612.cpp)
+> 2. [ACM大牛带你玩转算法与数据结构-16.4-P1115：最大子段和: 2.P1115.cpp](ds_resource/part02/chapter17/code/2.P1115.cpp)
+> 3. [ACM大牛带你玩转算法与数据结构-16.6-HZOJ-232：激光炸弹: 3.HZOJ-232.cpp](ds_resource/part02/chapter17/code/3.HZOJ-232.cpp)
+> 4. [ACM大牛带你玩转算法与数据结构-16.8-P1047：校门外的树: 4.P1047.cpp](ds_resource/part02/chapter17/code/4.P1047.cpp)
+> 5. [ACM大牛带你玩转算法与数据结构-16.9-HZOJ-233：最高的奶牛: 5.HZOJ-233.cpp](ds_resource/part02/chapter17/code/5.HZOJ-233.cpp)
+> 6. [ACM大牛带你玩转算法与数据结构-16.10-P1083：<NOIP 提高组> 借教室: 6.P1083.cpp](ds_resource/part02/chapter17/code/6.P1083.cpp)
+> 7. [ACM大牛带你玩转算法与数据结构-16.11-树状数组：lowbit 函数(1): 7.lowbit.cpp](ds_resource/part02/chapter17/code/7.lowbit.cpp)
+> 8. [ACM大牛带你玩转算法与数据结构-16.12-树状数组：基础操作: 8.fenwick_tree.cpp](ds_resource/part02/chapter17/code/8.fenwick_tree.cpp)
+> 9. [ACM大牛带你玩转算法与数据结构-16.13-P3374:【模板】树状数组1: 9.P3374.cpp](ds_resource/part02/chapter17/code/9.P3374.cpp)
+> 10. [ACM大牛带你玩转算法与数据结构-16.14-P3374：P3368：【模板】树状数组2: 10.P3368.cpp](ds_resource/part02/chapter17/code/10.P3368.cpp)

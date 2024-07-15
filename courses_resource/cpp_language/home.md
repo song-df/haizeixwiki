@@ -2,16 +2,15 @@
 title: C++零基础到高级
 description: 
 published: true
-date: 2024-06-29T12:49:25.162Z
+date: 2024-03-28T15:30:32.575Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-02T14:03:08.619Z
 ---
 
-> :one: 本课程属于船说系列课程之一，[💰单课购买点这里](https://b23.tv/G9xKfvD){target="_blank"}
-> :two: 你也可以选择购买『【船票4年特惠】计算机专业零基础直达就业系列课程』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://b23.tv/Bk1ydbx){target="_blank"}
+> :one: 本课程属于船说系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss3380){target="_blank"}
+> :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598){target="_blank"}
 {.is-success}
-
 
 # 💗温馨提醒【初航我带你，远航靠自己】
 
@@ -81,8 +80,31 @@ dateCreated: 2024-03-02T14:03:08.619Z
 
 # 第2章：封装
 > 授课PPT
+> 1. [第二章:封装.pdf](cpp_language_resource/part1/chapter02/pptx/cpp_language_chapter02_1.pdf)
 
 > 参考程序
+> 1. [1.class_object.cpp](cpp_language_resource/part1/chapter02/code/1.class_object.cpp)
+> 2. [2.public_private.cpp](cpp_language_resource/part1/chapter02/code/2.public_private.cpp)
+> 3. [3.friend.cpp](cpp_language_resource/part1/chapter02/code/3.friend.cpp)
+> 4. [4.defatul_constructor.cpp](cpp_language_resource/part1/chapter02/code/4.defatul_constructor.cpp)
+> 5. [5.param_constructor.cpp](cpp_language_resource/part1/chapter02/code/5.param_constructor.cpp)
+> 6. [6.this.cpp](cpp_language_resource/part1/chapter02/code/6.this.cpp)
+> 7. [7.initialize_list.cpp](cpp_language_resource/part1/chapter02/code/7.initialize_list.cpp)
+> 8. [8.left_right_value.cpp](cpp_language_resource/part1/chapter02/code/8.left_right_value.cpp)
+> 9. [9.convert_constructor.cpp](cpp_language_resource/part1/chapter02/code/9.convert_constructor.cpp)
+> 10. [10.copy_constructor.cpp](cpp_language_resource/part1/chapter02/code/10.copy_constructor.cpp)
+> 11. [11.deep_copy.cpp](cpp_language_resource/part1/chapter02/code/11.deep_copy.cpp)
+> 12. [12.move_constructor.cpp](cpp_language_resource/part1/chapter02/code/12.move_constructor.cpp)
+> 13. [13.destructor.cpp](cpp_language_resource/part1/chapter02/code/13.destructor.cpp)
+> 14. [14.Array.cpp](cpp_language_resource/part1/chapter02/code/14.Array.cpp)
+> 15. [15.con_des_order.cpp](cpp_language_resource/part1/chapter02/code/15.con_des_order.cpp)
+> 16. [16.delete_default.cpp](cpp_language_resource/part1/chapter02/code/16.delete_default.cpp)
+> 17. [17.new_delete.cpp](cpp_language_resource/part1/chapter02/code/17.new_delete.cpp)
+> 18. [18.new_delete.cpp](cpp_language_resource/part1/chapter02/code/18.new_delete.cpp)
+> 19. [19.emplace_new.cpp](cpp_language_resource/part1/chapter02/code/19.emplace_new.cpp)
+> 20. [20.Array.cpp](cpp_language_resource/part1/chapter02/code/20.Array.cpp)
+> 21. [21.test1.cpp](cpp_language_resource/part1/chapter02/code/21.test1.cpp)
+> 22. [22.test2.cpp](cpp_language_resource/part1/chapter02/code/22.test2.cpp)
 
 # 第3章：继承
 > 授课PPT

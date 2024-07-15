@@ -9,7 +9,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 ---
 
 > :one: 本课程属于船说系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss3380){target="_blank"}
-> :two: 你也可以选择购买『【船票4年特惠】计算机专业零基础直达就业系列课程』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://b23.tv/Bk1ydbx){target="_blank"}
+> :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598){target="_blank"}
 {.is-success}
 
 # 💗温馨提醒【初航我带你，远航靠自己】
@@ -442,6 +442,8 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 11. [ACM金牌带你零基础直达C语言精通-11.29~11.30-EP32：【全数字乘积】](c_language_resource/part2/chapter11/pptx/c_language_chapter11_12.pdf)
 > 12. [ACM金牌带你零基础直达C语言精通-11.31~11.32-EP33：【消去数字分数】](c_language_resource/part2/chapter11/pptx/c_language_chapter11_13.pdf)
 > 13. [ACM金牌带你零基础直达C语言精通-11.33~11.34-EP38：【全数字倍数】](c_language_resource/part2/chapter11/pptx/c_language_chapter11_14.pdf)
+> 14. [ACM金牌带你零基础直达C语言精通-11.35~11.38-EP44【五边形数】](c_language_resource/part2/chapter11/pptx/c_language_chapter11_15.pdf)
+> 15. [ACM金牌带你零基础直达C语言精通-11.39~11.40-EP45【判断立方数】](c_language_resource/part2/chapter11/pptx/c_language_chapter11_16.pdf)
 
 > 参考程序
 > 1. [ACM金牌带你零基础直达C语言精通-11.1~11.2-EP05:最小公倍数--EP05.c](c_language_resource/part2/chapter11/code/EP05.c)
@@ -464,13 +466,39 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 18. [ACM金牌带你零基础直达C语言精通-11.29~11.30-EP32：【全数字乘积】-EP32.c](c_language_resource/part2/chapter11/code/EP32.c)
 > 19. [ACM金牌带你零基础直达C语言精通-11.31~11.32-EP33：【消去数字分数】-EP33.c](c_language_resource/part2/chapter11/code/EP33.c)
 > 20. [ACM金牌带你零基础直达C语言精通-11.33~11.34-EP38：【全数字倍数】-EP38.c](c_language_resource/part2/chapter11/code/EP38.c)
+> 21. [ACM金牌带你零基础直达C语言精通-11.35~11.38-EP44：binary_search.c](c_language_resource/part2/chapter11/code/binary_search.c)
+> 22. [ACM金牌带你零基础直达C语言精通-11.35~11.38-EP44：EP44-test.c](c_language_resource/part2/chapter11/code/EP44-test.c)
+> 23. [ACM金牌带你零基础直达C语言精通-11.35~11.38-EP44：EP44.c](c_language_resource/part2/chapter11/code/EP44.c)
+> 24. [ACM金牌带你零基础直达C语言精通-11.39~11.40-EP45：EP45.c](c_language_resource/part2/chapter11/code/EP45.c)
 
 
 
 ## 第十二章 编码能力·蜕变篇
 
+> 授课PPT
+> 1. [ACM金牌带你零基础直达C语言精通-12.1~12.4-EP09【毕达哥拉斯三元组】](c_language_resource/part2/chapter12/pptx/c_language_chapter12_1.pdf)
+> 2. [ACM金牌带你零基础直达C语言精通-12.5~12.8-EP12【有很多约数的三角形数】](c_language_resource/part2/chapter12/pptx/c_language_chapter12_2.pdf)
+> 3. [ACM金牌带你零基础直达C语言精通-12.9~12.12-EP13【100个50位数字的和】](c_language_resource/part2/chapter12/pptx/c_language_chapter12_3.pdf)
+> 4. [ACM金牌带你零基础直达C语言精通-12.13~12.14-EP25【1000位的斐波那契数列值】](c_language_resource/part2/chapter12/pptx/c_language_chapter12_4.pdf)
+> 5. [ACM金牌带你零基础直达C语言精通-12.15~12.16-EP15【网格路径】](c_language_resource/part2/chapter12/pptx/c_language_chapter12_5.pdf)
+> 6. [ACM金牌带你零基础直达C语言精通-12.17~12.18-EP16【2的1000次方的各位数字的和】](c_language_resource/part2/chapter12/pptx/c_language_chapter12_6.pdf)
+> 7. [ACM金牌带你零基础直达C语言精通-12.19~12.22-EP18【最大路径和 I】](c_language_resource/part2/chapter12/pptx/c_language_chapter12_7.pdf)
+
+> 参考程序
+> 1. [ACM金牌带你零基础直达C语言精通-12.1~12.4-EP09-1.c](c_language_resource/part2/chapter12/code/EP09-1.c)
+> 2. [ACM金牌带你零基础直达C语言精通-12.1~12.4-EP09-2.c](c_language_resource/part2/chapter12/code/EP09-2.c)
+> 3. [ACM金牌带你零基础直达C语言精通-12.5~12.8-EP12-1.c](c_language_resource/part2/chapter12/code/EP12-1.c)
+> 4. [ACM金牌带你零基础直达C语言精通-12.5~12.8-EP12-2.c](c_language_resource/part2/chapter12/code/EP12-2.c)
+> 5. [ACM金牌带你零基础直达C语言精通-12.9~12.12-EP13-add.c](c_language_resource/part2/chapter12/code/EP13-add.c)
+> 6. [ACM金牌带你零基础直达C语言精通-12.9~12.12-EP13.c](c_language_resource/part2/chapter12/code/EP13.c)
+> 7. [ACM金牌带你零基础直达C语言精通-12.13~12.14-EP25.c](c_language_resource/part2/chapter12/code/EP25.c)
+> 8. [ACM金牌带你零基础直达C语言精通-12.15~12.16-EP15.c](c_language_resource/part2/chapter12/code/EP15.c)
+> 9. [ACM金牌带你零基础直达C语言精通-12.17~12.18-EP16.c](c_language_resource/part2/chapter12/code/EP16.c)
+> 10. [ACM金牌带你零基础直达C语言精通-12.19~12.22-EP18-1.cpp](c_language_resource/part2/chapter12/code/EP18-1.cpp)
+> 11. [ACM金牌带你零基础直达C语言精通-12.19~12.22-EP18-2.cpp](c_language_resource/part2/chapter12/code/EP18-2.cpp)
+ 
 # Part3:实战之操作系统编程篇
-> 从零开始学习Linux开发，实战掌握文件操作、多进程编程，快速提升开发技能{.is-success}
+> 从零开始学习Linux开发，实战掌握文件操作、多进程编程，快速提升开发技能{.is-success} 
 
 ## 第十三章 操作系统篇·搭建Linux开发环境
 
@@ -500,7 +528,6 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 # Part4:实战之嵌入式编程篇
 > 探索嵌入式编程技巧，从C语言基础到嵌入式设备中简单多任务编程模式处理，掌握C语言硬件控制方式，开启万物互联世界的编程之旅{.is-success}
-
 ## 第十八章 嵌入式篇·嵌入式中的C语言另一面
 
 >本章参考工具：
