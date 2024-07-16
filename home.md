@@ -2,7 +2,7 @@
 title: 海贼宝藏课程资料
 description: 初航我带你，远航靠自己
 published: true
-date: 2024-03-25T06:01:43.830Z
+date: 2024-07-16T04:46:46.588Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T05:31:00.811Z
@@ -11,8 +11,13 @@ dateCreated: 2024-02-25T05:31:00.811Z
 > 👨‍🏫船长们在这里埋了很多宝藏💠，如果想有惊奇发现，赶紧来寻宝吧🤑!
 {.is-success}
 
-# 🛢 课程资源入口
+# 🛢 船说系列课程资源
 
+- [🔧C语言全能实战](/courses_resource/c_language/home)
+- [⛓️算法与数据结构](/courses_resource/datastruct/datastruct)
+- [💻计算机基础从0到精通](/courses_resource/computer_base/computer_base)
+- [⚔️C++零基础到高级](/courses_resource/cpp_language/home)
+- [🏆算法竞赛通关班](/courses_resource/csp/home)
 - [📡 B站船票 *船说系列课程*](/courses_resource/bili_courses.md)
 - [🧙 C++高薪就业 *计算机软件研发核心技能提升*](/courses_resource/cpp_high_salary/home.md)
 {.links-list}
