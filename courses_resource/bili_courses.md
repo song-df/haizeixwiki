@@ -2,7 +2,7 @@
 title: B站合作-船票系列课程
 description: 
 published: true
-date: 2024-03-25T06:32:58.542Z
+date: 2024-07-16T04:48:02.020Z
 tags: b站
 editor: markdown
 dateCreated: 2024-02-25T05:37:26.506Z
@@ -38,8 +38,8 @@ dateCreated: 2024-02-25T05:37:26.506Z
 - [2、算法与数据结构](/courses_resource/datastruct/datastruct)
 - [3、计算机基础从0到精通](/courses_resource/computer_base/computer_base)
 - [4、C++零基础到高级](/courses_resource/cpp_language/home)
-- [5、HarmonyOS应用开发者基础认证](/empty-page)
-- [6、算法竞赛通关班](/empty-page)
+- [5、HarmonyOS应用开发者基础认证]((/courses_resource/harmonyos_base/home))
+- [6、算法竞赛通关班](/courses_resource/csp/home)
 - [7、从0到1开发Hython编程语言](/empty-page)
 - [8、Linux系统编程实战](/empty-page)
 - [9、Linux网络编程实战](/empty-page)
