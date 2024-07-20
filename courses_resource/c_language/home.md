@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-07-20T08:00:31.902Z
+date: 2024-07-20T08:28:04.216Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -667,9 +667,13 @@ UVCIOC_CTRL_MAP - Error at Raw bits per pixel: Inappropriate ioctl for device (2
 ```
 现在可以在树莓派所在的同一局域网内使用浏览器打开以下地址：
 
-http://{你的树莓派IP地址}:8080
+- http://{你的树莓派IP地址}:8080
 
 ![MJPG-Streamer](/courses_resource/c_language/c_language_resource/part4/chapter18/images/mjpg-streamer-1.png)
+
+- MJPG-Streamer 服务线程结构
+![MJPG-Streamer](/courses_resource/c_language/c_language_resource/part4/chapter18/images/.png)
+
 
 
 ## 第十九章 嵌入式篇·小系统的内存管理
