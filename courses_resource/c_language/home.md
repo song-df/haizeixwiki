@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-06-29T12:47:29.542Z
+date: 2024-07-20T07:59:41.200Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -577,34 +577,53 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 - [18.7.ledctrl_sensor_index.html](c_language_resource/part4/chapter18/code/18_7_ledctrl_sensor_index_html.md)
 - [18.8.ESP32_httpserver_ledctrl_sensor_ap.ino](c_language_resource/part4/chapter18/code/18.8.ESP32_httpserver_ledctrl_sensor_ap.ino)
 - [18.9.Wifi配置主页](/courses_resource/c_language/c_language_resource/part4/chapter18/code/function_webroot)
+- [18.32.vim常用命令思维导图](/courses_resource/c_language/c_language_resource/part4/chapter18/tools/VIM_normal_command.xmind)
 
 >树莓派使用参考
-- 1、更换速度更快的清华安装源
+- 1、更换南京大学源
 ```
-cp /etc/apt/sources.list ~/sources.list.backup
-sudo vi /etc/apt/sources.list
+#文件：/etc/apt/sources.list
+deb http://mirror.nju.edu.cn/debian bookworm main contrib non-free non-free-firmware
+deb http://mirror.nju.edu.cn/debian-security/ bookworm-security main contrib non-free non-free-firmware
+deb http://mirror.nju.edu.cn/debian bookworm-updates main contrib non-free non-free-firmware
 
-#将sources.list中的内容都在开关加上#关闭，使用下面的内容：
-# 默认注释了源码镜像以提高 apt update 速度，如有需要可自行取消注释
-deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm main contrib non-free non-free-firmware
-# deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm main contrib non-free non-free-firmware
-
-deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-updates main contrib non-free non-free-firmware
-# deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-updates main contrib non-free non-free-firmware
-
-deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-backports main contrib non-free non-free-firmware
-# deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-backports main contrib non-free non-free-firmware
-
-# 以下安全更新软件源包含了官方源与镜像站配置，如有需要可自行修改注释切换
-deb https://security.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
-# deb-src https://security.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
 
 #更新完成sources.list文件保存后执行：
 sudo apt update
 ```
-除最后一句使用官方安全更新，其他内容速度很快。
 
-- 2、安装MJPEG-Streamer服务
+- 2、samba 服务安装与参考配置
+```
+sudo apt install samba samba-common-bin
+
+#安装成功后创建指定共享目录
+mkdir ~/share_folds
+
+#打开samba配置文件：/etc/samba/smb.conf在文件最后添加如下配置：
+[share_folds]
+        path = /home/song/share_folds
+        writeable = yes
+        browseable = yes
+        public = no
+
+#保存退出后，添加用户到samba服务
+sudo smbpasswd -a 你的用户名
+这里提示输入密码，记住所输入密码。
+
+#重启samba服务
+sudo systemctl restart samba
+
+#查看服务是否执行：
+ps -e | grep smb
+
+#查看服务运行状态：
+sudo systemctl status samba
+
+```
+
+
+
+- 3、安装MJPEG-Streamer服务
 ```
 sudo apt install cmake libjpeg62-turbo-dev
 git clone https://github.com/jacksonliam/mjpg-streamer.git
