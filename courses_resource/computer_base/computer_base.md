@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-06-29T12:47:48.332Z
+date: 2024-08-06T12:19:25.516Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -148,6 +148,11 @@ dateCreated: 2024-02-25T06:09:59.515Z
 
 
 ## 第八章：进程
+> 授课PPT：[8.1进程基础](computer_base_resource/Part2/chapter08/8.1进程基础.pdf)
+> 授课PPT：[8.2进程及调度真题](computer_base_resource/Part2/chapter08/8.2进程及调度真题.pdf)
+> 授课PPT：[8.3进程的同步与互斥](computer_base_resource/Part2/chapter08/8.3进程的同步与互斥.pdf)
+> 授课PPT：[8.4进程同步及死锁真题](computer_base_resource/Part2/chapter08/8.4进程同步及死锁真题.pdf)
+
 ## 第九章：内存
 ## 第十章：线程与并发
 ## 第十一章：操作系统实战
