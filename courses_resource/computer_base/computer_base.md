@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-08-06T12:19:25.516Z
+date: 2024-08-06T12:20:30.621Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -154,6 +154,9 @@ dateCreated: 2024-02-25T06:09:59.515Z
 > 授课PPT：[8.4进程同步及死锁真题](computer_base_resource/Part2/chapter08/8.4进程同步及死锁真题.pdf)
 
 ## 第九章：内存
+> 授课PPT：[9.1虚拟内存管理](computer_base_resource/Part2/chapter09/9.1虚拟内存管理.pdf)
+> 授课PPT：[9.2内存管理](computer_base_resource/Part2/chapter09/9.2内存管理pptx.pdf.pdf)
+
 ## 第十章：线程与并发
 ## 第十一章：操作系统实战
 
