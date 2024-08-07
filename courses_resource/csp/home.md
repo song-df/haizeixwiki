@@ -2,7 +2,7 @@
 title: 算法竞赛通关班
 description: 
 published: true
-date: 2024-08-07T02:09:22.286Z
+date: 2024-08-07T02:20:53.341Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T03:17:46.780Z
@@ -49,42 +49,44 @@ dateCreated: 2024-06-26T03:17:46.780Z
 
 ## 第0章：开启你的算法竞赛之旅
 > 授课PPT
-> 1.[课程导学](csp_resource/part1/ch1/pptx/csp_resource_ch00_1.pdf)
-> 2.[算法竞赛知多少](csp_resource/part1/ch1/pptx/csp_resource_ch00_2.pdf)
-> 3.[信友队介绍](csp_resource/part1/ch1/pptx/csp_resource_ch00_3.pdf)
-> 4.[为什么要学习算法与数据结构](csp_resource/part1/ch1/pptx/csp_resource_ch00_4.pdf)
-> 5.[重点:数据结构与算法的学习方法](csp_resource/part1/ch1/pptx/csp_resource_ch00_5.pdf)
-> 6.[为什么要学习复杂度的分析方法](csp_resource/part1/ch1/pptx/csp_resource_ch00_6.pdf)
+> 1.[课程导学](csp_resource/part1/ch0/pptx/csp_resource_ch00_1.pdf)
+> 2.[算法竞赛知多少](csp_resource/part1/ch0/pptx/csp_resource_ch00_2.pdf)
+> 3.[信友队介绍](csp_resource/part1/ch0/pptx/csp_resource_ch00_3.pdf)
+> 4.[为什么要学习算法与数据结构](csp_resource/part1/ch0/pptx/csp_resource_ch00_4.pdf)
+> 5.[重点:数据结构与算法的学习方法](csp_resource/part1/ch0/pptx/csp_resource_ch00_5.pdf)
+> 6.[为什么要学习复杂度的分析方法](csp_resource/part1/ch0/pptx/csp_resource_ch00_6.pdf)
 
 
 
 ## 第1章：结构化程序设计
 > 授课PPT
-> 1.[课程导学-结构化程序设计](csp_resource/part1/ch2/pptx/csp_resource_ch01_1.pdf)
+> 1.[课程导学-结构化程序设计](csp_resource/part1/ch1/pptx/csp_resource_ch01_1.pdf)
 
 > 参考程序
 
-- 1. [1.XYOJ-1000.CPP](csp_resource/part1/ch2/code/1.sunxu/1.XYOJ-1000.cpp)
-- 2. [2.XYOJ-9205.CPP](csp_resource/part1/ch2/code/1.sunxu/2.XYOJ-9205.cpp)
-- 3. [3.XYOJ-3571.CPP](csp_resource/part1/ch2/code/1.sunxu/3.XYOJ-3571.cpp)
-- 4. [4.XYOJ-8146.CPP](csp_resource/part1/ch2/code/1.sunxu/4.XYOJ-8146.cpp)
-- 5. [5.XYOJ-9201.CPP](csp_resource/part1/ch2/code/1.sunxu/5.XYOJ-9201.cpp)
-- 6. [6.XYOJ-8355.CPP](csp_resource/part1/ch2/code/1.sunxu/6.XYOJ-8355.cpp)
-- 7. [7.XYOJ-8359.CPP](csp_resource/part1/ch2/code/1.sunxu/7.XYOJ-8359.cpp)
-- 8. [8.XYOJ-8360.CPP](csp_resource/part1/ch2/code/1.sunxu/8.XYOJ-8360.cpp)
-- 9. [9.XYOJ-1177.CPP](csp_resource/part1/ch2/code/1.sunxu/9.XYOJ-1177.cpp)
-- 10. [10.XYOJ-1177.CPP](csp_resource/part1/ch2/code/1.sunxu/10.XYOJ-1177.cpp)
-- 11. [11.XYOJ-3567.CPP](csp_resource/part1/ch2/code/1.sunxu/11.XYOJ-3567.cpp)
-- 12. [12.XYOJ-9211.CPP](csp_resource/part1/ch2/code/1.sunxu/12.XYOJ-9211.cpp)
-- 13. [13.XYOJ-9215.CPP](csp_resource/part1/ch2/code/1.sunxu/13.XYOJ-9215.cpp)
-- 14. [14.XYOJ-9217.CPP](csp_resource/part1/ch2/code/1.sunxu/14.XYOJ-9217.cpp)
-- 15. [15.XYOJ-1129.CPP](csp_resource/part1/ch2/code/1.sunxu/15.XYOJ-1129.cpp)
-- 16. [15.XYOJ-3902.CPP](csp_resource/part1/ch2/code/1.sunxu/16.XYOJ-3902.cpp)
+- 1. [1.XYOJ-1000.CPP](csp_resource/part1/ch1/code/1.sunxu/1.XYOJ-1000.cpp)
+- 2. [2.XYOJ-9205.CPP](csp_resource/part1/ch1/code/1.sunxu/2.XYOJ-9205.cpp)
+- 3. [3.XYOJ-3571.CPP](csp_resource/part1/ch1/code/1.sunxu/3.XYOJ-3571.cpp)
+- 4. [4.XYOJ-8146.CPP](csp_resource/part1/ch1/code/1.sunxu/4.XYOJ-8146.cpp)
+- 5. [5.XYOJ-9201.CPP](csp_resource/part1/ch1/code/1.sunxu/5.XYOJ-9201.cpp)
+- 6. [6.XYOJ-8355.CPP](csp_resource/part1/ch1/code/1.sunxu/6.XYOJ-8355.cpp)
+- 7. [7.XYOJ-8359.CPP](csp_resource/part1/ch1/code/1.sunxu/7.XYOJ-8359.cpp)
+- 8. [8.XYOJ-8360.CPP](csp_resource/part1/ch1/code/1.sunxu/8.XYOJ-8360.cpp)
+- 9. [9.XYOJ-1177.CPP](csp_resource/part1/ch1/code/1.sunxu/9.XYOJ-1177.cpp)
+- 10. [10.XYOJ-1177.CPP](csp_resource/part1/ch1/code/1.sunxu/10.XYOJ-1177.cpp)
+- 11. [11.XYOJ-3567.CPP](csp_resource/part1/ch1/code/1.sunxu/11.XYOJ-3567.cpp)
+- 12. [12.XYOJ-9211.CPP](csp_resource/part1/ch1/code/1.sunxu/12.XYOJ-9211.cpp)
+- 13. [13.XYOJ-9215.CPP](csp_resource/part1/ch1/code/1.sunxu/13.XYOJ-9215.cpp)
+- 14. [14.XYOJ-9217.CPP](csp_resource/part1/ch1/code/1.sunxu/14.XYOJ-9217.cpp)
+- 15. [15.XYOJ-1129.CPP](csp_resource/part1/ch1/code/1.sunxu/15.XYOJ-1129.cpp)
+- 16. [16.XYOJ-3902.CPP](csp_resource/part1/ch1/code/1.sunxu/16.XYOJ-3902.cpp)
 
 ## 第2章：数组的应用
 > 授课PPT
 - 
 > 参考程序
+
+分治
 - 1. [1.XYOJ-1109.CPP](csp_resource/part1/ch2/code/2.fenzhi/1.XYOJ-1109.cpp)
 - 2. [2.XYOJ-1109.CPP](csp_resource/part1/ch2/code/2.fenzhi/2.XYOJ-1109.cpp)
 - 3. [3.XYOJ-9304.CPP](csp_resource/part1/ch2/code/2.fenzhi/3.XYOJ-9304.cpp)
@@ -99,10 +101,7 @@ dateCreated: 2024-06-26T03:17:46.780Z
 - 12. [12.XYOJ-6024.CPP](csp_resource/part1/ch2/code/2.fenzhi/12.XYOJ-6024.cpp)
 - 13. [13.XYOJ-9303.CPP](csp_resource/part1/ch2/code/2.fenzhi/13.XYOJ-9303.cpp)
 
-## 第3章：字符串基础
-> 授课PPT
-
-> 参考程序
+循环
 - 1. [1.XYOJ-8302.CPP](csp_resource/part1/ch2/code/3.xunhuan/1.XYOJ-8302.cpp)
 - 2. [2.XYOJ-3549.CPP](csp_resource/part1/ch2/code/3.xunhuan/2.XYOJ-3549.cpp)
 - 3. [3.XYOJ-3549.CPP](csp_resource/part1/ch2/code/3.xunhuan/3.XYOJ-3549.cpp)
@@ -124,6 +123,11 @@ dateCreated: 2024-06-26T03:17:46.780Z
 - 19. [19.XYOJ-9376.CPP](csp_resource/part1/ch2/code/3.xunhuan/19.XYOJ-9376.cpp)
 - 20. [20.XYOJ-7834.CPP](csp_resource/part1/ch2/code/3.xunhuan/20.XYOJ-7834.cpp)
 - 21. [21.XYOJ-1123.CPP](csp_resource/part1/ch2/code/3.xunhuan/21.XYOJ-1123.cpp)
+
+## 第3章：字符串基础
+> 授课PPT
+
+> 参考程序
 
 ## 第4章：递归函数设计
 > 授课PPT
