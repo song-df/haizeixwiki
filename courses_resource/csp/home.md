@@ -2,7 +2,7 @@
 title: 算法竞赛通关班
 description: 
 published: true
-date: 2024-08-07T02:20:53.341Z
+date: 2024-08-07T03:15:33.072Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T03:17:46.780Z
@@ -30,7 +30,7 @@ dateCreated: 2024-06-26T03:17:46.780Z
 > PS：无法访问欧拉原站，可不注册欧拉账号，使用中文替代站点看题：http://pe-cn.github.io/
 {.is-warning}
 
-> 3️⃣ 课程代码&讲义在下方，可以自取。
+> 3️⃣ 课程代码&讲义可在下方自取，如果能上github也可以访问：https://github.com/huguangAOA。
 
 
 > 4️⃣ 课程内容更新上线后，船长都会在群内通知大家
