@@ -2,7 +2,7 @@
 title: 算法竞赛通关班
 description: 
 published: true
-date: 2024-08-08T15:55:10.275Z
+date: 2024-08-08T15:56:00.193Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T03:17:46.780Z
@@ -63,7 +63,8 @@ dateCreated: 2024-06-26T03:17:46.780Z
 > 1.[课程导学-结构化程序设计](csp_resource/part1/ch1/pptx/csp_resource_ch01_1.pdf)
 
 > 参考程序
-> 一、顺序结构{.is_success}
+
+> 一、顺序结构{.is-success}
 
 - [1.XYOJ-1000.CPP](csp_resource/part1/ch1/code/1.sunxu/1.XYOJ-1000.cpp)
 - [2.XYOJ-9205.CPP](csp_resource/part1/ch1/code/1.sunxu/2.XYOJ-9205.cpp)
@@ -83,7 +84,7 @@ dateCreated: 2024-06-26T03:17:46.780Z
 - [16.XYOJ-3902.CPP](csp_resource/part1/ch1/code/1.sunxu/16.XYOJ-3902.cpp)
 
 
-> 二、分支结构{.is_success}
+> 二、分支结构{.is-success}
 - [1.XYOJ-1109.CPP](csp_resource/part1/ch1/code/2.fenzhi/1.XYOJ-1109.cpp)
 - [2.XYOJ-1109.CPP](csp_resource/part1/ch1/code/2.fenzhi/2.XYOJ-1109.cpp)
 - [3.XYOJ-9304.CPP](csp_resource/part1/ch1/code/2.fenzhi/3.XYOJ-9304.cpp)
@@ -98,7 +99,7 @@ dateCreated: 2024-06-26T03:17:46.780Z
 - [12.XYOJ-6024.CPP](csp_resource/part1/ch1/code/2.fenzhi/12.XYOJ-6024.cpp)
 - [13.XYOJ-9303.CPP](csp_resource/part1/ch1/code/2.fenzhi/13.XYOJ-9303.cpp)
 
-> 三、循环结构{.is_success}
+> 三、循环结构{.is-success}
 - [1.XYOJ-8302.CPP](csp_resource/part1/ch1/code/3.xunhuan/1.XYOJ-8302.cpp)
 - [2.XYOJ-3549.CPP](csp_resource/part1/ch1/code/3.xunhuan/2.XYOJ-3549.cpp)
 - [3.XYOJ-3549.CPP](csp_resource/part1/ch1/code/3.xunhuan/3.XYOJ-3549.cpp)
@@ -121,7 +122,7 @@ dateCreated: 2024-06-26T03:17:46.780Z
 - [20.XYOJ-7834.CPP](csp_resource/part1/ch1/code/3.xunhuan/20.XYOJ-7834.cpp)
 - [21.XYOJ-1123.CPP](csp_resource/part1/ch1/code/3.xunhuan/21.XYOJ-1123.cpp)
 
-> 四、循环嵌套{.is_success}
+> 四、循环嵌套{.is-success}
 - [1.XYOJ-1003.cpp](csp_resource/part1/ch1/code/4.xunhuan_qiantao/1.XYOJ-1003.cpp) 
 - [2.XYOJ-9635.cpp](csp_resource/part1/ch1/code/4.xunhuan_qiantao/2.XYOJ-9635.cpp)
 - [3.XYOJ-9634.cpp](csp_resource/part1/ch1/code/4.xunhuan_qiantao/3.XYOJ-9634.cpp) 
