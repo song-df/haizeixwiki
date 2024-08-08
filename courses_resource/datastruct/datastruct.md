@@ -2,7 +2,7 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-03-04T14:55:11.618Z
+date: 2024-08-08T16:05:51.056Z
 tags: 核心能力
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
@@ -452,16 +452,28 @@ dateCreated: 2024-02-25T06:12:37.088Z
 # 第十六章 树状数组与线段树
 
 > 授课PPT
-> 1. [ACM大牛带你玩转算法与数据结构-16-树状数组与线段树](ds_resource/part02/chapter17/pptx/datastruct_chapter16_1.pdf)
+
+- 1. [ACM大牛带你玩转算法与数据结构-16-树状数组与线段树](ds_resource/part02/chapter17/pptx/datastruct_chapter16_1.pdf)
  
 > 参考程序
-> 1. [ACM大牛带你玩转算法与数据结构-16.3-B3612：求区间和: 1.B3612.cpp](ds_resource/part02/chapter17/code/1.B3612.cpp)
-> 2. [ACM大牛带你玩转算法与数据结构-16.4-P1115：最大子段和: 2.P1115.cpp](ds_resource/part02/chapter17/code/2.P1115.cpp)
-> 3. [ACM大牛带你玩转算法与数据结构-16.6-HZOJ-232：激光炸弹: 3.HZOJ-232.cpp](ds_resource/part02/chapter17/code/3.HZOJ-232.cpp)
-> 4. [ACM大牛带你玩转算法与数据结构-16.8-P1047：校门外的树: 4.P1047.cpp](ds_resource/part02/chapter17/code/4.P1047.cpp)
-> 5. [ACM大牛带你玩转算法与数据结构-16.9-HZOJ-233：最高的奶牛: 5.HZOJ-233.cpp](ds_resource/part02/chapter17/code/5.HZOJ-233.cpp)
-> 6. [ACM大牛带你玩转算法与数据结构-16.10-P1083：<NOIP 提高组> 借教室: 6.P1083.cpp](ds_resource/part02/chapter17/code/6.P1083.cpp)
-> 7. [ACM大牛带你玩转算法与数据结构-16.11-树状数组：lowbit 函数(1): 7.lowbit.cpp](ds_resource/part02/chapter17/code/7.lowbit.cpp)
-> 8. [ACM大牛带你玩转算法与数据结构-16.12-树状数组：基础操作: 8.fenwick_tree.cpp](ds_resource/part02/chapter17/code/8.fenwick_tree.cpp)
-> 9. [ACM大牛带你玩转算法与数据结构-16.13-P3374:【模板】树状数组1: 9.P3374.cpp](ds_resource/part02/chapter17/code/9.P3374.cpp)
-> 10. [ACM大牛带你玩转算法与数据结构-16.14-P3374：P3368：【模板】树状数组2: 10.P3368.cpp](ds_resource/part02/chapter17/code/10.P3368.cpp)
+
+
+- [ACM大牛带你玩转算法与数据结构-16.3-B3612：求区间和: 1.B3612.cpp](ds_resource/part02/chapter17/code/1.B3612.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.4-P1115：最大子段和: 2.P1115.cpp](ds_resource/part02/chapter17/code/2.P1115.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.6-HZOJ-232：激光炸弹: 3.HZOJ-232.cpp](ds_resource/part02/chapter17/code/3.HZOJ-232.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.8-P1047：校门外的树: 4.P1047.cpp](ds_resource/part02/chapter17/code/4.P1047.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.9-HZOJ-233：最高的奶牛: 5.HZOJ-233.cpp](ds_resource/part02/chapter17/code/5.HZOJ-233.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.10-P1083：<NOIP 提高组> 借教室: 6.P1083.cpp](ds_resource/part02/chapter17/code/6.P1083.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.11-树状数组：lowbit 函数(1): 7.lowbit.cpp](ds_resource/part02/chapter17/code/7.lowbit.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.12-树状数组：基础操作: 8.fenwick_tree.cpp](ds_resource/part02/chapter17/code/8.fenwick_tree.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.13-P3374:【模板】树状数组1: 9.P3374.cpp](ds_resource/part02/chapter17/code/9.P3374.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.14-P3374：P3368：【模板】树状数组2: 10.P3368.cpp](ds_resource/part02/chapter17/code/10.P3368.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.20-HZOJ-222：线段树模板（一）: 11.HZOJ-222.cpp](ds_resource/part02/chapter17/code/11.HZOJ-222.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.22-HZOJ-223：线段树模板（二）: 12.HZOJ-223.cpp](ds_resource/part02/chapter17/code/12.HZOJ-223.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.23-编码技巧：动态开点: 13.HZOJ-222.cpp](ds_resource/part02/chapter17/code/13.HZOJ-222.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.25-P3919：【模板】可持久化线段树1: 14.P3919.CPP](ds_resource/part02/chapter17/code/14.P3919.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.26-HZOJ-328：楼兰图腾.mp4: 15.HZOJ-328.CPP](ds_resource/part02/chapter17/code/15.HZOJ-328.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.27~28-【思路讲解】HZOJ-330：加强的整数问题: 16.HZOJ-330.CPP](ds_resource/part02/chapter17/code/16.HZOJ-330.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.29~30-【思路讲解】HZOJ-331：Lost_cows: 17.HZOJ-331.CPP](ds_resource/part02/chapter17/code/17.HZOJ-331.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.31-HZOJ-332：买票: 18.HZOJ-332.CPP](ds_resource/part02/chapter17/code/18.HZOJ-332.cpp)
+- [ACM大牛带你玩转算法与数据结构-16.32-HZOJ-691：铺设道路: 19.HZOJ-691.CPP](ds_resource/part02/chapter17/code/19.HZOJ-691.cpp)
