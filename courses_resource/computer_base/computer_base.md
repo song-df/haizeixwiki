@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-08-08T12:27:58.477Z
+date: 2024-08-08T12:28:40.231Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -152,7 +152,7 @@ dateCreated: 2024-02-25T06:09:59.515Z
 > 授课PPT：[8.2进程及调度真题](computer_base_resource/Part2/chapter08/8.2进程及调度真题.pdf)
 > 授课PPT：[8.3进程的同步与互斥](computer_base_resource/Part2/chapter08/8.3进程的同步与互斥.pdf)
 > 授课PPT：[8.4进程同步及死锁真题](computer_base_resource/Part2/chapter08/8.4进程同步及死锁真题.pdf)
-> 授课PPT：[8.5.经典进程同步问题 & 死锁](computer_base_resource/Part2/chapter08/8.5.经典进程同步问题 & 死锁.pdf)
+> 授课PPT：[8.5.经典进程同步问题 & 死锁](computer_base_resource/Part2/chapter08/8.5.经典进程同步问题& 锁.pdf)
 
 ## 第九章：内存
 > 授课PPT：[9.1虚拟内存管理](computer_base_resource/Part2/chapter09/9.1虚拟内存管理.pdf)
