@@ -2,7 +2,7 @@
 title: 算法竞赛通关班
 description: 
 published: true
-date: 2024-08-08T15:56:00.193Z
+date: 2024-08-08T15:59:49.729Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T03:17:46.780Z
@@ -144,7 +144,7 @@ dateCreated: 2024-06-26T03:17:46.780Z
 
 ## 第2章：数组的应用
 > 授课PPT
-- [1.数组的应用](csp_resource/part1/ch3/pptx/csp_resource_ch02_1.pdf)
+- [1.数组的应用](csp_resource/part1/ch2/pptx/csp_resource_ch02_1.pdf)
 > 参考程序
 - [1.XYOJ-6319.cpp](csp_resource/part1/ch2/code/1.XYOJ-6319.cpp)
 - [2.XYOJ-6281.cpp](csp_resource/part1/ch2/code/2.XYOJ-6281.cpp)
