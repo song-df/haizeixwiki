@@ -2,7 +2,7 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-08-08T16:17:26.207Z
+date: 2024-08-08T16:17:34.283Z
 tags: 核心能力
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
@@ -455,7 +455,7 @@ dateCreated: 2024-02-25T06:12:37.088Z
 
 - 1. [ACM大牛带你玩转算法与数据结构-16-树状数组与线段树](ds_resource/part02/chapter17/pptx/datastruct_chapter16_1.pdf)
 - 2. [ACM大牛带你玩转算法与数据结构-16-线段树](ds_resource/part02/chapter17/pptx/datastruct_chapter16_2.pdf)
-- 2. [ACM大牛带你玩转算法与数据结构-16-P3924：康娜的线段树](ds_resource/part02/chapter17/pptx/datastruct_chapter16_3.pdf)
+- 3. [ACM大牛带你玩转算法与数据结构-16-P3924：康娜的线段树](ds_resource/part02/chapter17/pptx/datastruct_chapter16_3.pdf)
 
 
  
