@@ -2,7 +2,7 @@
 title: 算法竞赛通关班
 description: 
 published: true
-date: 2024-08-08T15:51:36.217Z
+date: 2024-08-08T15:55:10.275Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T03:17:46.780Z
@@ -145,22 +145,22 @@ dateCreated: 2024-06-26T03:17:46.780Z
 > 授课PPT
 - [1.数组的应用](csp_resource/part1/ch3/pptx/csp_resource_ch02_1.pdf)
 > 参考程序
-- [1.XYOJ-6319.cpp](csp_resource/part1/ch3/code/1.XYOJ-6319.cpp)
-- [2.XYOJ-6281.cpp](csp_resource/part1/ch3/code/2.XYOJ-6281.cpp)
-- [3.XYOJ-6069.cpp](csp_resource/part1/ch3/code/3.XYOJ-6069.cpp)
-- [4.XYOJ-6344.cpp](csp_resource/part1/ch3/code/4.XYOJ-6344.cpp)
-- [5.XYOJ-6306.cpp](csp_resource/part1/ch3/code/5.XYOJ-6306.cpp)
-- [6.XYOJ-6306.cpp](csp_resource/part1/ch3/code/6.XYOJ-1198.cpp)
-- [7.XYOJ-3565.cpp](csp_resource/part1/ch3/code/7.XYOJ-3565.cpp)
-- [8.XYOJ-1204.cpp](csp_resource/part1/ch3/code/8.XYOJ-1204.cpp)
-- [9.XYOJ-1206.cpp](csp_resource/part1/ch3/code/9.XYOJ-1206.cpp)
-- [10.XYOJ-1240.cpp](csp_resource/part1/ch3/code/10.XYOJ-1240.cpp)
-- [11.XYOJ-1477.cpp](csp_resource/part1/ch3/code/11.XYOJ-1477.cpp)
-- [12.XYOJ-9398.cpp](csp_resource/part1/ch3/code/12.XYOJ-9398-2.cpp)
-- [13.XYOJ-9231.cpp](csp_resource/part1/ch3/code/13.XYOJ-9231.cpp)
-- [14.XYOJ-3561.cpp](csp_resource/part1/ch3/code/14.XYOJ-3561.cpp)
-- [14.XYOJ-9173.cpp](csp_resource/part1/ch3/code/15.XYOJ-9173.cpp)
-- [16.XYOJ-6272.cpp](csp_resource/part1/ch3/code/16.XYOJ-6272.cpp)
+- [1.XYOJ-6319.cpp](csp_resource/part1/ch2/code/1.XYOJ-6319.cpp)
+- [2.XYOJ-6281.cpp](csp_resource/part1/ch2/code/2.XYOJ-6281.cpp)
+- [3.XYOJ-6069.cpp](csp_resource/part1/ch2/code/3.XYOJ-6069.cpp)
+- [4.XYOJ-6344.cpp](csp_resource/part1/ch2/code/4.XYOJ-6344.cpp)
+- [5.XYOJ-6306.cpp](csp_resource/part1/ch2/code/5.XYOJ-6306.cpp)
+- [6.XYOJ-6306.cpp](csp_resource/part1/ch2/code/6.XYOJ-1198.cpp)
+- [7.XYOJ-3565.cpp](csp_resource/part1/ch2/code/7.XYOJ-3565.cpp)
+- [8.XYOJ-1204.cpp](csp_resource/part1/ch2/code/8.XYOJ-1204.cpp)
+- [9.XYOJ-1206.cpp](csp_resource/part1/ch2/code/9.XYOJ-1206.cpp)
+- [10.XYOJ-1240.cpp](csp_resource/part1/ch2/code/10.XYOJ-1240.cpp)
+- [11.XYOJ-1477.cpp](csp_resource/part1/ch2/code/11.XYOJ-1477.cpp)
+- [12.XYOJ-9398.cpp](csp_resource/part1/ch2/code/12.XYOJ-9398-2.cpp)
+- [13.XYOJ-9231.cpp](csp_resource/part1/ch2/code/13.XYOJ-9231.cpp)
+- [14.XYOJ-3561.cpp](csp_resource/part1/ch2/code/14.XYOJ-3561.cpp)
+- [14.XYOJ-9173.cpp](csp_resource/part1/ch2/code/15.XYOJ-9173.cpp)
+- [16.XYOJ-6272.cpp](csp_resource/part1/ch2/code/16.XYOJ-6272.cpp)
 
 ## 第3章：字符串基础
 > 授课PPT
