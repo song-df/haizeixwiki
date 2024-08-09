@@ -2,7 +2,7 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-08-08T16:17:34.283Z
+date: 2024-08-09T06:26:00.658Z
 tags: 核心能力
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
@@ -481,3 +481,8 @@ dateCreated: 2024-02-25T06:12:37.088Z
 - [17.ACM大牛带你玩转算法与数据结构-16.29~30-【思路讲解】HZOJ-331：Lost_cows: 17.HZOJ-331.CPP](ds_resource/part02/chapter17/code/17.HZOJ-331.cpp)
 - [18.ACM大牛带你玩转算法与数据结构-16.31-HZOJ-332：买票: 18.HZOJ-332.CPP](ds_resource/part02/chapter17/code/18.HZOJ-332.cpp)
 - [19.ACM大牛带你玩转算法与数据结构-16.32-HZOJ-691：铺设道路: 19.HZOJ-691.CPP](ds_resource/part02/chapter17/code/19.HZOJ-691.cpp)
+- [20.ACM大牛带你玩转算法与数据结构-16.33.HZOJ-224：复合线段树：20.HZOJ-224.cpp](ds_resource/part02/chapter17/code/20.HZOJ-224.cpp)
+- [21.ACM大牛带你玩转算法与数据结构-16.34.HZOJ-333：区间最大子段和: 21.HZOJ-333.cpp](ds_resource/part02/chapter17/code/21.HZOJ-333.cpp)
+- [22.ACM大牛带你玩转算法与数据结构-16.35.P1438：无聊的数列: 22.P1438.cpp](ds_resource/part02/chapter17/code/22.P1438.cpp)
+- [23.ACM大牛带你玩转算法与数据结构-16.37.P3924：康娜的线段树: 23.P3924.cpp](ds_resource/part02/chapter17/code/23.P3924.cpp)
+- [24.ACM大牛带你玩转算法与数据结构-16.39.HZOJ-334：区间最大公约数: 24.HZOJ-334.cpp](ds_resource/part02/chapter17/code/24.HZOJ-334.cpp)
