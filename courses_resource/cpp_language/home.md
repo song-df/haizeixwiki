@@ -2,7 +2,7 @@
 title: C++零基础到高级
 description: 
 published: true
-date: 2024-03-28T15:30:32.575Z
+date: 2024-08-15T14:57:42.095Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-02T14:03:08.619Z
@@ -30,6 +30,7 @@ dateCreated: 2024-03-02T14:03:08.619Z
 
 > 3️⃣ 课程代码&讲义在下方，可以自取。
 > 同时也在Github上线了所有代码：👉 https地址: https://github.com/huguangAOA/Bilibili-Cpplang.git
+> 如果想批量下载课件，船长给大家准备了网盘链接：https://pan.baidu.com/s/1P-vUGhydxv1DFdAESngcAA?pwd=ms8f 提取码: ms8f 
 {.is-success}
 
 > 4️⃣ 课程内容更新上线后，船长都会在群内通知大家
