@@ -2,7 +2,7 @@
 title: 海贼宝藏课程资料
 description: 初航我带你，远航靠自己
 published: true
-date: 2024-07-16T04:46:46.588Z
+date: 2024-08-21T04:34:29.824Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T05:31:00.811Z
@@ -27,7 +27,7 @@ dateCreated: 2024-02-25T05:31:00.811Z
 {.links-list}
 
 # 🧰 提效工具
-- [🤖 海贼AI助教使用手册 *24小时在线的全能学习好帮手*](/courses_resource/dingding_ai_assistant)
+- [🤖 海贼AI助教使用手册 *24小时在线的全能学习好帮手*](/courses_resource/ai_assistant)
 {.links-list}
 
 # ⚙ 学习环境及工具
