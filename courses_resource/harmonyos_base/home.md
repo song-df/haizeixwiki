@@ -2,14 +2,18 @@
 title: HarmonyOS应用开发者基础认证
 description: 
 published: true
-date: 2024-04-23T02:03:02.434Z
+date: 2024-08-21T04:24:26.196Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-02T14:29:12.861Z
 ---
 
 > :one: 本课程属于船说系列课程之一，现只对船票学员开放学习，不支持单独购买
-> :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享一年内无限制学习已上线的所有船说系列课程：[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598){target="_blank"}
+> :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享期内无限制学习已上线的所有船说系列课程：
+[💰 船票1年期购买入口](https://b23.tv/uCOhTk2){target="_blank"}
+[💰 船票4年期购买入口](https://b23.tv/vU6TsQU){target="_blank"}
+优惠券可以找Bili姐👩‍💻领取。姐的二维码：
+![新bili姐.png](/images/新bili姐.png)
 {.is-success}
 
 # 💗温馨提醒【初航我带你，远航靠自己】
@@ -27,8 +31,7 @@ dateCreated: 2024-03-02T14:29:12.861Z
 > 4️⃣ 同学有问题的话可以群内咨询，老师会在看到后第一时间进行解答哦
 {.is-success}
 
-> 有其他搞不明白的，可以找Bili姐：
-![新bili姐.png](/images/新bili姐.png =200x)
+> 有其他搞不明白的，可以找Bili姐
 
 # 第1章 准备工作
 
