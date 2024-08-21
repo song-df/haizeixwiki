@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-08-21T04:26:37.441Z
+date: 2024-08-21T04:29:29.270Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -13,7 +13,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 [💰 船票1年期购买入口](https://b23.tv/uCOhTk2){target="_blank"}
 [💰 船票4年期购买入口](https://b23.tv/vU6TsQU){target="_blank"}
 优惠券可以找Bili姐👩‍💻领取。姐的二维码：
-![新bili姐.png](/images/新bili姐.png)
+![新bili姐.png](/images/新bili姐.png =100x)
 {.is-success}
 
 # 💗温馨提醒【初航我带你，远航靠自己】
