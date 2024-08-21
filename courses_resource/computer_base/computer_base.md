@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-08-21T04:23:06.473Z
+date: 2024-08-21T04:27:04.032Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -36,8 +36,7 @@ dateCreated: 2024-02-25T06:09:59.515Z
 > 5️⃣ 本课程学习之前，如果有C语言基础，效果会更佳
 {.is-info}
 
-> 有其他搞不明白的，可以找Bili姐：
-![新bili姐.png](/images/新bili姐.png =200x)
+> 有其他搞不明白的，可以找Bili姐
 
 # Part1：组成原理篇
 
