@@ -2,7 +2,7 @@
 title: Linux开发环境配置
 description: 
 published: true
-date: 2024-08-21T04:16:35.517Z
+date: 2024-08-21T04:32:23.037Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:24.379Z
@@ -11,6 +11,8 @@ dateCreated: 2024-03-02T05:33:24.379Z
 > 如果想以超低成本获得一年十多门船说系列课程的学习机会，可购买船票。
 [💰 船票1年期购买入口](https://b23.tv/uCOhTk2)
 [💰 船票4年期购买入口](https://b23.tv/vU6TsQU)
+优惠券可以找Bili姐👩‍💻领取。姐的二维码：
+![新bili姐.png](/images/新bili姐.png =100x)
 {.is-success}
 
 
