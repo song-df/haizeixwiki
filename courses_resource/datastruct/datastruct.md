@@ -2,7 +2,7 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-08-21T04:20:54.509Z
+date: 2024-08-21T04:23:23.144Z
 tags: 核心能力
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
@@ -12,7 +12,8 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享期内无限制学习已上线的所有船说系列课程：
 [💰 船票1年期购买入口](https://b23.tv/uCOhTk2){target="_blank"}
 [💰 船票4年期购买入口](https://b23.tv/vU6TsQU){target="_blank"}
-优惠券可以找Bili姐👩‍💻领取。
+优惠券可以找Bili姐👩‍💻领取。姐的二维码：
+![新bili姐.png](/images/新bili姐.png)
 {.is-success}
 
 
