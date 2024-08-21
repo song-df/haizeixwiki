@@ -2,7 +2,7 @@
 title: 海贼AI助教使用手册
 description: 
 published: true
-date: 2024-08-21T04:31:09.124Z
+date: 2024-08-21T04:34:58.497Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-06-29T11:59:00.080Z
@@ -31,6 +31,4 @@ dateCreated: 2024-06-29T11:59:00.080Z
 
 ---
 
-> 有问题也可以找 👧Bili姐 啊, 她的二维码在这里 👇
-![新bili姐.png](/images/新bili姐.png =200x)
 {.is-success}
