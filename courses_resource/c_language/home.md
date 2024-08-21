@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-08-21T04:22:50.990Z
+date: 2024-08-21T04:26:37.441Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -42,8 +42,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 5️⃣ 同学有问题的话可以咨询船长，老师会在看到后第一时间进行解答哦
 {.is-success}
 
-> 有其他搞不明白的，可以找Bili姐：
-![新bili姐.png](/images/新bili姐.png =200x)
+> 有其他搞不明白的，可以找Bili姐
 
 # Part1:C语言之应试篇
 > 零基础掌握C语言核心知识，打开编程世界之门，轻松搞定期末考试{.is-success}
