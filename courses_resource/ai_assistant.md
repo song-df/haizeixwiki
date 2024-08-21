@@ -2,7 +2,7 @@
 title: 海贼AI助教使用手册
 description: 
 published: true
-date: 2024-08-21T04:16:16.322Z
+date: 2024-08-21T04:31:09.124Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-06-29T11:59:00.080Z
@@ -11,6 +11,8 @@ dateCreated: 2024-06-29T11:59:00.080Z
 > 如果想以超低成本获得十多门船说系列课程的学习机会，可购买船票。
 [💰 船票1年期购买入口](https://b23.tv/uCOhTk2)
 [💰 船票4年期购买入口](https://b23.tv/vU6TsQU)
+优惠券可以找Bili姐👩‍💻领取。姐的二维码：
+![新bili姐.png](/images/新bili姐.png =100x)
 {.is-success}
 
 
