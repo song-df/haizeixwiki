@@ -2,16 +2,17 @@
 title: 海贼AI助教使用手册
 description: 
 published: true
-date: 2024-06-29T12:22:26.019Z
+date: 2024-08-21T04:16:16.322Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-06-29T11:59:00.080Z
 ---
 
-> 购买B站船票，即可获得功能强大的海贼AI助教
-如果想以超低成本获得一年13门船票课程的学习机会，可购买船票。
-[💰 船票购买入口](https://www.bilibili.com/cheese/pages/packageCourseDetail?productId=598)
+> 如果想以超低成本获得十多门船说系列课程的学习机会，可购买船票。
+[💰 船票1年期购买入口](https://b23.tv/uCOhTk2)
+[💰 船票4年期购买入口](https://b23.tv/vU6TsQU)
 {.is-success}
+
 
 
 # 通过以下链接直达海贼AI助教
