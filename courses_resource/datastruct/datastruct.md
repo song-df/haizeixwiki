@@ -2,7 +2,7 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-08-21T04:23:23.144Z
+date: 2024-08-21T04:27:55.183Z
 tags: 核心能力
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
@@ -46,8 +46,7 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 6️⃣ 本课程的前置课程为[C语言全能实战](/courses_resource/c_language/home)
 {.is-success}
 
-> 有其他搞不明白的，可以找Bili姐：
-![新bili姐.png](/images/新bili姐.png =200x)
+> 有其他搞不明白的，可以找Bili姐
 
 
 # 第零章 从复杂度开始认识算法
