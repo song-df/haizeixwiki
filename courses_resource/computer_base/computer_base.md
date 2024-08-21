@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-08-21T04:27:04.032Z
+date: 2024-08-21T04:29:44.002Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -13,7 +13,7 @@ dateCreated: 2024-02-25T06:09:59.515Z
 [💰 船票1年期购买入口](https://b23.tv/uCOhTk2){target="_blank"}
 [💰 船票4年期购买入口](https://b23.tv/vU6TsQU){target="_blank"}
 优惠券可以找Bili姐👩‍💻领取。姐的二维码：
-![新bili姐.png](/images/新bili姐.png)
+![新bili姐.png](/images/新bili姐.png =100x)
 {.is-success}
 
 
