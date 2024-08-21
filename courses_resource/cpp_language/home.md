@@ -2,7 +2,7 @@
 title: C++零基础到高级
 description: 
 published: true
-date: 2024-08-21T04:25:45.576Z
+date: 2024-08-21T04:30:19.068Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-02T14:03:08.619Z
@@ -13,7 +13,7 @@ dateCreated: 2024-03-02T14:03:08.619Z
 [💰 船票1年期购买入口](https://b23.tv/uCOhTk2){target="_blank"}
 [💰 船票4年期购买入口](https://b23.tv/vU6TsQU){target="_blank"}
 优惠券可以找Bili姐👩‍💻领取。姐的二维码：
-![新bili姐.png](/images/新bili姐.png =200x)
+![新bili姐.png](/images/新bili姐.png =100x)
 {.is-success}
 
 # 💗温馨提醒【初航我带你，远航靠自己】
