@@ -2,7 +2,7 @@
 title: 算法竞赛通关班
 description: 
 published: true
-date: 2024-08-08T15:59:49.729Z
+date: 2024-08-21T04:26:09.374Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T03:17:46.780Z
@@ -10,8 +10,10 @@ dateCreated: 2024-06-26T03:17:46.780Z
 
 > :one: 本课程属于船说系列课程之一，[💰单课购买点这里](https://b23.tv/byzTiaB){target="_blank"}
 > :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享期内无限制学习已上线的所有船说系列课程：
-[💰 船票4年购买入口](https://b23.tv/byzTiaB){target="_blank"}
-[💰 船票1年购买入口](https://b23.tv/uCOhTk2){target="_blank"}
+[💰 船票1年期购买入口](https://b23.tv/uCOhTk2){target="_blank"}
+[💰 船票4年期购买入口](https://b23.tv/vU6TsQU){target="_blank"}
+优惠券可以找Bili姐👩‍💻领取。姐的二维码：
+![新bili姐.png](/images/新bili姐.png =200x)
 {.is-success}
 
 # 💗温馨提醒【初航我带你，远航靠自己】
