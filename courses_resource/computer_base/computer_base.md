@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2024-08-21T04:29:44.002Z
+date: 2024-08-25T05:45:55.365Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -161,7 +161,10 @@ dateCreated: 2024-02-25T06:09:59.515Z
 > 授课PPT：[9.1虚拟内存管理](computer_base_resource/Part2/chapter09/9.1虚拟内存管理.pdf)
 > 授课PPT：[9.2内存管理](computer_base_resource/Part2/chapter09/9.2内存管理pptx.pdf)
 
+
 ## 第十章：线程与并发
+> 授课PPT：[10.1设备管理](computer_base_resource/Part2/chapter10/10.1设备管理.pdf)
+
 ## 第十一章：操作系统实战
 
 # Part3：计算机网络篇
