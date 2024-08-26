@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-08-26T13:26:31.879Z
+date: 2024-08-26T13:27:54.082Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -88,7 +88,7 @@ Tabby是一个现代化的先进的跨平台终端工具，可以用来替代Win
 将如下代码复制到项目的源码文件中：
 
 ```c
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <stdbool.h>
 
 int main(int argc, char* argv[]) {
