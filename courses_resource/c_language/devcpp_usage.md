@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-08-26T13:29:07.121Z
+date: 2024-08-26T13:31:21.859Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -138,6 +138,8 @@ int main(int argc, char* argv[]) {
 
         // 呈现渲染结果
         SDL_RenderPresent(renderer);
+        
+        SDL_Delay(16);//60Hz 刷新
     }
 
     // 清理资源
