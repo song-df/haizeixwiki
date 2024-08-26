@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-08-26T10:51:50.670Z
+date: 2024-08-26T10:52:52.718Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -23,5 +23,5 @@ dateCreated: 2024-08-26T10:51:50.670Z
 - [DevCpp6.7.5](https://pan.baidu.com/s/1veN2Sxy5qkhY2w2UUZcHyA?pwd=vkac){target="_blank"}
 
 Tabby是一个现代化的先进的跨平台终端工具，可以用来替代Windows的cmd窗口工具或者是PowerShell工具。具体使用文档和下载链接如下：
-- [Tabby使用](courses_resource/cloud_usage/快速使用云环境)
+- [Tabby使用](/courses_resource/cloud_usage/快速使用云环境)
 - [Tabby](https://pan.baidu.com/s/1BmCOxvg9SC4JPBolnoAvmw?pwd=46fk){target="_blank"}
