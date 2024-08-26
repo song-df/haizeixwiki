@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-08-26T11:32:58.521Z
+date: 2024-08-26T13:26:31.879Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -49,7 +49,7 @@ Tabby是一个现代化的先进的跨平台终端工具，可以用来替代Win
 - [SDL2压缩包](https://pan.baidu.com/s/1BmCOxvg9SC4JPBolnoAvmw?pwd=46fk){target="_blank"}
 
 # 五、解压SDL2-devel-2.30.6-mingw.zip，并将里面的SDL2-2.30.6目录复制到Dev-Cpp目录：
-![SDL2目录保存](/courses_resource/c_language/devcpp_usage_images/sdl2_foler_save.png)
+![SDL2目录保存](/courses_resource/c_language/devcpp_usage_images/sdl2_folder_save.png)
 
 # 六、在想要使用的项目中添加SDL2
 ## 6.1 选中项目，并点“项目配置”图标打开配置窗口（也可在项目上右键进入）
