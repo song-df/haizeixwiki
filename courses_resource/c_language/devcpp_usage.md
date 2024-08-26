@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-08-26T13:27:54.082Z
+date: 2024-08-26T13:29:07.121Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -151,3 +151,5 @@ int main(int argc, char* argv[]) {
 ```
 保存后按F11编译运行，可得到图形显示效果：
 ![测试SDL2结果](/courses_resource/c_language/devcpp_usage_images/sdl2_draw_square_1.png)
+
+> 恭喜，SDL2图形库安装配置成功，可继续{.is-success}
