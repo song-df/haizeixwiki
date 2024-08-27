@@ -2,19 +2,12 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-08-27T01:43:06.886Z
+date: 2024-08-27T04:47:22.108Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
 ---
 
-> :one: DevC++为Windows平台的C语言集成开发环境之一，如果想要完整的学习C语言课程，可前往购买单课[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss3380){target="_blank"}
-> :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享期内无限制学习已上线的所有船说系列课程：
-[💰 船票1年期购买入口](https://b23.tv/uCOhTk2){target="_blank"}
-[💰 船票4年期购买入口](https://b23.tv/vU6TsQU){target="_blank"}
-优惠券可以找Bili姐👩‍💻领取。姐的二维码：
-![新bili姐.png](/images/新bili姐.png =100x)
-{.is-success}
 
 
 # 一、DevC++安装包下载
