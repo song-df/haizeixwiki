@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-09-01T14:28:00.299Z
+date: 2024-09-01T14:30:36.746Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -70,17 +70,17 @@ int main(){
 > 恭喜，DevCPP安装成功，并能正常运行C程序。{.is-success}
 
 
-# 四、下载并添加SDL2图形界面库到DevCPP
+# 五、下载并添加SDL2图形界面库到DevCPP
 - [SDL2压缩包](https://pan.baidu.com/s/1CLNwxPlxeo4fH-DJCa0E5w?pwd=f4h5){target="_blank"}
 
 
-# 五、解压SDL2-devel-2.30.6-mingw.zip，并将里面的SDL2-2.30.6目录复制到Dev-Cpp目录：
+# 六、解压SDL2-devel-2.30.6-mingw.zip，并将里面的SDL2-2.30.6目录复制到Dev-Cpp目录：
 ![SDL2目录保存](/courses_resource/c_language/devcpp_usage_images/sdl2_folder_save.png)
 
-# 六、在想要使用的项目中添加SDL2
-## 6.1 选中项目，并点“项目配置”图标打开配置窗口（也可在项目上右键进入）
+# 七、在想要使用的项目中添加SDL2
+## 7.1 选中项目，并点“项目配置”图标打开配置窗口（也可在项目上右键进入）
 ![项目配置](/courses_resource/c_language/devcpp_usage_images/project_setup.png)
-## 6.2 在配置窗口选择参数标签，并在链接一栏输入三行：
+## 7.2 在配置窗口选择参数标签，并在链接一栏输入三行：
 
 ```
 -lmingw32
@@ -93,7 +93,7 @@ int main(){
 
 ![项目链接库配置](/courses_resource/c_language/devcpp_usage_images/project_setup_parameter_ld.png)
 
-## 6.3 添加头文件路径和库文件路径
+## 7.3 添加头文件路径和库文件路径
 打开“文件/目录”标签，并选中下面的“库目录”标签
 ![添加库目录1](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_1.png)
 找到sdl2的lib目录
@@ -107,10 +107,10 @@ int main(){
 
 完成以上步骤后，点项目选项窗口的确定按钮保存关闭窗口。
 
-## 6.4 从SDL2目录中复制SDL2.dll到项目目录
+## 7.4 从SDL2目录中复制SDL2.dll到项目目录
 ![制作SDL2.dll](/courses_resource/c_language/devcpp_usage_images/project_setup_copy_sdl2.dll.png)
 
-# 七、测试SDL2是否正常
+# 八、测试SDL2是否正常
 将如下代码复制到项目的源码文件中：
 
 ```c
