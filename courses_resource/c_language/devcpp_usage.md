@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-08-31T17:59:12.602Z
+date: 2024-09-01T14:28:00.299Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -37,10 +37,42 @@ Tabby是一个现代化的先进的跨平台终端工具，可以用来替代Win
 ![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_helloworld.png)
 ![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_helloworld2.png)
 
+# 四、调整编译器，支持C99标准，方便使用更多语言特性
+
+### 4.1 从菜单进入编译设置：
+
+![compiler_setup1](devcpp_usage_images/compiler_setup1.png)
+
+### 4.2 打开编译选项窗口后，按下图顺序设置，选择C99标准
+
+![compiler_setup1](devcpp_usage_images/compiler_setup2.png)
+
+### 4.3 测试C99标准是否生效
+
+编译执行如下代码是否正常：
+
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+	for(int i=0;i<3;i++){
+		printf("%d,hello world!\n",i);
+	}
+	return 0;
+}
+```
+
+在编译日志中会看到标准的启用：
+
+![compiler_setup1](devcpp_usage_images/compiler_setup3.png)
+
 > 恭喜，DevCPP安装成功，并能正常运行C程序。{.is-success}
+
 
 # 四、下载并添加SDL2图形界面库到DevCPP
 - [SDL2压缩包](https://pan.baidu.com/s/1CLNwxPlxeo4fH-DJCa0E5w?pwd=f4h5){target="_blank"}
+
 
 # 五、解压SDL2-devel-2.30.6-mingw.zip，并将里面的SDL2-2.30.6目录复制到Dev-Cpp目录：
 ![SDL2目录保存](/courses_resource/c_language/devcpp_usage_images/sdl2_folder_save.png)
