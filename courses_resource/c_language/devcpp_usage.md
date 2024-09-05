@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-09-01T14:30:36.746Z
+date: 2024-09-05T04:53:17.911Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -26,28 +26,17 @@ Tabby是一个现代化的先进的跨平台终端工具，可以用来替代Win
 ![安装DevCPP路径修改](/courses_resource/c_language/devcpp_usage_images/devcpp_installpath_root.png)
 
 
-# 三、创建工程
-## 1、通过菜单:文件→新建→项目,打开新建窗口
-![新建项目](/courses_resource/c_language/devcpp_usage_images/create_new_project.png)
-## 2、在新建窗口中选择“Console Application”，C项目，项目名称优先全英文
-![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_setup.png)
-## 3、项目保存路径推荐(尽量不使用中文路径)：
-![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_savepath.png)
-## 4、创建完成后，可添加打印程序行，通过点击菜单栏的编译运行或F11，在终端输出hello world!
-![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_helloworld.png)
-![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_helloworld2.png)
+# 三、调整编译器，支持C99标准，方便使用更多语言特性
 
-# 四、调整编译器，支持C99标准，方便使用更多语言特性
+## 3.1 从菜单进入编译设置：
 
-### 4.1 从菜单进入编译设置：
+![compiler_setup1](/courses_resource/c_language/devcpp_usage_images/compiler_setup1.png)
 
-![compiler_setup1](devcpp_usage_images/compiler_setup1.png)
+## 3.2 打开编译选项窗口后，按下图顺序设置，选择C99标准
 
-### 4.2 打开编译选项窗口后，按下图顺序设置，选择C99标准
+![compiler_setup1](/courses_resource/c_language/devcpp_usage_images/compiler_setup2.png)
 
-![compiler_setup1](devcpp_usage_images/compiler_setup2.png)
-
-### 4.3 测试C99标准是否生效
+## 3.3 测试C99标准是否生效
 
 编译执行如下代码是否正常：
 
@@ -65,7 +54,18 @@ int main(){
 
 在编译日志中会看到标准的启用：
 
-![compiler_setup1](devcpp_usage_images/compiler_setup3.png)
+![compiler_setup1](/courses_resource/c_language/devcpp_usage_images/compiler_setup3.png)
+# 四、创建工程
+## 4.1、通过菜单:文件→新建→项目,打开新建窗口
+![新建项目](/courses_resource/c_language/devcpp_usage_images/create_new_project.png)
+## 4.2、在新建窗口中选择“Console Application”，C项目，项目名称优先全英文
+![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_setup.png)
+## 4.3、项目保存路径推荐(尽量不使用中文路径)：
+![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_savepath.png)
+## 4.4、创建完成后，可添加打印程序行，通过点击菜单栏的编译运行或F11，在终端输出hello world!
+![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_helloworld.png)
+![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_helloworld2.png)
+
 
 > 恭喜，DevCPP安装成功，并能正常运行C程序。{.is-success}
 
