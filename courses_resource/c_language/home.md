@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-08-21T04:29:29.270Z
+date: 2024-09-05T00:37:07.785Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -376,7 +376,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 13. [ACM金牌带你零基础直达C语言精通-8.17-编程技巧：界面切换流程--12.user_interface.c](c_language_resource/part1/chapter08/code/12.user_interface.c)
 > 14. [ACM金牌带你零基础直达C语言精通-8.18-编程技巧：界面切换流程--12.user_interface.c](c_language_resource/part1/chapter08/code/12.user_interface.c)
 > 15. [ACM金牌带你零基础直达C语言精通-8.20-编程技巧：注册函数--14.attribute.c](c_language_resource/part1/chapter08/code/14.attribute.c)
-> 16. [ACM金牌带你零基础直达C语言精通-8.19~8.30-项目文件--13.project](c_language_resource/part1/chapter08/code/13.project)
+> 16. [ACM金牌带你零基础直达C语言精通-8.19~8.30-项目文件--13.project](c_language_resource/part1/chapter08/code/13.project.zip)
 
 > 课代表笔记
 > [C语言笔记:文件操作](https://blog.csdn.net/qq_58240849/article/details/137114939?spm=1001.2014.3001.5502){target='_blank'}
