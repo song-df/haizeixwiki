@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-09-05T00:48:04.487Z
+date: 2024-09-05T00:49:09.854Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -370,11 +370,11 @@ dateCreated: 2024-03-01T15:16:58.351Z
 > 7. [ACM金牌带你零基础直达C语言精通-8.11-知识补充：设置文件位置时的中心--7.fseek_position.c](c_language_resource/part1/chapter08/code/7.fseek_position.c)
 > 8. [ACM金牌带你零基础直达C语言精通-8.12-再学：文件打开模式--8.fseek_and_faccess.c](c_language_resource/part1/chapter08/code/8.fseek_and_faccess.c)
 > 9. [ACM金牌带你零基础直达C语言精通-8.14-优化1：代码演示--9.student_system.c](c_language_resource/part1/chapter08/code/9.student_system.c)
-> 10.[ACM金牌带你零基础直达C语言精通-8.15-二进制文件操作：fwrite与fread--10.fwrite_fread.c](c_language_resource/part1/chapter08/code/10.fwrite_fread.c)
-> 11.[ACM金牌带你零基础直达C语言精通-8.16-优化2：实现数据的二进制存储--11.student_system.c](c_language_resource/part1/chapter08/code/11.student_system.c)
-> 12.[ACM金牌带你零基础直达C语言精通-8.17-编程技巧：界面切换流程--12.user_interface.c](c_language_resource/part1/chapter08/code/12.user_interface.c)
-> 13.[ACM金牌带你零基础直达C语言精通-8.19~8.30-项目文件--13.project.zip](c_language_resource/part1/chapter08/code/13.project.zip)
-> 14.[ACM金牌带你零基础直达C语言精通-8.20-编程技巧：注册函数--14.attribute.c](c_language_resource/part1/chapter08/code/14.attribute.c)
+> 10. [ACM金牌带你零基础直达C语言精通-8.15-二进制文件操作：fwrite与fread--10.fwrite_fread.c](c_language_resource/part1/chapter08/code/10.fwrite_fread.c)
+> 11. [ACM金牌带你零基础直达C语言精通-8.16-优化2：实现数据的二进制存储--11.student_system.c](c_language_resource/part1/chapter08/code/11.student_system.c)
+> 12. [ACM金牌带你零基础直达C语言精通-8.17-编程技巧：界面切换流程--12.user_interface.c](c_language_resource/part1/chapter08/code/12.user_interface.c)
+> 13. [ACM金牌带你零基础直达C语言精通-8.19~8.30-项目文件--13.project.zip](c_language_resource/part1/chapter08/code/13.project.zip)
+> 14. [ACM金牌带你零基础直达C语言精通-8.20-编程技巧：注册函数--14.attribute.c](c_language_resource/part1/chapter08/code/14.attribute.c)
 
 
 > 课代表笔记
