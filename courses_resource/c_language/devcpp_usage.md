@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-09-06T10:28:13.812Z
+date: 2024-09-06T12:46:30.008Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -22,7 +22,7 @@ Tabby是一个现代化的先进的跨平台终端工具，可以用来替代Win
 # 二、安装注意点:安装路径配置
 整个安装过程和常规软件安装一样，跟着向导next就可以。
 在碰到安装路径选择时，优先推荐安装到C或D盘根目录下的Dev-Cpp，此设置主要是在编译程序时路径名中没有中文和空格。
-![安装DevCPP路径修改](/courses_resource/c_language/devcpp_usage_images/devcpp_installpath_root.png)
+![安装DevCPP路径修改](/courses_resource/c_language/devcpp_usage_images/devcpp_installpath_root.png =100x)
 
 
 # 三、调整编译器，支持C99标准，方便使用更多语言特性
