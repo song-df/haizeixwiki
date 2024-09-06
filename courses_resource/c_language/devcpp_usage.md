@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-09-05T06:20:08.794Z
+date: 2024-09-06T10:25:24.809Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -102,8 +102,8 @@ int main(){
 ![添加库目录成功](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_4.png)
 
 按上面的相同的方法，将包含文件目录添加上：
-![添加包含文件目录](/courses_resource/c_language/devcpp_usage_images/project_setup_include_path_1.png)
-![添加包含文件目录结果](/courses_resource/c_language/devcpp_usage_images/project_setup_include_path_2.png)
+![添加包含文件目录](/courses_resource/c_language/devcpp_usage_images/project_setup_include_path_3.png)
+![添加包含文件目录结果](/courses_resource/c_language/devcpp_usage_images/project_setup_include_path_4.png)
 
 完成以上步骤后，点项目选项窗口的确定按钮保存关闭窗口。
 
