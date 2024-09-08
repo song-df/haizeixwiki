@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-09-08T09:01:46.942Z
+date: 2024-09-08T09:32:54.340Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -77,15 +77,15 @@ int main(){
 # 六、解压SDL2-devel-2.30.6-mingw.zip，并将里面的SDL2-2.30.6目录复制到Dev-Cpp目录：
 ![SDL2目录保存](/courses_resource/c_language/devcpp_usage_images/sdl2_folder_save.png)
 
-# 七、在想要使用的项目中添加SDL2
-## 7.1 选中项目，并点“项目配置”图标打开配置窗口（也可在项目上右键进入）
-![项目配置](/courses_resource/c_language/devcpp_usage_images/project_setup.png)
-## 7.2 在配置窗口选择参数标签，并在链接一栏输入三行：
+# 七、配置DevCPP的编译器，添加SDL2库及包含文件
+## 7.1 选中工具→编译选项，打开配置窗口。
+![项目配置](/courses_resource/c_language/devcpp_usage_images/compiler_setup1.png)
+## 7.2 在编译器选项配置窗口下方的“在连接器命令行加入以下命令”编辑框中输入以下链接库：
+![链接库配置](/courses_resource/c_language/devcpp_usage_images/compiler_setup4.png)
 
+内容可以从下方复制
 ```
--lmingw32
--lsdl2main
--lsdl2
+-lmingw32 -lsdl2main -lsdl2
 ```
 > 这里要注意两点：
 减号-后面是小写L，不是数字1️⃣，也不是i。
@@ -93,17 +93,20 @@ int main(){
 
 ![项目链接库配置](/courses_resource/c_language/devcpp_usage_images/project_setup_parameter_ld.png)
 
-## 7.3 添加头文件路径和库文件路径
-打开“文件/目录”标签，并选中下面的“库目录”标签
-![添加库目录1](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_1.png =400x)
+## 7.3 设置编译器标准为C99
+![compiler_setup1](/courses_resource/c_language/devcpp_usage_images/compiler_setup2.png =400x)
+
+## 7.4 进入目录标签添加头文件路径和库文件路径
+打开“目录”标签，并选中下面的“库”标签
+![添加库目录1](/courses_resource/c_language/devcpp_usage_images/compiler_setup5.png =400x)
 找到sdl2的lib目录
 ![SDL2的lib目录](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_2.png)
-![添加库目录到列表中](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_3.png =400x)
-![添加库目录成功](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_4.png =400x)
+![添加库目录到列表中](/courses_resource/c_language/devcpp_usage_images/compiler_setup6.png =400x)
+![添加库目录成功](/courses_resource/c_language/devcpp_usage_images/compiler_setup7.png =400x)
 
-按上面的相同的方法，将包含文件目录添加上：
+按上面的相同的方法，将C包含文件目录添加上：
 ![添加包含文件目录](/courses_resource/c_language/devcpp_usage_images/project_setup_include_path_3.png =400x)
-![添加包含文件目录结果](/courses_resource/c_language/devcpp_usage_images/project_setup_include_path_4.png =400x)
+![添加包含文件目录结果](/courses_resource/c_language/devcpp_usage_images/compiler_setup8.png =400x)
 
 完成以上步骤后，点项目选项窗口的确定按钮保存关闭窗口。
 
