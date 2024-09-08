@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-09-06T12:46:30.008Z
+date: 2024-09-08T09:01:46.942Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -22,18 +22,18 @@ Tabby是一个现代化的先进的跨平台终端工具，可以用来替代Win
 # 二、安装注意点:安装路径配置
 整个安装过程和常规软件安装一样，跟着向导next就可以。
 在碰到安装路径选择时，优先推荐安装到C或D盘根目录下的Dev-Cpp，此设置主要是在编译程序时路径名中没有中文和空格。
-![安装DevCPP路径修改](/courses_resource/c_language/devcpp_usage_images/devcpp_installpath_root.png =100x)
+![安装DevCPP路径修改](/courses_resource/c_language/devcpp_usage_images/devcpp_installpath_root.png =500x)
 
 
 # 三、调整编译器，支持C99标准，方便使用更多语言特性
 
 ## 3.1 从菜单进入编译设置：
 
-![compiler_setup1](/courses_resource/c_language/devcpp_usage_images/compiler_setup1.png)
+![compiler_setup1](/courses_resource/c_language/devcpp_usage_images/compiler_setup1.png =400x)
 
 ## 3.2 打开编译选项窗口后，按下图顺序设置，选择C99标准
 
-![compiler_setup1](/courses_resource/c_language/devcpp_usage_images/compiler_setup2.png)
+![compiler_setup1](/courses_resource/c_language/devcpp_usage_images/compiler_setup2.png =400x)
 
 ## 3.3 测试C99标准是否生效
 
@@ -56,11 +56,11 @@ int main(){
 ![compiler_setup1](/courses_resource/c_language/devcpp_usage_images/compiler_setup3.png)
 # 四、创建工程
 ## 4.1、通过菜单:文件→新建→项目,打开新建窗口
-![新建项目](/courses_resource/c_language/devcpp_usage_images/create_new_project.png)
+![新建项目](/courses_resource/c_language/devcpp_usage_images/create_new_project.png =400x)
 ## 4.2、在新建窗口中选择“Console Application”，C项目，项目名称优先全英文
 ![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_setup.png)
 ## 4.3、项目保存路径推荐(尽量不使用中文路径)：
-![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_savepath.png)
+![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_savepath.png =400x)
 ## 4.4、创建完成后，可添加打印程序行，通过点击菜单栏的编译运行或F11，在终端输出hello world!
 ![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_helloworld.png)
 ![新建项目配置](/courses_resource/c_language/devcpp_usage_images/new_project_helloworld2.png)
@@ -95,15 +95,15 @@ int main(){
 
 ## 7.3 添加头文件路径和库文件路径
 打开“文件/目录”标签，并选中下面的“库目录”标签
-![添加库目录1](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_1.png)
+![添加库目录1](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_1.png =400x)
 找到sdl2的lib目录
 ![SDL2的lib目录](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_2.png)
-![添加库目录到列表中](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_3.png)
-![添加库目录成功](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_4.png)
+![添加库目录到列表中](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_3.png =400x)
+![添加库目录成功](/courses_resource/c_language/devcpp_usage_images/project_setup_lib_path_4.png =400x)
 
 按上面的相同的方法，将包含文件目录添加上：
-![添加包含文件目录](/courses_resource/c_language/devcpp_usage_images/project_setup_include_path_3.png)
-![添加包含文件目录结果](/courses_resource/c_language/devcpp_usage_images/project_setup_include_path_4.png)
+![添加包含文件目录](/courses_resource/c_language/devcpp_usage_images/project_setup_include_path_3.png =400x)
+![添加包含文件目录结果](/courses_resource/c_language/devcpp_usage_images/project_setup_include_path_4.png =400x)
 
 完成以上步骤后，点项目选项窗口的确定按钮保存关闭窗口。
 
