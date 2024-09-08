@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-09-08T09:46:04.781Z
+date: 2024-09-08T09:47:59.514Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -103,6 +103,8 @@ int main(){
 ![添加库目录成功](/courses_resource/c_language/devcpp_usage_images/compiler_setup7.png =400x)
 
 按上面的相同的方法，将C包含文件目录添加上：
+![添加包含文件目录](/courses_resource/c_language/devcpp_usage_images/compiler_setup9.png =400x)
+
 ![添加包含文件目录](/courses_resource/c_language/devcpp_usage_images/project_setup_include_path_3.png =400x)
 ![添加包含文件目录结果](/courses_resource/c_language/devcpp_usage_images/compiler_setup8.png =400x)
 
