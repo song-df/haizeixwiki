@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-09-08T09:32:54.340Z
+date: 2024-09-08T09:33:41.987Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -110,7 +110,7 @@ int main(){
 
 完成以上步骤后，点项目选项窗口的确定按钮保存关闭窗口。
 
-## 7.4 从SDL2-2.30.6/x86_64-mingw32/bin/目录中复制SDL2.dll到当前项目目录
+## 7.4 从SDL2-2.30.6/x86_64-mingw32/bin/目录中复制SDL2.dll到所创建的项目中。
 > 特别提醒：不可以复制SDL2-2.30.6/i686-w64-mingw32/bin/目录中的SDL2.dll{.is-success}
 
 ![制作SDL2.dll](/courses_resource/c_language/devcpp_usage_images/project_setup_copy_sdl2.dll.png)
