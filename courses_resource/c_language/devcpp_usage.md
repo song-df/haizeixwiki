@@ -2,7 +2,7 @@
 title: DevC++使用手册
 description: 
 published: true
-date: 2024-09-08T09:33:41.987Z
+date: 2024-09-08T09:46:04.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T10:51:50.670Z
@@ -90,8 +90,6 @@ int main(){
 > 这里要注意两点：
 减号-后面是小写L，不是数字1️⃣，也不是i。
 这三个库的顺序不可变。
-
-![项目链接库配置](/courses_resource/c_language/devcpp_usage_images/project_setup_parameter_ld.png)
 
 ## 7.3 设置编译器标准为C99
 ![compiler_setup1](/courses_resource/c_language/devcpp_usage_images/compiler_setup2.png =400x)
