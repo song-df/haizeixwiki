@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-09-18T13:57:16.118Z
+date: 2024-09-18T13:57:43.130Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -57,7 +57,7 @@ dateCreated: 2024-03-01T15:16:58.351Z
 
 > 授课PPT  
 > 1. [ACM金牌带你零基础直达C语言精通-1.1-课程导学](c_language_resource/part1/chapter01/pptx/c_language_chapter01_1.pdf)
-> 4. [ACM金牌带你零基础直达C语言精通-1.2-1.6-Linux环境配置:服务器购买-Linux环境配置:云主机链接](/courses_resource/cloud_usage/Linux开发环境配置)
+> 4. [ACM金牌带你零基础直达C语言精通-1.2-1.9-Linux环境配置:服务器购买-Linux环境配置:云主机链接](/courses_resource/cloud_usage/Linux开发环境配置)
 > 5. [ACM金牌带你零基础直达C语言精通-1.10-vim的基本使用](/courses_resource/cloud_usage/Vim_setup) 
 > 6. [ACM金牌带你零基础直达C语言精通-1.12-百度+阿里:编码规范介绍](c_language_resource/part1/chapter01/pptx/c_language_chapter01_13(1).pdf) 
 > 7. [ACM金牌带你零基础直达C语言精通-1.13-谷歌:编码规范介绍](c_language_resource/part1/chapter01/pptx/c_language_chapter01_13(2).pdf) 
