@@ -2,7 +2,7 @@
 title: Linux开发环境配置
 description: 
 published: true
-date: 2024-09-18T03:23:59.487Z
+date: 2024-09-18T03:27:24.061Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:24.379Z
@@ -57,7 +57,7 @@ dateCreated: 2024-03-02T05:33:24.379Z
 
 **关于流量**：200G的流量是很充足的，你可以对比一下你的手机流量是多少，对于学习来说，200G很难用完。
 
-## 【推荐】腾讯云新用户优惠
+### 【推荐】腾讯云新用户优惠
 
 > **依然推荐你购买腾讯云**，更高的带宽有助于提升远程操作的流畅性，同时阿里云目前作为云服务的实质上的第一，你可以在后续自己有明确的业务需求时，再使用阿里云新用户优惠购买合适的产品。
 
@@ -86,7 +86,7 @@ dateCreated: 2024-03-02T05:33:24.379Z
 
 ---
 
-## 【推荐】阿里云新用户优惠
+### 【推荐】阿里云新用户优惠
 
 ><img src="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" alt="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" width="40px" /> 阿里云新用户优惠，轻量级服务器2核2G 108元1年，每天仅需0.3元；2核4G 298元1年，每天只要0.81元。
 
@@ -98,7 +98,7 @@ dateCreated: 2024-03-02T05:33:24.379Z
 
 ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%204.png)
 
-## 阿里云-高校计划
+### 阿里云-高校计划
 
 ><img src="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" alt="https://img1.baidu.com/it/u=99570726,629877891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" width="40px" /> 高校计划适用于在校学生，通过任务，最长可以试用6个月。📢 **注意：参加高校计划会丧失新用户身份，后续不再享受首购优惠！**
 
@@ -108,11 +108,11 @@ dateCreated: 2024-03-02T05:33:24.379Z
 
 ![Untitled](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%205.png)
 
-## 操作系统选择
+### 操作系统选择
 
 选择操作系统为ubuntu，版本为20.04，如果没有20.04，也可以选择18.04
 
-# Part02：连接到云主机
+## 02：连接到云主机
 
 **检查清单**
 
@@ -133,9 +133,7 @@ dateCreated: 2024-03-02T05:33:24.379Z
 
 - 不推荐方案
   
-    ## 方法一：使用Xshell连接
-    
-    ## 方法二：使用Windows Terminal连接
+### 方法1：使用Windows Terminal连接
     
     1. 打开Microsoft Store，并搜索Windows Terminal，点击安装（如果此处已安装，则打开即可）
     2. 打开Windows Terminal后，在终端里输入ssh-keygen.exe来创建秘钥对，在所有需要输入的地方按回车即可
@@ -148,7 +146,7 @@ dateCreated: 2024-03-02T05:33:24.379Z
     
     
 
-## 使用Tabby连接云主机
+### 方法2：使用Tabby连接云主机
 
 1. 打开tabby的官网：[https://tabby.sh/](https://tabby.sh/) 
 2. 点击右上角下载按钮，在新弹出的页面中，选择Windows版本的tabby下载
@@ -205,7 +203,7 @@ dateCreated: 2024-03-02T05:33:24.379Z
 
 如果你没有看到这个场景，请思考以下四个是否正确：①系统是Ubuntu吗？②用户名是root或者ubuntu吗？③密码有没有记错了？④IP地址有没有错？
 
-# Part03：配置云主机
+## 03：配置云主机
 
 **检查清单**
 
