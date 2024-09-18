@@ -2,7 +2,7 @@
 title: 云主机与Linux开发环境配置说明
 description: 
 published: true
-date: 2024-09-18T10:23:12.114Z
+date: 2024-09-18T15:19:58.997Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:24.379Z
@@ -61,8 +61,8 @@ dateCreated: 2024-03-02T05:33:24.379Z
 > ❗ 以下策略请认真阅读，避免在购买云主机时出错。
 
 1. 如果你是短期学习，可以领取试用服务器，几个典型的试用服务器领取入口：
-- [**腾讯云**](https://curl.qcloud.com/kMbXWB4w)，
-- [**阿里云**](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=rl5r1aun)，
+- [**腾讯云**](https://curl.qcloud.com/kMbXWB4w){target="_blank"}，
+- [**阿里云**](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=rl5r1aun){target="_blank"}，
 - 京东云（使用很少，可自行查看）
 - 移动云的试用服务器（使用很少，可自行查看）
 > 注意：一定要明确一件事，**如果你当前账号领用了试用的服务器，此账号将丧失新用户的身份**，后续在使用此账号购买服务器将不再享受优惠。{.is-success}
@@ -73,8 +73,8 @@ dateCreated: 2024-03-02T05:33:24.379Z
 6. 如果你已经不是新用户，**我建议你让父母家人帮忙注册云平台账号**，完成实名认证，然后把手机更改为你的手机号，再使用新用户权益购买产品。
 
 **优惠购买入口**
-[**腾讯云**](https://curl.qcloud.com/kMbXWB4w)
-[**阿里云**](https://www.aliyun.com/product/ecs?source=5176.29345612&userCode=rl5r1aun)
+[**腾讯云**](https://curl.qcloud.com/kMbXWB4w){target="_blank"}
+[**阿里云**](https://www.aliyun.com/product/ecs?source=5176.29345612&userCode=rl5r1aun){target="_blank"}
 官方会实时更新优惠，具体可以咨询表姐获取。
 
 **关于流量**：200G的流量是很充足的，你可以对比一下你的手机流量是多少，对于学习来说，200G很难用完。
@@ -88,7 +88,7 @@ dateCreated: 2024-03-02T05:33:24.379Z
 
 
 
-点击 **[腾讯云新用户优惠](https://curl.qcloud.com/kMbXWB4w)**  进入新用户优惠界面，购买轻量2核2G3M的服务器，注意，这里只有轻量级应用服务器是价格最优惠合理的，请不要购买其他产品，同时不要购买按月购买的产品。
+点击 **[腾讯云新用户优惠](https://curl.qcloud.com/kMbXWB4w){target="_blank"}**  进入新用户优惠界面，购买轻量2核2G3M的服务器，注意，这里只有轻量级应用服务器是价格最优惠合理的，请不要购买其他产品，同时不要购买按月购买的产品。
 
 当然，腾讯云提供了3年的购买方式，强烈建议你直接购买三年的云服务，2核4G3年***仅需756***，算是极其便宜的了。
 
