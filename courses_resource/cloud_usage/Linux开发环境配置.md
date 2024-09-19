@@ -2,7 +2,7 @@
 title: 云主机与Linux开发环境配置说明
 description: 
 published: true
-date: 2024-09-18T15:19:58.997Z
+date: 2024-09-19T01:48:25.543Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:24.379Z
@@ -142,6 +142,7 @@ dateCreated: 2024-03-02T05:33:24.379Z
 - [ ]  公网IP地址`{{REMOTE IP}}`
 - [ ]  默认用户名`{{USERNAME}}`
 - [ ]  默认用户的密码`{{PASSWD}}`
+- [ ]  确认云主机后台安全组是否开放22端口`
 
 **Tips**
 
