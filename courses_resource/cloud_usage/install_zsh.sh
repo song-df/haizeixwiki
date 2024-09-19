@@ -34,7 +34,7 @@
 set -e
 args=$1
 USER_PASSWD=$1
-REPO=suyelu/ohmyzsh
+REPO=hzx_3/ohmyzsh
 # Default settings
 ZSH=${ZSH:-~/.oh-my-zsh}
 REPO=${REPO:-ohmyzsh/ohmyzsh}
