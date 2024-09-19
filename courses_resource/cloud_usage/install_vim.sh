@@ -28,18 +28,18 @@ sudo ln -s /usr/bin/ctags /usr/local/bin/ctags
 rm -rf ~/vim* 2>&1 >/dev/null
 rm -rf ~/.vim* 2>&1 >/dev/null
 mv -f ~/vim ~/vim_old
-cd ~/ && git clone https://gitee.com/suyelu/vim.git
+cd ~/ && git clone https://gitee.com/hzx_3/vim.git
 mv -f ~/.vim ~/.vim_old 2>&1 >/dev/null
 mv -f ~/vim ~/.vim 2>&1 >/dev/null
 mv -f ~/.vimrc ~/.vimrc_old 2>&1 >/dev/null
 mv -f ~/.vim/.vimrc ~/ 
-git clone https://gitee.com/suyelu/vundle.git ~/.vim/bundle/vundle
-echo "程序正在自动安装相应插件" > kaikeba
-echo "command-t插件需要等待时间较长，不要担心" >> kaikeba
-echo "切勿强制退出该界面，否则会导致错误，需重新配置" >> kaikeba
-echo "安装完毕将自动退出" >> kaikeba
-echo "请耐心等待" >> kaikeba
-vim kaikeba -c "BundleInstall" -c "q" -c "q"
-rm kaikeba
+git clone https://gitee.com/hzx_3/vundle.git ~/.vim/bundle/vundle
+echo "程序正在自动安装相应插件" > haizei_log
+echo "command-t插件需要等待时间较长，不要担心" >> haizei_log 
+echo "切勿强制退出该界面，否则会导致错误，需重新配置" >> haizei_log
+echo "安装完毕将自动退出" >> haizei_log
+echo "请耐心等待" >> haizei_log
+vim haizei_log -c "BundleInstall" -c "q" -c "q"
+rm haizei_log
 echo "安装完成"
 
