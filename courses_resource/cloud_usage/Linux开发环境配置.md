@@ -2,7 +2,7 @@
 title: 云主机与Linux开发环境配置说明
 description: 
 published: true
-date: 2024-09-19T01:48:25.543Z
+date: 2024-09-19T09:14:30.708Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:24.379Z
@@ -224,7 +224,12 @@ dateCreated: 2024-03-02T05:33:24.379Z
 
 ![如果你没有看到这个场景，请思考以下四个是否正确：①系统是Ubuntu吗？②用户名是root或者ubuntu吗？③密码有没有记错了？④IP地址有没有错？](Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%20e0ffc8d2e38645ff83756bd65e05b5a8/Untitled%2015.png)
 
-如果你没有看到这个场景，请思考以下四个是否正确：①系统是Ubuntu吗？②用户名是root或者ubuntu吗？③密码有没有记错了？④IP地址有没有错？
+如果你没有看到这个场景，请思考以下四个是否正确：
+①系统是Ubuntu吗？
+②用户名是root或者ubuntu吗？
+③密码有没有记错了？
+④IP地址有没有错？
+⑤云服务后台的防火墙或安全组是否允许端口访问
 
 ## 03：配置云主机
 
