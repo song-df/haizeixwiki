@@ -2,7 +2,7 @@
 title: Linux基本常识及常用命令
 description: 
 published: true
-date: 2024-09-20T07:47:37.329Z
+date: 2024-09-20T08:29:07.632Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:41.514Z
@@ -232,12 +232,17 @@ apt install xxx # 下载xxx软件
 
 ## vim的简单使用
 
-### 如何进入及退出vim
+### 如何快速使用vim
+```bash
+vim file.txt
+```
 
-1. `:w`  `**W**`rite
-2. `:wq`  `**W**`rite and **`Q`**uit
-3. `:q` **`Q`**uit
-4. `:q!`  **`Q`**uit force
+1.  'i'  `**I**`nsert
+2. Escape  退出insert
+3. `:w`  `**W**`rite
+4. `:wq`  `**W**`rite and **`Q`**uit
+5. `:q` **`Q`**uit
+6. `:q!`  **`Q`**uit force
 
 ### vim的四种模式
 
