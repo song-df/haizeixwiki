@@ -2,7 +2,7 @@
 title: Linux基本常识及常用命令
 description: 
 published: true
-date: 2024-09-20T04:17:12.412Z
+date: 2024-09-20T04:19:00.272Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:41.514Z
@@ -82,7 +82,7 @@ dateCreated: 2024-03-02T05:33:41.514Z
 
 ## 文件及目录相关命令
 
-1. 几个特殊的目录介绍：`.`  `..`  `~`  `-`   `/`
+###  几个特殊的目录介绍：`.`  `..`  `~`  `-`   `/`
     1. `.` 当前目录
     2. `..` 上级目录，也就是父目录
     3. `~` 当前用户的家目录
@@ -95,7 +95,7 @@ Windows的目录结构：
 Linux目录树
   ![Linux目录树](/courses_resource/cloud_usage/images/linux_folder_tree.png =700x)
 
-2. 命令的基本构成
+###  命令的基本构成
 -  命令（Command）
 	这是实际执行的操作或程序，比如 ls、cd、rm、touch、ssh等。
 - 选项（Options）
