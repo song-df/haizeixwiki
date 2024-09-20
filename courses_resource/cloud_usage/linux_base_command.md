@@ -2,7 +2,7 @@
 title: Linux基本常识及常用命令
 description: 
 published: true
-date: 2024-09-20T04:19:56.412Z
+date: 2024-09-20T07:41:09.768Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:41.514Z
@@ -173,6 +173,17 @@ cat file.txt # 将file.txt的内容输出到屏幕上
 cat file1.txt file2.txt # 将file1.txt和file2.txt的内容按照顺序输出到屏幕上
 cat -n file.txt  # 显示行号
 ```
+
+9. `cp` - 复制文件或目录
+
+```bash
+cp file1.txt  file2.txt   # 将file1.txt的内容复制以新的文件中，新文件的名称为file2.txt
+cp -r dir1  dir2   # 将目录dir1中的所有文件和目录复制到新的目录下，内容相同，新目录的名称为dir2
+cp file1.txt dir1  # 如果dir1是一个已经存在的目录，会将file1.txt文件复制到dir1目录中，文件名保持不变，同样为                      file1.txt
+cp file1.txt dir1/file2.txt  # 如果dir1是一个已经存在的目录，会将file1.txt文件复制到dir1目录中，文件名改为                      file1.txt
+```
+
+> 注意：所有要创建数据的操作，如果权限不够，刚无法创建，必须要有对应的权限才能正常执行命令。{.is-success}
 
 ## 系统及相关命令
 
