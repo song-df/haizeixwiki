@@ -2,7 +2,7 @@
 title: Linux基本常识及常用命令
 description: 
 published: true
-date: 2024-09-20T03:35:54.761Z
+date: 2024-09-20T04:02:41.109Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:41.514Z
@@ -93,16 +93,23 @@ Windows的目录结构：
   ![Windows目录结构](/courses_resource/cloud_usage/images/windows_folder_tree.png =700x)
 
 Linux目录树
-
   ![Linux目录树](/courses_resource/cloud_usage/images/linux_folder_tree.png =700x)
 
 2. 命令的基本构成
-    - 命令主体：命令名（谓语动词）
-    - 命令的承受者：参数（宾语）
-    - 命令执行的方式：选项（状语）
-    
+-  命令（Command）
+	这是实际执行的操作或程序，比如 ls、cd、rm、touch、ssh等。
+- 选项（Options）
+	选项用于修改命令的行为，通常以短横线（-）或双短横线（--）开头。选项可以是单个字母或完整单词，例如：
+• -l：短选项（ls  -l 显示详细信息）
+• --help：长选项（显示命令帮助）
+	可以组合使用多个选项，例如 ls   -la，表示同时使用 -l 和 -a 选项。
+- 参数（Arguments）
+	参数是命令执行的对象，如文件名、目录路径等。例如：
+• ls /home/user：/home/user 就是参数，指定要列出的目录。
+• rm file.txt：file.txt 是参数，指定要删除的文件。
 
-如何判断命令执行成功与否？
+
+### 如何判断命令执行成功与否？
 
 每个命令都有自己的返回值，正如我们写程序的时候的`return 0;`返回的是成功的`0`
 
