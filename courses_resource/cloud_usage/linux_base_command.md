@@ -2,7 +2,7 @@
 title: Linux基本常识及常用命令
 description: 
 published: true
-date: 2024-09-20T07:43:16.901Z
+date: 2024-09-20T07:44:38.232Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:41.514Z
@@ -118,7 +118,7 @@ Linux目录树
 
   ![Linux命令返回值](/courses_resource/cloud_usage/images/linux_command_return_value.png =500x)
 
-### 常用命令介绍
+### 常用文件操作命令介绍
 1. mkdir - 创建目录
 
 ```bash
@@ -185,7 +185,7 @@ cp file1.txt dir1/file2.txt  # 如果dir1是一个已经存在的目录，会将
 
 > 注意：所有要创建数据的操作，如果权限不够，刚无法创建，必须要有对应的权限才能正常执行命令。{.is-success}
 
-## 系统及相关命令
+### 系统相关命令
 
 1. `exit` - 退出连接
 
