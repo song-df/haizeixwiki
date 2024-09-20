@@ -2,7 +2,7 @@
 title: Linux基本常识及常用命令
 description: 
 published: true
-date: 2024-09-20T04:02:41.109Z
+date: 2024-09-20T04:17:12.412Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:41.514Z
@@ -118,7 +118,16 @@ Linux目录树
 
   ![Linux命令返回值](/courses_resource/cloud_usage/images/linux_command_return_value.png =500x)
 
-3. `ls` - 列出目录下的内容
+
+3. mkdir - 创建目录
+
+```bash
+mkdir new_dir #在当前位置创建一个new_dir的目录
+mkdir /tmp/new_dir_1  #在/tmp下创建new_dir_1的目录
+mkdir -p /tmp/123/456/789 #创建/var/123/456下的789目录，但是如果所有上级目录中，有不存在的，则一并创建
+```
+
+4. `ls` - 列出目录下的内容
 
 ```bash
 ls #ls不加任何参数，则使用缺省参数`.`,也就是当前目
@@ -128,13 +137,6 @@ ls -l #以长列表的形式展示文件及目录的详细信息
 ls -al #以长列表的形式展示全部文件及目录的详细信息
 ```
 
-4. mkdir - 创建目录
-
-```bash
-mkdir new_dir #在当前位置创建一个new_dir的目录
-mkdir /tmp/new_dir_1  #在/tmp下创建new_dir_1的目录
-mkdir -p /tmp/123/456/789 #创建/var/123/456下的789目录，但是如果所有上级目录中，有不存在的，则一并创建
-```
 
 5. 绝对路径和相对路径
   
