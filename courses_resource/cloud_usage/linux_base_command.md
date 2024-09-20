@@ -2,7 +2,7 @@
 title: Linux基本常识及常用命令
 description: 
 published: true
-date: 2024-09-20T07:44:38.232Z
+date: 2024-09-20T07:47:37.329Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:41.514Z
@@ -182,6 +182,13 @@ cp -r dir1  dir2   # 将目录dir1中的所有文件和目录复制到新的目�
 cp file1.txt dir1  # 如果dir1是一个已经存在的目录，会将file1.txt文件复制到dir1目录中，文件名保持不变，同样为                      file1.txt
 cp file1.txt dir1/file2.txt  # 如果dir1是一个已经存在的目录，会将file1.txt文件复制到dir1目录中，文件名改为                      file1.txt
 ```
+
+8. `touch` - 创建一个空文件
+
+```bash
+touch file.txt     # 创建一个文件名为file.txt的空文件
+```
+
 
 > 注意：所有要创建数据的操作，如果权限不够，刚无法创建，必须要有对应的权限才能正常执行命令。{.is-success}
 
