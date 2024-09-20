@@ -2,7 +2,7 @@
 title: Linux基本常识及常用命令
 description: 
 published: true
-date: 2024-09-20T07:41:09.768Z
+date: 2024-09-20T07:43:16.901Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:41.514Z
@@ -88,14 +88,14 @@ Windows的目录结构：
 
 Linux目录树
   ![Linux目录树](/courses_resource/cloud_usage/images/linux_folder_tree.png =700x)
-###  几个特殊的目录介绍：`.`  `..`  `~`  `-`   `/`
+### 几个特殊的目录介绍：`.`  `..`  `~`  `-`   `/`
     1. `.` 当前目录
     2. `..` 上级目录，也就是父目录
     3. `~` 当前用户的家目录
     4. `-` 上次工作目录
     5. `/` 根目录
     
-###  命令的基本构成
+### 命令的基本构成
 -  命令（Command）
 	这是实际执行的操作或程序，比如 ls、cd、rm、touch、ssh等。
 - 选项（Options）
@@ -118,8 +118,8 @@ Linux目录树
 
   ![Linux命令返回值](/courses_resource/cloud_usage/images/linux_command_return_value.png =500x)
 
-
-3. mkdir - 创建目录
+### 常用命令介绍
+1. mkdir - 创建目录
 
 ```bash
 mkdir new_dir #在当前位置创建一个new_dir的目录
@@ -127,7 +127,7 @@ mkdir /tmp/new_dir_1  #在/tmp下创建new_dir_1的目录
 mkdir -p /tmp/123/456/789 #创建/var/123/456下的789目录，但是如果所有上级目录中，有不存在的，则一并创建
 ```
 
-4. `ls` - 列出目录下的内容
+2. `ls` - 列出目录下的内容
 
 ```bash
 ls #ls不加任何参数，则使用缺省参数`.`,也就是当前目
@@ -138,7 +138,7 @@ ls -al #以长列表的形式展示全部文件及目录的详细信息
 ```
 
 
-5. 绝对路径和相对路径
+3. 绝对路径和相对路径
   
     绝对路径和相对路径是指在命令行中指定文件或目录时所使用的两种不同的路径表示方式。
     
@@ -147,7 +147,7 @@ ls -al #以长列表的形式展示全部文件及目录的详细信息
     
     在使用命令行时，大多数情况下建议使用相对路径。因为相对路径更加简洁，而且更方便移植，不需要考虑在不同机器上的根目录位置不同，而绝对路径则需要考虑这一点。
     
-6. `cd` - 切换当前工作目录
+4. `cd` - 切换当前工作目录
 
 ```bash
 cd #cd不加参数，则会回到自己的家目录
@@ -158,7 +158,7 @@ cd ~ #切换到家目录
 pwd #打印当前工作目录
 ```
 
-7. `rm` - 删除文件或目录
+5. `rm` - 删除文件或目录
 
 ```bash
 rm file.txt # 删除文件file.txt
@@ -166,7 +166,7 @@ rm -r dir # 删除目录dir及其下的所有文件和目录
 rm -f file.txt # 强制删除文件file.txt，不提示确认
 ```
 
-8. `cat` - 获取文件内容
+6. `cat` - 获取文件内容
 
 ```bash
 cat file.txt # 将file.txt的内容输出到屏幕上
@@ -174,7 +174,7 @@ cat file1.txt file2.txt # 将file1.txt和file2.txt的内容按照顺序输出到
 cat -n file.txt  # 显示行号
 ```
 
-9. `cp` - 复制文件或目录
+7. `cp` - 复制文件或目录
 
 ```bash
 cp file1.txt  file2.txt   # 将file1.txt的内容复制以新的文件中，新文件的名称为file2.txt
