@@ -1,8 +1,8 @@
 ---
-title: 云主机与Linux开发环境配置说明
+title: 云主机购买与Linux初始开发环境配置说明
 description: 
 published: true
-date: 2024-09-19T09:14:30.708Z
+date: 2024-09-22T04:04:36.944Z
 tags: 工具手册
 editor: markdown
 dateCreated: 2024-03-02T05:33:24.379Z
