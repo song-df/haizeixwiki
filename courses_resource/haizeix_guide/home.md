@@ -2,7 +2,7 @@
 title: 海贼宝藏注册和使用说明
 description: 
 published: true
-date: 2024-06-18T07:23:12.776Z
+date: 2024-09-28T01:47:53.730Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-17T05:30:37.811Z
@@ -54,7 +54,7 @@ dateCreated: 2024-06-17T05:30:37.811Z
 
 [OJ刷题](https://oj.haizeix.com/)
 
-![3.1](img/3.1-img.jpg)
+![3.1](img/3.1-img.png)
 
 第二步：登录，可以直接使用海贼宝藏注册的手机号进行登录
 
