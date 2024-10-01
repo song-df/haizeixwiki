@@ -2,7 +2,7 @@
 title: 算法竞赛通关班
 description: 
 published: true
-date: 2024-08-21T04:30:39.115Z
+date: 2024-10-01T04:02:31.228Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T03:17:46.780Z
@@ -25,6 +25,7 @@ dateCreated: 2024-06-26T03:17:46.780Z
 
 > 2️⃣ 做好课前准备，需自行注册以下刷题平台：{.is-success}
 
+> ✅信友队OJ：https://www.xingyoudui.com/
 > ✅海贼OJ：https://oj.haizeix.com/
 ✅欧拉计划：https://projecteuler.net/
 {.is-info}
