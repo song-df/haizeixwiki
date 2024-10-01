@@ -2,7 +2,7 @@
 title: 算法竞赛通关班
 description: 
 published: true
-date: 2024-10-01T04:02:31.228Z
+date: 2024-10-01T04:04:33.668Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T03:17:46.780Z
@@ -25,9 +25,9 @@ dateCreated: 2024-06-26T03:17:46.780Z
 
 > 2️⃣ 做好课前准备，需自行注册以下刷题平台：{.is-success}
 
-> ✅信友队OJ：https://www.xingyoudui.com/
-> ✅海贼OJ：https://oj.haizeix.com/
-✅欧拉计划：https://projecteuler.net/
+> ✅信友队OJ：[https://www.xingyoudui.com/](https://www.xingyoudui.com){target="_blank"}
+> ✅海贼OJ：[https://oj.haizeix.com/](https://oj.haizeix.com){target="_blank"}
+✅欧拉计划：[https://projecteuler.net/](https://projecteuler.net){target="_blank"}
 {.is-info}
 
 > PS：无法访问欧拉原站，可不注册欧拉账号，使用中文替代站点看题：http://pe-cn.github.io/
