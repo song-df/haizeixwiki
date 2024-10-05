@@ -2,7 +2,7 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2024-08-21T04:29:14.448Z
+date: 2024-10-05T13:07:14.019Z
 tags: 核心能力
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
@@ -182,7 +182,7 @@ dateCreated: 2024-02-25T06:12:37.088Z
 > 9. [ACM大牛带你玩转算法与数据结构-5.11-超市卖货：HZOJ-284--9.HZOJ-284.cpp](ds_resource/part01/chapter06/code/9.HZOJ-284.cpp)
 > 10. [ACM大牛带你玩转算法与数据结构-5.12-序列 M 小和：HZOJ-285--10.HZOJ-285.cpp](ds_resource/part01/chapter06/code/10.HZOJ-285.cpp)
 > 11. [ACM大牛带你玩转算法与数据结构-5.32-序列 M 小和：HZOJ-285--11.HZOJ-289.cpp](ds_resource/part01/chapter06/code/11.HZOJ-289.cpp)
-> 12. [ACM大牛带你玩转算法与数据结构--input.txt](ds_resource/part01/chapter06/code/input.txt)
+> 12. [ACM大牛带你玩转算法与数据结构--input.txt](ds_resource/part01/chapter06/code/input.file)
 
 > 课代表笔记：
 > 1.[堆与优先队列](https://blog.csdn.net/qq_58240849/article/details/132579105){target='_blank'}
