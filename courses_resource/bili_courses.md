@@ -2,7 +2,7 @@
 title: B站合作-船票系列课程
 description: 
 published: true
-date: 2024-07-16T04:48:02.020Z
+date: 2024-11-13T16:25:54.995Z
 tags: b站
 editor: markdown
 dateCreated: 2024-02-25T05:37:26.506Z
@@ -45,6 +45,6 @@ dateCreated: 2024-02-25T05:37:26.506Z
 - [9、Linux网络编程实战](/empty-page)
 - [10、船票会员专属课1：面试突击](/empty-page)
 - [11、C++STL源码解析与复现](/empty-page)
-- [12、从0到1开发高性能服务器](/empty-page)
+- [12、从0到1开发高性能服务器](/courses_resource/cpp_project_server/home)
 - [13、从0到1开发操作系统](/empty-page)
 {.links-list}
