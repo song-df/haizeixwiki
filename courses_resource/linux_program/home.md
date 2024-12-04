@@ -2,7 +2,7 @@
 title: Linux系统编程实战
 description: 
 published: true
-date: 2024-12-03T13:54:48.820Z
+date: 2024-12-04T10:30:34.147Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-03T12:19:10.385Z
@@ -40,8 +40,6 @@ dateCreated: 2024-12-03T12:19:10.385Z
 > 授课PPT
 - [1.为什么要学习操作系统编程](/courses_resource/linux_program/linux_course_resource/charpter01.pdf)
 - [2.文件及目录](/courses_resource/linux_program/linux_course_resource/charpter02.pdf)
-- [3.文件高级操作](/courses_resource/linux_program/linux_course_resource/charpter03.pdf)
-- [4.文件实战](/courses_resource/linux_program/linux_course_resource/charpter04.pdf)
 - [5.标准I/O综述](/courses_resource/linux_program/linux_course_resource/charpter05.pdf)
 {.links-list}
 
