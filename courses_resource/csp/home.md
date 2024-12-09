@@ -2,7 +2,7 @@
 title: 算法竞赛通关班
 description: 
 published: true
-date: 2024-11-04T09:19:07.524Z
+date: 2024-12-04T04:30:39.115Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T03:17:46.780Z
@@ -25,9 +25,8 @@ dateCreated: 2024-06-26T03:17:46.780Z
 
 > 2️⃣ 做好课前准备，需自行注册以下刷题平台：{.is-success}
 
-> ✅[信友队OJ: https://id.turingstar.com.cn](https://id.turingstar.com.cn/){target="_blank"}
-> ✅[海贼OJ：https://oj.haizeix.com/](https://oj.haizeix.com){target="_blank"}
-✅欧拉计划：[https://projecteuler.net/](https://projecteuler.net){target="_blank"}
+> ✅海贼OJ：https://oj.haizeix.com/
+✅欧拉计划：https://projecteuler.net/
 {.is-info}
 
 > PS：无法访问欧拉原站，可不注册欧拉账号，使用中文替代站点看题：http://pe-cn.github.io/
@@ -249,9 +248,10 @@ dateCreated: 2024-06-26T03:17:46.780Z
 
 # 第二阶段：算法竞赛入门篇
 
-## 第6章：模拟
+## 第6章：枚举与模拟
 > 授课PPT
-- [1.课后习题-模拟](csp_resource/part2/ch6/pptx/csp_resource_ch06_1.pdf) 
+- [1.课后习题模拟](csp_resource/part2/ch6/pptx/csp_resource_ch06_1.pdf) 
+- 
 > 参考程序
 - [1.XYOJ-1488.cpp](csp_resource/part2/ch6/code/1.XYOJ-1488.cpp)
 - [2.XYOJ-9386.cpp](csp_resource/part2/ch6/code/2.XYOJ-9386.cpp)
@@ -261,27 +261,31 @@ dateCreated: 2024-06-26T03:17:46.780Z
 - [6.XYOJ-1362.cpp](csp_resource/part2/ch6/code/6.XYOJ-1362.cpp)
 - [7.XYOJ-1473.cpp](csp_resource/part2/ch6/code/7.XYOJ-1473.cpp)
 - [8.XYOJ-1501.cpp](csp_resource/part2/ch6/code/8.XYOJ-1501.cpp)
-- [9.XYOJ-1501.cpp](csp_resource/part2/ch6/code/9.XYOJ-1411.cpp)
+- [9.XYOJ-1411.cpp](csp_resource/part2/ch6/code/9.XYOJ-1411.cpp)
 - [10.XYOJ-1477.cpp](csp_resource/part2/ch6/code/10.XYOJ-1477.cpp)
 - [11.XYOJ-8042.cpp](csp_resource/part2/ch6/code/11.XYOJ-8042.cpp)
 - [12.XYOJ-1601.cpp](csp_resource/part2/ch6/code/12.XYOJ-1601.cpp)
 - [13.XYOJ-9447.cpp](csp_resource/part2/ch6/code/13.XYOJ-9447.cpp)
-- [14.XYOJ-9448-2.cpp](csp_resource/part2/ch6/code/14.XYOJ-9448-2.cpp)
 - [14.XYOJ-9448.cpp](csp_resource/part2/ch6/code/14.XYOJ-9448.cpp)
-- [15.XYOJ-9410.cpp](csp_resource/part2/ch6/code/15.XYOJ-9410.cpp)
 - [15.XYOJ-9410-2.cpp](csp_resource/part2/ch6/code/15.XYOJ-9410-2.cpp)
 - [16.XYOJ-9839.cpp](csp_resource/part2/ch6/code/16.XYOJ-9839.cpp)
 - [17.XYOJ-9429.cpp](csp_resource/part2/ch6/code/17.XYOJ-9429.cpp)
 - [18.XYOJ-3317.cpp](csp_resource/part2/ch6/code/18.XYOJ-3317.cpp)
 - [19.XYOJ-4072.cpp](csp_resource/part2/ch6/code/19.XYOJ-4072.cpp)
 - [20.XYOJ-15265.cpp](csp_resource/part2/ch6/code/20.XYOJ-15265.cpp)
-
-
+- 
 ## 第7章：基础算法入门
 > 授课PPT
-- 
+- [1.课程导学-高精度](csp_resource/part2/ch7/pptx/csp_resource_ch07_1.pdf)
+-
 > 参考程序
-- 
+- [1.高精度加法.cpp1](csp_resource/part2/ch7/code/1.高精度加法.cpp)
+- [2.高精度乘法.cpp](csp_resource/part2/ch7/code/2.高精度乘法.cpp)
+- [3.XYOJ-9163.cpp](csp_resource/part2/ch7/code/3.XYOJ-9163.cpp)
+- [4.XYOJ-7712.cpp](csp_resource/part2/ch7/code/4.XYOJ-7712.cpp)
+- [5.XYOJ-7723.cpp](csp_resource/part2/ch7/code/5.XYOJ-7723.cpp)
+- [6.XYOJ-7717.cpp](csp_resource/part2/ch7/code/6.XYOJ-7717.cpp)
+- [7.XYOJ-7707.cpp](csp_resource/part2/ch7/code/7.XYOJ-7707.cpp)
 
 ## 第8章：高精度
 > 授课PPT
