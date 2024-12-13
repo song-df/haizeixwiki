@@ -2,7 +2,7 @@
 title: Linux系统编程实战
 description: 
 published: true
-date: 2024-12-13T12:06:19.083Z
+date: 2024-12-13T12:18:45.256Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-03T12:19:10.385Z
@@ -35,15 +35,9 @@ dateCreated: 2024-12-03T12:19:10.385Z
 > 4️⃣ 有其他搞不明白的，可以找Bili姐
 
 
-# 第一阶段：系统编程基础篇
 
-> 授课PPT
-- [1.为什么要学习操作系统编程](/courses_resource/linux_program/linux_course_resource/charpter01.pdf)
-- [2.文件及目录](/courses_resource/linux_program/linux_course_resource/charpter02.pdf)
-- [5.标准I/O综述](/courses_resource/linux_program/linux_course_resource/charpter05.pdf)
+## 授课PPT下载
+- [第1章.为什么要学习操作系统编程](/courses_resource/linux_program/linux_course_resource/charpter01.pdf)
+- [第2章.文件及目录](/courses_resource/linux_program/linux_course_resource/charpter02.pdf)
+- [第5章.标准I/O](/courses_resource/linux_program/linux_course_resource/charpter05.pdf)
 {.links-list}
-
-# 第二阶段：系统编程核心篇
-
-# 第三阶段：项目提升篇
-
