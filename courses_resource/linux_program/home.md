@@ -2,7 +2,7 @@
 title: Linux系统编程实战
 description: 
 published: true
-date: 2024-12-04T10:30:34.147Z
+date: 2024-12-13T12:06:19.083Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-03T12:19:10.385Z
@@ -24,7 +24,7 @@ dateCreated: 2024-12-03T12:19:10.385Z
 {.is-success}
 
 > 2️⃣ 所有课程资源全部在本页面下方，链接如下 ：https://wiki.haizeix.com/e/zh/courses_resource/linux_program/home。
-
+课程源码获取链接：https://github.com/suyelu/OSPrograming
 
 > 3️⃣ 课程内容更新上线后，Bili姐都会在群内通知大家
 {.is-success}
