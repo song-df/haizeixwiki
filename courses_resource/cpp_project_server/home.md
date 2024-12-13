@@ -2,7 +2,7 @@
 title: 从0到1开始C++高性能服务器
 description: 
 published: true
-date: 2024-11-13T17:22:52.060Z
+date: 2024-12-13T11:44:14.806Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T16:17:14.484Z
@@ -20,6 +20,13 @@ dateCreated: 2024-11-13T16:17:14.484Z
 - [第8课-HTTP请求处理与响应](/courses_resource/cpp_project_server/docs/第8课-HTTP请求处理与响应.pdf)
 - [第9课-日志系统](/courses_resource/cpp_project_server/docs/第9课-日志系统.pdf)
 - [第10课-数据库与安全](/courses_resource/cpp_project_server/docs/第10课-数据库与安全.pdf)
+- [第11课-引入事件驱动模型](/courses_resource/cpp_project_server/docs/第11课-引入事件驱动模型.pdf)
+- [第12课-多线程服务器提高性能](/courses_resource/cpp_project_server/docs/第12课-多线程服务器提高性能.pdf)
+- [第13课-前端精讲](/courses_resource/cpp_project_server/docs/第13课-前端精讲.pdf)
+- [第14课-构建分布式服务器](/courses_resource/cpp_project_server/docs/第14课-构建分布式服务器.pdf)
+- [第15课-大数据MongoDB的引入](/courses_resource/cpp_project_server/docs/第15课-大数据MongoDB的引入.pdf)
+- [第16课-安全优化 SSL的引入](/courses_resource/cpp_project_server/docs/第16课-安全优化 SSL的引入.pdf)
+- [第17课-项目总结](/courses_resource/cpp_project_server/docs/第17课-项目总结.pdf)
 {.links-list}
 
 # PPT
@@ -33,4 +40,11 @@ dateCreated: 2024-11-13T16:17:14.484Z
 - [第八章HTTP协议与解析.pdf](/courses_resource/cpp_project_server/ppt/第八章HTTP协议与解析.pdf)
 - [第九章-日志系统.pdf](/courses_resource/cpp_project_server/ppt/第九章-日志系统.pdf)
 - [第十章-数据库基础与安全.pdf](/courses_resource/cpp_project_server/ppt/第十章-数据库基础与安全.pdf)
+- [第十一章-事件驱动模型.pdf](/courses_resource/cpp_project_server/ppt/第十一章-事件驱动模型.pdf)
+- [第十二章-线程池.pdf](/courses_resource/cpp_project_server/ppt/第十二章-线程池.pdf)
+- [第十三章-前端解析.pdf](/courses_resource/cpp_project_server/ppt/第十三章-前端解析.pdf)
+- [第十四章-分布式服务器.pdf](/courses_resource/cpp_project_server/ppt/第十四章-分布式服务器.pdf)
+- [第十五章-大数据.pdf](/courses_resource/cpp_project_server/ppt/第十四章-分布式服务器.pdf)
+- [第十六章-SSL.pdf](/courses_resource/cpp_project_server/ppt/第十六章-SSL.pdf)
+- [第十七章-项目总结.pdf](/courses_resource/cpp_project_server/ppt/第十七章-项目总结.pdf)
 {.links-list}
