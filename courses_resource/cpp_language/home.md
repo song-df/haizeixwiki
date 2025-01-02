@@ -2,7 +2,7 @@
 title: C++零基础到高级
 description: 
 published: true
-date: 2024-03-28T15:30:32.575Z
+date: 2025-01-02T14:05:53.558Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-02T14:03:08.619Z
@@ -134,8 +134,19 @@ dateCreated: 2024-03-02T14:03:08.619Z
 
 # 第4章：多态
 > 授课PPT
+> 1. [第四章:多态.pdf](cpp_language_resource/part1/chapter04/pptx/cpp_language_chapter04_1.pdf)
 
 > 参考程序
+> 1. [1.virtual.cpp](cpp_language_resource/part1/chapter04/code/1.virtual.cpp)
+> 2. [2.runtime_polymorphic.cpp](cpp_language_resource/part1/chapter04/code/2.runtime_polymorphic.cpp)
+> 3. [3.override.cpp](cpp_language_resource/part1/chapter04/code/3.override.cpp)
+> 4. [4.final.cpp](cpp_language_resource/part1/chapter04/code/4.final.cpp)
+> 5. [5.inherit_constructor_order.cpp](cpp_language_resource/part1/chapter04/code/5.inherit_constructor_order.cpp)
+> 6. [6.pure_virtual.cpp](cpp_language_resource/part1/chapter04/code/6.pure_virtual.cpp)
+> 7. [7.static_cast.cpp](cpp_language_resource/part1/chapter04/code/7.static_cast.cpp)
+> 8. [8.dynamic_cast.cpp](cpp_language_resource/part1/chapter04/code/8.dynamic_cast.cpp)
+> 9. [9.const_cast.cpp](cpp_language_resource/part1/chapter04/code/9.const_cast.cpp)
+
 
 # 第5章：模板
 
