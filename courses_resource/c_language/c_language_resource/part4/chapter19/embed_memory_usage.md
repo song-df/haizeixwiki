@@ -2,7 +2,7 @@
 title: 嵌入式系统中的内存使用
 description: 
 published: true
-date: 2024-09-25T02:21:55.165Z
+date: 2025-01-03T13:09:52.253Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T02:21:55.165Z
@@ -34,6 +34,9 @@ ESP32芯片具有丰富的内存资源，包括内部RAM、ROM和外部存储器
    - 扩展的RAM，可用于数据缓存和大型数据处理。
 
 ---
+
+
+
 
 ## 二、程序运行时的内存空间布局
 
