@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2024-09-25T02:23:17.895Z
+date: 2025-01-03T12:42:37.703Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -680,12 +680,6 @@ UVCIOC_CTRL_MAP - Error at Raw bits per pixel: Inappropriate ioctl for device (2
 
 >本章学习参考说明
 - [嵌入式系统中的内存](/courses_resource/c_language/c_language_resource/part4/chapter19/embed_memory_usage)
-
->课程PPT：
-
->参考程序：
-
-
 
 ## 第二十章 嵌入式篇·片上裸程序的多任务机制
 
