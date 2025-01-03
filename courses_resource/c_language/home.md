@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2025-01-03T12:42:37.703Z
+date: 2025-01-03T12:44:23.925Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -672,7 +672,7 @@ UVCIOC_CTRL_MAP - Error at Raw bits per pixel: Inappropriate ioctl for device (2
 ![MJPG-Streamer](/courses_resource/c_language/c_language_resource/part4/chapter18/images/mjpg-streamer-1.png)
 
 - MJPG-Streamer 服务线程结构
-![MJPG-Streamer](/courses_resource/c_language/c_language_resource/part4/chapter18/images/.png)
+![MJPG-Streamer](/courses_resource/c_language/c_language_resource/part4/chapter18/images/mjpg-streamer-main-thread.png)
 
 
 
