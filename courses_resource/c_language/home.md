@@ -683,6 +683,7 @@ UVCIOC_CTRL_MAP - Error at Raw bits per pixel: Inappropriate ioctl for device (2
 
 >参考程序：
 - [rtc_memory_test1.ino](c_language_resource/part4/chapter19/code/rtc_memory_test1.ino)
+- [memory_test.ino](c_language_resource/part4/chapter19/code/memory_test.ino)
 
 
 ## 第二十章 嵌入式篇·片上裸程序的多任务机制
