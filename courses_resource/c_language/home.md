@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2025-01-12T14:04:37.272Z
+date: 2025-01-23T11:40:05.393Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -685,6 +685,9 @@ UVCIOC_CTRL_MAP - Error at Raw bits per pixel: Inappropriate ioctl for device (2
 >参考程序：
 - [rtc_memory_test1.ino](c_language_resource/part4/chapter19/code/rtc_memory_test1.ino)
 - [memory_test.ino](c_language_resource/part4/chapter19/code/memory_test.ino)
+- [esp32_volatile_test_main](c_language_resource/part4/chapter19/code/esp32_volatile_test_main.cpp)
+- [partition_demo_main](c_language_resource/part4/chapter19/code/partition_demo_main.cpp)
+- [nvs_param_save_main](c_language_resource/part4/chapter19/code/nvs_param_save_main.cpp)
 
 
 ## 第二十章 嵌入式篇·片上裸程序的多任务机制
