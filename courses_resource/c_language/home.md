@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2025-01-23T11:40:05.393Z
+date: 2025-01-24T10:42:31.346Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -693,8 +693,11 @@ UVCIOC_CTRL_MAP - Error at Raw bits per pixel: Inappropriate ioctl for device (2
 ## 第二十章 嵌入式篇·片上裸程序的多任务机制
 
 >本章学习参考说明
+1、顺序执行与事件驱动
+2、状态机与任务轮询
+3、从0开始实现一个多任务执行系统
+4、主流实时多任务操作系统(FreeRTOS)介绍
 
->课程PPT：
 
 >参考程序：
 
