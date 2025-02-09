@@ -2,7 +2,7 @@
 title: 从0到1快速入门AI大模型
 description: 
 published: true
-date: 2025-02-09T11:47:16.100Z
+date: 2025-02-09T11:47:59.542Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T17:16:29.511Z
@@ -17,7 +17,7 @@ dateCreated: 2024-11-13T17:16:29.511Z
 {.is-success}
 
 
-> 程序源码
+# 程序源码
  
 [环境依赖venv_arm.txt](ai_mllm_aigc/resource/venv_arm.txt)
 
@@ -828,7 +828,7 @@ class Residual(nn.Module):
 
  [下载测试数据压缩包](/courses_resource/ai_mllm_aigc/resource/data.zip)
 
- > 课程学习PPT资料
+# 课程学习PPT资料
  
 [循环神经网络-RNN.pdf](/courses_resource/ai_mllm_aigc/resource/循环神经网络-RNN.pdf)
 [循环神经网络-LSTM.pdf](/courses_resource/ai_mllm_aigc/resource/循环神经网络-LSTM.pdf)
