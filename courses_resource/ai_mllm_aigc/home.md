@@ -1,8 +1,8 @@
 ---
-title: 从0到1快速入门AI大模型
+title: 【船说】深度学习先导课（原《从0到1快速入门AI大模型》部分课程资源）
 description: 
 published: true
-date: 2025-02-09T11:47:59.542Z
+date: 2025-02-09T11:50:51.286Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T17:16:29.511Z
