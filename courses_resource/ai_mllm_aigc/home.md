@@ -2,7 +2,7 @@
 title: 从0到1快速入门AI大模型
 description: 
 published: true
-date: 2025-02-09T11:44:32.589Z
+date: 2025-02-09T11:47:16.100Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T17:16:29.511Z
@@ -603,7 +603,7 @@ plt.show()
 
  ```
  2.11
- [下载压缩包2.11.zip]()
+ [下载压缩包2.11.zip](/courses_resource/ai_mllm_aigc/resource/2.11.zip)
  3.1.py
  ```
  #  PIL 是 Python Imaging Library 的缩写，是 Python 官方的图像处理库
@@ -731,7 +731,7 @@ if __name__ == '__main__':
 
  ```
  3.8
- [下载压缩包3.8.zip]()
+ [下载压缩包3.8.zip](/courses_resource/ai_mllm_aigc/resource/3.8.zip)
  3.10.py
 ```
 from torch import nn
@@ -826,13 +826,13 @@ class Residual(nn.Module):
 
 ```
 
- [下载测试数据压缩包]()
+ [下载测试数据压缩包](/courses_resource/ai_mllm_aigc/resource/data.zip)
 
  > 课程学习PPT资料
  
-[循环神经网络-RNN]()
-[循环神经网络-LSTM]()
-[Transformer架构解析]()
-[循环神经网络-GRU]()
-[LLaMA3.pdf]()
-[GPT.pdf]()
+[循环神经网络-RNN.pdf](/courses_resource/ai_mllm_aigc/resource/循环神经网络-RNN.pdf)
+[循环神经网络-LSTM.pdf](/courses_resource/ai_mllm_aigc/resource/循环神经网络-LSTM.pdf)
+[5.3循环神经网络-GRU.pdf](/courses_resource/ai_mllm_aigc/resource/5.3循环神经网络-GRU.pdf)
+[6.1Transformer架构解析.pdf](/courses_resource/ai_mllm_aigc/resource/6.1Transformer架构解析.pdf)
+[LLaMA3.pdf](/courses_resource/ai_mllm_aigc/resource/LLaMA3.pdf)
+[GPT.pdf](/courses_resource/ai_mllm_aigc/resource/GPT.pdf)
