@@ -2,7 +2,7 @@
 title: 【船说】深度学习先导课（原《从0到1快速入门AI大模型》部分课程资源）
 description: 
 published: true
-date: 2025-02-09T11:50:51.286Z
+date: 2025-02-09T11:54:35.529Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T17:16:29.511Z
@@ -22,7 +22,7 @@ dateCreated: 2024-11-13T17:16:29.511Z
 [环境依赖venv_arm.txt](ai_mllm_aigc/resource/venv_arm.txt)
 
 1.4.py
-```
+```python
 import numpy as np
 
 
