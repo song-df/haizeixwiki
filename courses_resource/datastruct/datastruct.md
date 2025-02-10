@@ -489,3 +489,22 @@ dateCreated: 2024-02-25T06:12:37.088Z
 - [22.ACM大牛带你玩转算法与数据结构-16.35.P1438：无聊的数列: 22.P1438.cpp](ds_resource/part02/chapter17/code/22.P1438.cpp)
 - [23.ACM大牛带你玩转算法与数据结构-16.37.P3924：康娜的线段树: 23.P3924.cpp](ds_resource/part02/chapter17/code/23.P3924.cpp)
 - [24.ACM大牛带你玩转算法与数据结构-16.39.HZOJ-334：区间最大公约数: 24.HZOJ-334.cpp](ds_resource/part02/chapter17/code/24.HZOJ-334.cpp)
+
+
+# 第十七章 树上的问题
+> 授课PPT
+> 1. [ACM大牛带你玩转算法与数据结构-17-树形DP](ds_resource/part02/chapter18/pptx/datastruct_chapter17_1.pdf)
+
+> 参考程序
+> 1. [ACM大牛带你玩转算法与数据结构-17.4-链式前向星：代码演示:1.adjacency_list.cpp](ds_resource/part02/chapter18/code/1.adjacency_list.cpp)
+> 2. [ACM大牛带你玩转算法与数据结构-17.6-HZOJ-361：没有上司的舞会:2.HZOJ-361.cpp](ds_resource/part02/chapter18/code/2.HZOJ-361.cpp)
+> 3. [ACM大牛带你玩转算法与数据结构-17.8-P2052：[NOI2011]-道路修建:3.P2052.cpp](ds_resource/part02/chapter18/code/3.P2052.cpp)
+> 4. [ACM大牛带你玩转算法与数据结构-17.10-【代码演示】P1131：[ZJOI2007]-时态同步:4.P1131.cpp](ds_resource/part02/chapter18/code/4.P1131.cpp)
+> 5. [ACM大牛带你玩转算法与数据结构-17.12-【代码演示】P2018：消息传递:5.P2018.cpp](ds_resource/part02/chapter18/code/5.P2018.cpp)
+> 6. [ACM大牛带你玩转算法与数据结构-17.14-【代码演示】B4016：树的直径:6.B4016.cpp](ds_resource/part02/chapter18/code/6.B4016.cpp)
+> 7. [ACM大牛带你玩转算法与数据结构-17.16-P3174：[HAOI2009]毛毛虫：7.P3174.cpp](ds_resource/part02/chapter18/code/7.P3174.cpp)
+> 8. [ACM大牛带你玩转算法与数据结构-17.18-P1757：通天之分组背包:8.P1757.cpp](ds_resource/part02/chapter18/code/8.P1757.cpp)
+> 9. [ACM大牛带你玩转算法与数据结构-17.20-HZOJ-362：选课:9.HZOJ-362.cpp](ds_resource/part02/chapter18/code/9.HZOJ-362.cpp)
+> 10. [ACM大牛带你玩转算法与数据结构-17.22-P2015：二叉苹果树:10.P2015.cpp](ds_resource/part02/chapter18/code/10.P2015.cpp)
+> 11. [ACM大牛带你玩转算法与数据结构-17.24-HZOJ-363：Strategic_game:11.HZOJ-363.cpp](ds_resource/part02/chapter18/code/11.HZOJ-363.cpp)
+> 12. [ACM大牛带你玩转算法与数据结构-17.26-P2279：消防局的设立:12.P2279.cpp](ds_resource/part02/chapter18/code/12.P2279.cpp)
