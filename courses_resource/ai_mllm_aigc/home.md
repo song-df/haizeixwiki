@@ -2,7 +2,7 @@
 title: 【船说】深度学习先导课（原《从0到1快速入门AI大模型》部分课程资源）
 description: 
 published: true
-date: 2025-02-09T11:54:35.529Z
+date: 2025-03-17T03:50:43.484Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T17:16:29.511Z
@@ -603,7 +603,7 @@ plt.show()
 
  ```
  2.11
- [下载压缩包2.11.zip](/courses_resource/ai_mllm_aigc/resource/2.11.zip)
+ [下载压缩包2.11.zip](/courses_resource/ai_mllm_aigc/resource/src/2.11.zip)
  3.1.py
  ```
  #  PIL 是 Python Imaging Library 的缩写，是 Python 官方的图像处理库
@@ -731,7 +731,7 @@ if __name__ == '__main__':
 
  ```
  3.8
- [下载压缩包3.8.zip](/courses_resource/ai_mllm_aigc/resource/3.8.zip)
+ [下载压缩包3.8.zip](/courses_resource/ai_mllm_aigc/resource/src/3.8.zip)
  3.10.py
 ```
 from torch import nn
@@ -826,7 +826,7 @@ class Residual(nn.Module):
 
 ```
 
- [下载测试数据压缩包](/courses_resource/ai_mllm_aigc/resource/data.zip)
+ [下载测试数据压缩包](/courses_resource/ai_mllm_aigc/resource/src/data.zip)
 
 # 课程学习PPT资料
  
