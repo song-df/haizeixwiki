@@ -2,7 +2,7 @@
 title: ACM金牌带你零基础直达C语言精通-课程资料
 description: 
 published: true
-date: 2025-01-24T10:42:31.346Z
+date: 2025-03-20T02:46:46.040Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-01T15:16:58.351Z
@@ -540,6 +540,8 @@ dateCreated: 2024-03-01T15:16:58.351Z
 :seven:[ESP32核心模块使用手册：esp32-wroom-32_datasheet_cn.pdf](/courses_resource/c_language/c_language_resource/part4/chapter18/tools/esp32-wroom-32_datasheet_cn.pdf)
 :eight:[ESP32模块使用手册：ESP32-DEVKit-32-dev-guide.pdf](/courses_resource/c_language/c_language_resource/part4/chapter18/tools/ESP32-DEVKit-32-dev-guide.pdf)
 :nine:[ESP32官方参考文档](https://docs.espressif.com/projects/arduino-esp32/en/latest/index.html){target="_blank"}
+---
+- [嵌入式C语言代码规范说明](https://wiki.haizeix.com/e/zh/courses_resource/c_language/c_language_resource/MaJerle_C_Style)
 
 >其他开发板管理器地址：
 ```
