@@ -2,7 +2,7 @@
 title: MaJerle C代码风格指南
 description: 经典嵌入式C代码风格
 published: true
-date: 2025-03-20T02:44:32.027Z
+date: 2025-03-20T09:32:24.863Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T02:44:32.027Z
@@ -57,8 +57,7 @@ VSCode自带`clang-format`工具（LLVM套件的一部分），可在代码开�
 
 1. 将仓库中的`.clang-format`文件放置于项目根目录
 2. 启用保存时自动格式化功能（图示配置）：
-![VSCode配置]([MaJerle_C_Style](/courses_resource/c_language/c_language_resource/images/vscode-settings.png))
-
+![vscode-settings.png](/courses_resource/c_language/c_language_resource/images/vscode-settings.png)
 ---
 
 ## 使用的约定
