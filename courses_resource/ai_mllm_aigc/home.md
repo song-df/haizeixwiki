@@ -2,7 +2,7 @@
 title: 【船说】深度学习先导课（原《从0到1快速入门AI大模型》部分课程资源）
 description: 
 published: true
-date: 2025-03-17T03:50:43.484Z
+date: 2025-03-20T02:55:43.645Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T17:16:29.511Z
@@ -834,5 +834,6 @@ class Residual(nn.Module):
 [循环神经网络-LSTM.pdf](/courses_resource/ai_mllm_aigc/resource/循环神经网络-LSTM.pdf)
 [5.3循环神经网络-GRU.pdf](/courses_resource/ai_mllm_aigc/resource/5.3循环神经网络-GRU.pdf)
 [6.1Transformer架构解析.pdf](/courses_resource/ai_mllm_aigc/resource/6.1Transformer架构解析.pdf)
+[7.1 BERT.pdf](/courses_resource/ai_mllm_aigc/resource/7.1BERT.pdf)
 [LLaMA3.pdf](/courses_resource/ai_mllm_aigc/resource/LLaMA3.pdf)
 [GPT.pdf](/courses_resource/ai_mllm_aigc/resource/GPT.pdf)
