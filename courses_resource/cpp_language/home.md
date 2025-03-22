@@ -2,7 +2,7 @@
 title: C++零基础到高级
 description: 
 published: true
-date: 2025-03-22T05:51:57.212Z
+date: 2025-03-22T05:52:52.892Z
 tags: 编程语言
 editor: markdown
 dateCreated: 2024-03-02T14:03:08.619Z
@@ -154,9 +154,9 @@ dateCreated: 2024-03-02T14:03:08.619Z
 > 1. [第五章:模板.pdf](cpp_language_resource/part1/chapter05/cpp_language_chapter05_1.pdf)
 
 > 参考程序
-> 1. [1.template_function.cpp](cpp_language_resource/part1/chapter05/1.template_function.cpp)
-> 2. [2.add.cpp](cpp_language_resource/part1/chapter05/2.add.cpp)
-> 3. [3.template_param.cpp](cpp_language_resource/part1/chapter05/3.template_param.cpp)
+> 1. [template_function.cpp](cpp_language_resource/part1/chapter05/1.template_function.cpp)
+> 2. [add.cpp](cpp_language_resource/part1/chapter05/2.add.cpp)
+> 3. [template_param.cpp](cpp_language_resource/part1/chapter05/3.template_param.cpp)
 
 # 第6章：异常处理
 
