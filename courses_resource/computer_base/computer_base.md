@@ -2,7 +2,7 @@
 title: 计算机基础从0到精通课程资料
 description: 
 published: true
-date: 2025-03-27T12:35:29.549Z
+date: 2025-03-27T13:07:24.670Z
 tags: 基础知识
 editor: markdown
 dateCreated: 2024-02-25T06:09:59.515Z
@@ -129,8 +129,9 @@ dateCreated: 2024-02-25T06:09:59.515Z
 
 
 - [Linux开发环境配置](https://wiki.haizeix.com/courses_resource/cloud_usage/Linux%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md) 
-- [快速使用云环境](https://wiki.haizeix.com/zh/courses_resource/cloud_usage/%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8%E4%BA%91%E7%8E%AF%E5%A2%83) 
+- [快速使用云环境](/courses_resource/cloud_usage/快速使用云环境)
 {.links-list}
+
 
 ### 2、其他
 
