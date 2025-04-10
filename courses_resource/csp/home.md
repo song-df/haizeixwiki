@@ -289,32 +289,119 @@ dateCreated: 2024-06-26T03:17:46.780Z
 
 ## 第8章：高精度
 > 授课PPT
-- 
+- [1.递归](csp_resource/part2/ch8/pptx/csp_resource_ch08_1.pdf) 
 > 参考程序
+- [1.XYOJ-9281.cpp](csp_resource/part2/ch8/code/1.XYOJ-9281.cpp)
+- [2.XYOJ-9315.cpp](csp_resource/part2/ch8/code/2.XYOJ-9315.cpp)
+- [3.XYOJ-7975.cpp](csp_resource/part2/ch8/code/3.XYOJ-7975.cpp)
+- [4.XYOJ-7976.cpp](csp_resource/part2/ch8/code/4.XYOJ-7976.cpp)
+- [5.XYOJ-9389.cpp](csp_resource/part2/ch8/code/5.XYOJ-9389.cpp)
+- [6.XYOJ-7077.cpp](csp_resource/part2/ch8/code/6.XYOJ-7077.cpp)
+- [7.XYOJ-15769.cpp](csp_resource/part2/ch8/code/7.XYOJ-15769.cpp)
+- [8.XYOJ-9435.cpp](csp_resource/part2/ch8/code/8.XYOJ-9435.cpp)
+- [9.XYOJ-9436.cpp](csp_resource/part2/ch8/code/9.XYOJ-9436.cpp)
+- [10.XYOJ-9330.cpp](csp_resource/part2/ch8/code/10.XYOJ-9330.cpp)
 - 
 
 ## 第9章：排序算法-入门
 > 授课PPT
+- [1.递推](csp_resource/part2/ch9/pptx/csp_resource_ch09_1.pdf) 
 - 
 > 参考程序
-- 
+- [1.XYOJ-9367.cpp](csp_resource/part2/ch9/code/1.XYOJ-9367.cpp)
+- [2.XYOJ-1698.cpp](csp_resource/part2/ch9/code/2.XYOJ-1698.cpp)
+- [3.XYOJ-8172.cpp](csp_resource/part2/ch9/code/3.XYOJ-8172.cpp)
+- [4.XYOJ-3687.cpp](csp_resource/part2/ch9/code/4.XYOJ-3687.cpp)
+- [5.XYOJ-9914.cpp](csp_resource/part2/ch9/code/5.XYOJ-9914.cpp)
+- [6.XYOJ-9402.cpp](csp_resource/part2/ch9/code/6.XYOJ-9402.cpp)
+- [6.XYOJ-9402(2).cpp](csp_resource/part2/ch9/code/6.XYOJ-9402(2).cpp)
+- [7.XYOJ-9400.cpp](csp_resource/part2/ch9/code/7.XYOJ-9400.cpp)
+- [8.XYOJ-9403.cpp](csp_resource/part2/ch9/code/8.XYOJ-9403.cpp)
+- [9.XYOJ-9834.cpp](csp_resource/part2/ch9/code/9.XYOJ-9834.cpp)
+- [10.XYOJ-8166.cpp](csp_resource/part2/ch9/code/10.XYOJ-8166.cpp)
 
-## 第10章：搜索算法-入门
+## 第10章：贪心
 > 授课PPT
-- 
+- [1.贪心](csp_resource/part2/ch10/pptx/csp_resource_ch010_1.pdf) 
 > 参考程序
-- 
+- [1.XYOJ-9853.cpp](csp_resource/part2/ch10/code/1.XYOJ-9853.cpp)
+- [2.XYOJ-7110.cpp](csp_resource/part2/ch10/code/2.XYOJ-7110.cpp)
+- [3.XYOJ-9341.cpp](csp_resource/part2/ch10/code/3.XYOJ-9341.cpp)
+- [4.XYOJ-8101.cpp](csp_resource/part2/ch10/code/4.XYOJ-8101.cpp)
+- [5.XYOJ-8106.cpp](csp_resource/part2/ch10/code/5.XYOJ-8106.cpp)
+- [6.XYOJ-9343.cpp](csp_resource/part2/ch10/code/6.XYOJ-9343.cpp)
+- [7.XYOJ-9342.cpp](csp_resource/part2/ch10/code/7.XYOJ-9342.cpp)
+- [8.XYOJ-1485.cpp](csp_resource/part2/ch10/code/8.XYOJ-1485.cpp)
+- [9.XYOJ-8100.cpp](csp_resource/part2/ch10/code/9.XYOJ-8100.cpp)
+- [10.XYOJ-1317.cpp](csp_resource/part2/ch10/code/10.XYOJ-1317.cpp)
 
-## 第11章：图论算法-入门
+## 第11章：搜索算法-入门
 > 授课PPT
-- 
+- [1.搜索综合](csp_resource/part2/ch11/pptx/csp_resource_ch011_1.pdf)
 > 参考程序
-- 
-## 第12章：动态规划-入门
+- [1.XYOJ-13015.cpp](csp_resource/part2/ch11/code/1.XYOJ-13015.cpp)
+- [2.XYOJ-1519.cpp](csp_resource/part2/ch11/code/2.XYOJ-1519.cpp)
+- [3.XYOJ-8564.cpp](csp_resource/part2/ch11/code/3.XYOJ-8564.cpp)
+- [4.XYOJ-8113.cpp](csp_resource/part2/ch11/code/4.XYOJ-8113.cpp)
+- [5.XYOJ-3347.cpp](csp_resource/part2/ch11/code/5.XYOJ-3347.cpp)
+- [6.XYOJ-8740.cpp](csp_resource/part2/ch11/code/6.XYOJ-8740.cpp)
+- [7.XYOJ-7346.cpp](csp_resource/part2/ch11/code/7.XYOJ-7346.cpp)
+- [8.XYOJ-7978.cpp](csp_resource/part2/ch11/code/8.XYOJ-7978.cpp)
+- [9.XYOJ-1013.cpp](csp_resource/part2/ch11/code/9.XYOJ-1013.cpp)
+- [10.XYOJ-8114.cpp](csp_resource/part2/ch11/code/10.XYOJ-8114.cpp)
+- [11.XYOJ-8002.cpp](csp_resource/part2/ch11/code/11.XYOJ-8002.cpp)
+- [12.XYOJ-7620.cpp](csp_resource/part2/ch11/code/12.XYOJ-7620.cpp)
+- [13.XYOJ-15703.cpp](csp_resource/part2/ch11/code/13.XYOJ-15703.cpp)
+- [14.XYOJ-15715.cpp](csp_resource/part2/ch11/code/14.XYOJ-15715.cpp)
+- [15.XYOJ-1376.cpp](csp_resource/part2/ch11/code/15.XYOJ-1376.cpp)
+- [16.XYOJ-8019.cpp](csp_resource/part2/ch11/code/16.XYOJ-8019.cpp)
+- [17.XYOJ-9252.cpp](csp_resource/part2/ch11/code/17.XYOJ-9252.cpp)
+- [18.XYOJ-15651.cpp](csp_resource/part2/ch11/code/18.XYOJ-15651.cpp)
+- [19.XYOJ-9863.cpp](csp_resource/part2/ch11/code/19.XYOJ-9863.cpp)
+- [20.XYOJ-9397.cpp](csp_resource/part2/ch11/code/20.XYOJ-9397.cpp)
+- [21.XYOJ-9396.cpp](csp_resource/part2/ch11/code/21.XYOJ-9396.cpp)
+## 第12章：STL模板库及其应用
 > 授课PPT
-- 
+- [1.STL模板库及其应用](csp_resource/part2/ch12/pptx/csp_resource_ch012_1.pdf) 
 > 参考程序
-- 
+- 1.PPT配套代码:
+- [1.vector示例.cpp](csp_resource/part2/ch12/code/code2/1.vector示例.cpp)
+- [2.vector示例2.cpp](csp_resource/part2/ch12/code/code2/2.vector示例2.cpp)
+- [3.queue示例.cpp](csp_resource/part2/ch12/code/code2/3.queue示例.cpp)
+- [4.stack示例.cpp](csp_resource/part2/ch12/code/code2/4.stack示例.cpp)
+- [5.deque示例.cpp](csp_resource/part2/ch12/code/code2/5.deque示例.cpp)
+- [6.deque示例2.cpp](csp_resource/part2/ch12/code/code2/6.deque示例2.cpp)
+- [7.优先队列1.cpp](csp_resource/part2/ch12/code/code2/7.优先队列1.cpp)
+- [8.优先队列2.cpp](csp_resource/part2/ch12/code/code2/8.优先队列2.cpp)
+- [9.优先队列+结构体.cpp](csp_resource/part2/ch12/code/code2/9.优先队列+结构体.cpp)
+- [10.自定义优先队列的比较规则.cpp](csp_resource/part2/ch12/code/code2/10.自定义优先队列的比较规则.cpp)
+- [11.重载运算符玩一玩.cpp](csp_resource/part2/ch12/code/code2/11.重载运算符玩一玩.cpp)
+- [12.map示例.cpp](csp_resource/part2/ch12/code/code2/12.map示例.cpp)
+- [13.set示例.cpp](csp_resource/part2/ch12/code/code2/13.set示例.cpp)
+- [14.set示例2.cpp](csp_resource/part2/ch12/code/code2/14.set示例2.cpp)
+- [15.multiset示例.cpp](csp_resource/part2/ch12/code/code2/15.multiset示例.cpp)
+- [16.multiset示例2.cpp](csp_resource/part2/ch12/code/code2/16.multiset示例2.cpp)
+- [17.sort示例.cpp](csp_resource/part2/ch12/code/code2/17.sort示例.cpp)
+- [18.lower_bound示例.cpp](csp_resource/part2/ch12/code/code2/18.lower_bound示例.cpp)
+- [19.find示例.cpp](csp_resource/part2/ch12/code/code2/19.find示例.cpp)
+- [20.nth_element示例.cpp](csp_resource/part2/ch12/code/code2/20.nth_element示例.cpp)
+- [21.unique示例.cpp](csp_resource/part2/ch12/code/code2/21.unique示例.cpp)
+- [22.reverse示例.cpp](csp_resource/part2/ch12/code/code2/22.reverse示例.cpp)
+- [23.fill示例.cpp](csp_resource/part2/ch12/code/code2/23.fill示例.cpp)
+- [24.copy示例.cpp](csp_resource/part2/ch12/code/code2/24.copy示例.cpp)
+- [25.shuffle示例.cpp](csp_resource/part2/ch12/code/code2/25.shuffle示例.cpp)
+- [26.next_permutation示例.cpp](csp_resource/part2/ch12/code/code2/26.next_permutation示例.cpp)
+- 2.题目:
+- [1.XYOJ-7303(数组).cpp](csp_resource/part2/ch12/code/1.XYOJ-7303(数组).cpp)
+- [1.XYOJ-7303(vector).cpp](csp_resource/part2/ch12/code/1.XYOJ-7303(vector).cpp)
+- [2.XYOJ-7305.cpp](csp_resource/part2/ch12/code/2.XYOJ-7305.cpp)
+- [3.XYOJ-7308.cpp](csp_resource/part2/ch12/code/3.XYOJ-7308.cpp)
+- [4.XYOJ-7317.cpp](csp_resource/part2/ch12/code/4.XYOJ-7317.cpp)
+- [5.XYOJ-7300.cpp](csp_resource/part2/ch12/code/5.XYOJ-7300.cpp)
+- [6.XYOJ-7306.cpp](csp_resource/part2/ch12/code/6.XYOJ-7306.cpp)
+- [7.XYOJ-7307.cpp](csp_resource/part2/ch12/code/7.XYOJ-7307.cpp)
+- [8.XYOJ-15383.cpp](csp_resource/part2/ch12/code/8.XYOJ-15383.cpp)
+- [9.XYOJ-7669.cpp](csp_resource/part2/ch12/code/9.XYOJ-7669.cpp)
 ## 第13章：初等数论-入门
 > 授课PPT
 - 
