@@ -403,69 +403,76 @@ dateCreated: 2024-06-26T03:17:46.780Z
 - [8.XYOJ-15383.cpp](csp_resource/part2/ch12/code/8.XYOJ-15383.cpp)
 - [9.XYOJ-7669.cpp](csp_resource/part2/ch12/code/9.XYOJ-7669.cpp)
 ## 第13章：Atcoder
-- ### Atcoder-abc403
-- #### 题目描述
+### Atcoder-abc403
+#### 题目描述文档
 - [Atcoder-abc403-A](csp_resource/part2/ch13/Atcoder-abc403/pptx/1.abc403_a_Title.pdf)
 - [Atcoder-abc403-B](csp_resource/part2/ch13/Atcoder-abc403/pptx/2.abc403_b_Title.pdf)
 - [Atcoder-abc403-C](csp_resource/part2/ch13/Atcoder-abc403/pptx/3.abc403_c_Title.pdf)
 - [Atcoder-abc403-D](csp_resource/part2/ch13/Atcoder-abc403/pptx/4.abc403_d_Title.pdf)
 - [Atcoder-abc403-E](csp_resource/part2/ch13/Atcoder-abc403/pptx/5.abc403_e_Title.pdf)
 - [Atcoder-abc403-F](csp_resource/part2/ch13/Atcoder-abc403/pptx/6.abc403_f_Title.pdf)
-- #### 题解
+{.links-list}
+#### 题解文档
 - [Atcoder-abc403-A](csp_resource/part2/ch13/Atcoder-abc403/pptx/1.abc403_a_Solution.pdf)
 - [Atcoder-abc403-B](csp_resource/part2/ch13/Atcoder-abc403/pptx/2.abc403_b_Solution.pdf)
 - [Atcoder-abc403-C](csp_resource/part2/ch13/Atcoder-abc403/pptx/3.abc403_c_Solution.pdf)
 - [Atcoder-abc403-D](csp_resource/part2/ch13/Atcoder-abc403/pptx/4.abc403_d_Solution.pdf)
 - [Atcoder-abc403-E](csp_resource/part2/ch13/Atcoder-abc403/pptx/5.abc403_e_Solution.pdf)
 - [Atcoder-abc403-F](csp_resource/part2/ch13/Atcoder-abc403/pptx/6.abc403_f_Solution.pdf)
-- #### 代码
+{.links-list}
+#### 代码
 - [Atcoder-abc403-A](csp_resource/part2/ch13/Atcoder-abc403/code/1.abc403_a.cpp)
 - [Atcoder-abc403-B](csp_resource/part2/ch13/Atcoder-abc403/code/2.abc403_b.cpp)
 - [Atcoder-abc403-C](csp_resource/part2/ch13/Atcoder-abc403/code/3.abc403_c.cpp)
 - [Atcoder-abc403-D](csp_resource/part2/ch13/Atcoder-abc403/code/4.abc403_d.cpp)
 - [Atcoder-abc403-E](csp_resource/part2/ch13/Atcoder-abc403/code/5.abc403_e.cpp)
 - [Atcoder-abc403-F](csp_resource/part2/ch13/Atcoder-abc403/code/6.abc403_f.cpp)
+{.links-list}
 
-
-- ### Atcoder-abc409
-- #### 题目描述
+### Atcoder-abc409
+#### 题目描述文档
 - [Atcoder-abc409-A](csp_resource/part2/ch13/Atcoder-abc409/pptx/1.abc409_a_Title.pdf)
 - [Atcoder-abc409-B](csp_resource/part2/ch13/Atcoder-abc409/pptx/2.abc409_b_Title.pdf)
 - [Atcoder-abc409-C](csp_resource/part2/ch13/Atcoder-abc409/pptx/3.abc409_c_Title.pdf)
 - [Atcoder-abc409-D](csp_resource/part2/ch13/Atcoder-abc409/pptx/4.abc409_d_Title.pdf)
 - [Atcoder-abc409-E](csp_resource/part2/ch13/Atcoder-abc409/pptx/5.abc409_e_Title.pdf)
 - [Atcoder-abc409-F](csp_resource/part2/ch13/Atcoder-abc409/pptx/6.abc409_f_Title.pdf)
-- #### 题解
+{.links-list}
+#### 题解文档
 - [Atcoder-abc409-A](csp_resource/part2/ch13/Atcoder-abc409/pptx/1.abc409_a_Solution.pdf)
 - [Atcoder-abc409-B](csp_resource/part2/ch13/Atcoder-abc409/pptx/2.abc409_b_Solution.pdf)
 - [Atcoder-abc409-C](csp_resource/part2/ch13/Atcoder-abc409/pptx/3.abc409_c_Solution.pdf)
 - [Atcoder-abc409-D](csp_resource/part2/ch13/Atcoder-abc409/pptx/4.abc409_d_Solution.pdf)
 - [Atcoder-abc409-E](csp_resource/part2/ch13/Atcoder-abc409/pptx/5.abc409_e_Solution.pdf)
 - [Atcoder-abc409-F](csp_resource/part2/ch13/Atcoder-abc409/pptx/6.abc409_f_Solution.pdf)
-- #### 代码
+{.links-list}
+#### 代码
 - [Atcoder-abc409-A](csp_resource/part2/ch13/Atcoder-abc409/code/1.abc409_a.cpp)
 - [Atcoder-abc409-B](csp_resource/part2/ch13/Atcoder-abc409/code/2.abc409_b.cpp)
 - [Atcoder-abc409-C](csp_resource/part2/ch13/Atcoder-abc409/code/3.abc409_c.cpp)
 - [Atcoder-abc409-D](csp_resource/part2/ch13/Atcoder-abc409/code/4.abc409_d.cpp)
 - [Atcoder-abc409-E](csp_resource/part2/ch13/Atcoder-abc409/code/5.abc409_e.cpp)
 - [Atcoder-abc409-F](csp_resource/part2/ch13/Atcoder-abc409/code/6.abc409_f.cpp)
+{.links-list}
 
 
-- ### Atcoder-abc410
-- #### 题目描述
+### Atcoder-abc410
+#### 题目描述文档
 - [Atcoder-abc410-A](csp_resource/part2/ch13/Atcoder-abc410/pptx/1.abc410_a_Title.pdf)
 - [Atcoder-abc410-B](csp_resource/part2/ch13/Atcoder-abc410/pptx/2.abc410_b_Title.pdf)
 - [Atcoder-abc410-C](csp_resource/part2/ch13/Atcoder-abc410/pptx/3.abc410_c_Title.pdf)
 - [Atcoder-abc410-D](csp_resource/part2/ch13/Atcoder-abc410/pptx/4.abc410_d_Title.pdf)
 - [Atcoder-abc410-E](csp_resource/part2/ch13/Atcoder-abc410/pptx/5.abc410_e_Title.pdf)
 - [Atcoder-abc410-F](csp_resource/part2/ch13/Atcoder-abc410/pptx/6.abc410_f_Title.pdf)
-- #### 题解
+{.links-list}
+#### 题解文档
 - [Atcoder-abc410-A](csp_resource/part2/ch13/Atcoder-abc410/pptx/1.abc410_a_Solution.pdf)
 - [Atcoder-abc410-B](csp_resource/part2/ch13/Atcoder-abc410/pptx/2.abc410_b_Solution.pdf)
 - [Atcoder-abc410-C](csp_resource/part2/ch13/Atcoder-abc410/pptx/3.abc410_c_Solution.pdf)
 - [Atcoder-abc410-D](csp_resource/part2/ch13/Atcoder-abc410/pptx/4.abc410_d_Solution.pdf)
 - [Atcoder-abc410-E](csp_resource/part2/ch13/Atcoder-abc410/pptx/5.abc410_e_Solution.pdf)
 - [Atcoder-abc410-F](csp_resource/part2/ch13/Atcoder-abc410/pptx/6.abc410_f_Solution.pdf)
+{.links-list}
 - ### 代码
 - [Atcoder-abc410-A](csp_resource/part2/ch13/Atcoder-abc410/code/1.abc410_a.cpp)
 - [Atcoder-abc410-B](csp_resource/part2/ch13/Atcoder-abc410/code/2.abc410_b.cpp)
@@ -473,169 +480,192 @@ dateCreated: 2024-06-26T03:17:46.780Z
 - [Atcoder-abc410-D](csp_resource/part2/ch13/Atcoder-abc410/code/4.abc410_d.cpp)
 - [Atcoder-abc410-E](csp_resource/part2/ch13/Atcoder-abc410/code/5.abc410_e.cpp)
 - [Atcoder-abc410-F](csp_resource/part2/ch13/Atcoder-abc410/code/6.abc410_f.cpp)
+{.links-list}
 
 
-- ### Atcoder-abc412
-- #### 题目描述
+### Atcoder-abc412
+#### 题目描述文档
 - [Atcoder-abc412-A](csp_resource/part2/ch13/Atcoder-abc412/pptx/1.abc412_a_Title.pdf)
 - [Atcoder-abc412-B](csp_resource/part2/ch13/Atcoder-abc412/pptx/2.abc412_b_Title.pdf)
 - [Atcoder-abc412-C](csp_resource/part2/ch13/Atcoder-abc412/pptx/3.abc412_c_Title.pdf)
 - [Atcoder-abc412-D](csp_resource/part2/ch13/Atcoder-abc412/pptx/4.abc412_d_Title.pdf)
 - [Atcoder-abc412-E](csp_resource/part2/ch13/Atcoder-abc412/pptx/5.abc412_e_Title.pdf)
 - [Atcoder-abc412-F](csp_resource/part2/ch13/Atcoder-abc412/pptx/6.abc412_f_Title.pdf)
-- #### 题解
+{.links-list}
+#### 题解文档
 - [Atcoder-abc412-A](csp_resource/part2/ch13/Atcoder-abc412/pptx/1.abc412_a_Solution.pdf)
 - [Atcoder-abc412-B](csp_resource/part2/ch13/Atcoder-abc412/pptx/2.abc412_b_Solution.pdf)
 - [Atcoder-abc412-C](csp_resource/part2/ch13/Atcoder-abc412/pptx/3.abc412_c_Solution.pdf)
 - [Atcoder-abc412-D](csp_resource/part2/ch13/Atcoder-abc412/pptx/4.abc412_d_Solution.pdf)
 - [Atcoder-abc412-E](csp_resource/part2/ch13/Atcoder-abc412/pptx/5.abc412_e_Solution.pdf)
 - [Atcoder-abc412-F](csp_resource/part2/ch13/Atcoder-abc412/pptx/6.abc412_f_Solution.pdf)
-- #### 代码
+{.links-list}
+#### 代码
 - [Atcoder-abc412-A](csp_resource/part2/ch13/Atcoder-abc412/code/1.abc412_a.cpp)
 - [Atcoder-abc412-B](csp_resource/part2/ch13/Atcoder-abc412/code/2.abc412_b.cpp)
 - [Atcoder-abc412-C](csp_resource/part2/ch13/Atcoder-abc412/code/3.abc412_c.cpp)
 - [Atcoder-abc412-D](csp_resource/part2/ch13/Atcoder-abc412/code/4.abc412_d.cpp)
 - [Atcoder-abc412-E](csp_resource/part2/ch13/Atcoder-abc412/code/5.abc412_e.cpp)
 - [Atcoder-abc412-F](csp_resource/part2/ch13/Atcoder-abc412/code/6.abc412_f.cpp)
+{.links-list}
 
-- ### Atcoder-abc413
-- #### 题目描述
+### Atcoder-abc413
+#### 题目描述文档
 - [Atcoder-abc413-A](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_a_Title.pdf)
 - [Atcoder-abc413-B](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_b_Title.pdf)
 - [Atcoder-abc413-C](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_c_Title.pdf)
 - [Atcoder-abc413-D](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_d_Title.pdf)
 - [Atcoder-abc413-E](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_e_Title.pdf)
 - [Atcoder-abc413-F](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_f_Title.pdf)
-- #### 题解
+{.links-list}
+#### 题解文档
 - [Atcoder-abc413-A](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_a_Solution.pdf)
 - [Atcoder-abc413-B](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_b_Solution.pdf)
 - [Atcoder-abc413-C](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_c_Solution.pdf)
 - [Atcoder-abc413-D](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_d_Solution.pdf)
 - [Atcoder-abc413-](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_e_Solution.pdf)
 - [Atcoder-abc413-F](csp_resource/part2/ch13/Atcoder-abc413/pptx/abc413_f_Solution.pdf)
-- #### 代码
+{.links-list}
+#### 代码
 - [Atcoder-abc413-A](csp_resource/part2/ch13/Atcoder-abc413/code/abc413_a.cpp)
 - [Atcoder-abc413-B](csp_resource/part2/ch13/Atcoder-abc413/code/abc413_b.cpp)
 - [Atcoder-abc413-C](csp_resource/part2/ch13/Atcoder-abc413/code/abc413_c.cpp)
 - [Atcoder-abc413-D](csp_resource/part2/ch13/Atcoder-abc413/code/abc413_d.cpp)
 - [Atcoder-abc413-E](csp_resource/part2/ch13/Atcoder-abc413/code/abc413_e.cpp)
 - [Atcoder-abc413-F](csp_resource/part2/ch13/Atcoder-abc413/code/abc413_f.cpp)
-- ### Atcoder-abc414
-- #### 代码
+{.links-list}
+### Atcoder-abc414
+#### 代码
 - [Atcoder-abc414-A](csp_resource/part2/ch13/Atcoder-abc414/code/abc414_a.cpp)
 - [Atcoder-abc414-B](csp_resource/part2/ch13/Atcoder-abc414/code/abc414_b.cpp)
 - [Atcoder-abc414-C](csp_resource/part2/ch13/Atcoder-abc414/code/abc414_c.cpp)
 - [Atcoder-abc414-D](csp_resource/part2/ch13/Atcoder-abc414/code/abc414_d.cpp)
 - [Atcoder-abc414-E](csp_resource/part2/ch13/Atcoder-abc414/code/abc414_e.cpp)
 - [Atcoder-abc414-F](csp_resource/part2/ch13/Atcoder-abc414/code/abc414_f.cpp)
-- ### Atcoder-abc415
-- #### 题目描述
+{.links-list}
+### Atcoder-abc415
+#### 题目描述文档
 - [Atcoder-abc415-A](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_a_Title.pdf)
 - [Atcoder-abc415-B](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_b_Title.pdf)
 - [Atcoder-abc415-C](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_c_Title.pdf)
 - [Atcoder-abc415-D](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_d_Title.pdf)
 - [Atcoder-abc415-E](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_e_Title.pdf)
 - [Atcoder-abc415-F](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_f_Title.pdf)
-- #### 题解
+{.links-list}
+#### 题解文档
 - [Atcoder-abc415-A](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_a_Solutio5.pdf)
 - [Atcoder-abc415-B](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_b_Solutio5.pdf)
 - [Atcoder-abc415-C](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_c_Solutio5.pdf)
 - [Atcoder-abc415-D](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_d_Solutio5.pdf)
 - [Atcoder-abc415-E](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_e_Solutio5.pdf)
 - [Atcoder-abc415-F](csp_resource/part2/ch13/Atcoder-abc415/pptx/abc415_f_Solutio5.pdf)
-- #### 代码
+{.links-list}
+#### 代码
 - [Atcoder-abc415-A](csp_resource/part2/ch13/Atcoder-abc415/code/abc415_a.cpp)
 - [Atcoder-abc415-B](csp_resource/part2/ch13/Atcoder-abc415/code/abc415_b.cpp)
 - [Atcoder-abc415-C](csp_resource/part2/ch13/Atcoder-abc415/code/abc415_c.cpp)
 - [Atcoder-abc415-D](csp_resource/part2/ch13/Atcoder-abc415/code/abc415_d.cpp)
 - [Atcoder-abc415-E](csp_resource/part2/ch13/Atcoder-abc415/code/abc415_e.cpp)
 - [Atcoder-abc415-F](csp_resource/part2/ch13/Atcoder-abc415/code/abc415_f.cpp)
-- ### Atcoder-abc416
-- #### 题目描述
+{.links-list}
+### Atcoder-abc416
+#### 题目描述文档
 - [Atcoder-abc416-A](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_a_Title.pdfAtcoder-abc416-)
 - [Atcoder-abc416-B](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_b_Title.pdf)
 - [Atcoder-abc416-C](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_c_Title.pdf)
 - [Atcoder-abc416-D](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_d_Title.pdf)
 - [Atcoder-abc416-E](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_e_Title.pdf)
 - [Atcoder-abc416-F](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_f_Title.pdf)
-- #### 题解
+{.links-list}
+#### 题解文档
 - [Atcoder-abc416-A](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_a_Solution.pdf)
 - [Atcoder-abc416-B](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_b_Solution.pdf)
 - [Atcoder-abc416-C](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_c_Solution.pdf)
 - [Atcoder-abc416-D](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_d_Solution.pdf)
 - [Atcoder-abc416-E](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_e_Solution.pdf)
 - [Atcoder-abc416-F](csp_resource/part2/ch13/Atcoder-abc416/pptx/abc416_f_Solution.pdf)
-- #### 代码
+{.links-list}
+#### 代码
 - [Atcoder-abc416-A](csp_resource/part2/ch13/Atcoder-abc416/code/abc416_a.cpp)
 - [Atcoder-abc416-B](csp_resource/part2/ch13/Atcoder-abc416/code/abc416_b.cpp)
 - [Atcoder-abc416-C](csp_resource/part2/ch13/Atcoder-abc416/code/abc416_c.cpp)
 - [Atcoder-abc416-D](csp_resource/part2/ch13/Atcoder-abc416/code/abc416_d.cpp)
 - [Atcoder-abc416-E](csp_resource/part2/ch13/Atcoder-abc416/code/abc416_e.cpp)
 - [Atcoder-abc416-F](csp_resource/part2/ch13/Atcoder-abc416/code/abc416_f.cpp)
-- ### Atcoder-abc417
-- #### 题目描述
+{.links-list}
+### Atcoder-abc417
+#### 题目描述文档
 - [Atcoder-abc417-A](csp_resource/part2/ch13/Atcoder-abc417/pptx/abc417_a_Title.pdf)
 - [Atcoder-abc417-B](csp_resource/part2/ch13/Atcoder-abc417/pptx/abc417_b_Title.pdf)
 - [Atcoder-abc417-C](csp_resource/part2/ch13/Atcoder-abc417/pptx/abc417_c_Title.pdf)
 - [Atcoder-abc417-D](csp_resource/part2/ch13/Atcoder-abc417/pptx/abc417_d_Title.pdf)
 - [Atcoder-abc417-E](csp_resource/part2/ch13/Atcoder-abc417/pptx/abc417_e_Title.pdf)
-- #### 题解
+{.links-list}
+#### 题解文档
 - [Atcoder-abc417-A](csp_resource/part2/ch13/Atcoder-abc417/pptx/abc417_a_Solution.pdf)
 - [Atcoder-abc417-B](csp_resource/part2/ch13/Atcoder-abc417/pptx/abc417_b_Solution.pdf)
 - [Atcoder-abc417-C](csp_resource/part2/ch13/Atcoder-abc417/pptx/abc417_c_Solution.pdf)
 - [Atcoder-abc417-D](csp_resource/part2/ch13/Atcoder-abc417/pptx/abc417_d_Solution.pdf)
 - [Atcoder-abc417-E](csp_resource/part2/ch13/Atcoder-abc417/pptx/abc417_e_Solution.pdf)
-- #### 代码
+{.links-list}
+#### 代码
 - [Atcoder-abc417-A](csp_resource/part2/ch13/Atcoder-abc417/code/abc417_a.cpp)
 - [Atcoder-abc417-B](csp_resource/part2/ch13/Atcoder-abc417/code/abc417_b.cpp)
 - [Atcoder-abc417-C](csp_resource/part2/ch13/Atcoder-abc417/code/abc417_c.cpp)
 - [Atcoder-abc417-D](csp_resource/part2/ch13/Atcoder-abc417/code/abc417_d.cpp)
 - [Atcoder-abc417-E](csp_resource/part2/ch13/Atcoder-abc417/code/abc417_e.cpp)
 - [Atcoder-abc417-F](csp_resource/part2/ch13/Atcoder-abc417/code/abc417_f.cpp)
-- ### Atcoder-abc418
-- #### 题目描述
+{.links-list}
+### Atcoder-abc418
+#### 题目描述文档
 - [Atcoder-abc418-A](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_a_Title.pdf)
 - [Atcoder-abc418-B](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_b_Title.pdf)
 - [Atcoder-abc418-C](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_c_Title.pdf)
 - [Atcoder-abc418-D](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_d_Title.pdf)
 - [Atcoder-abc418-E](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_e_Title.pdf)
 - [Atcoder-abc418-F](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_f_Title.pdf)
-- #### 题解
+{.links-list}
+#### 题解文档
 - [Atcoder-abc418-A](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_a_Solution.pdf)
 - [Atcoder-abc418-B](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_b_Solution.pdf)
 - [Atcoder-abc418-C](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_c_Solution.pdf)
 - [Atcoder-abc418-D](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_d_Solution.pdf)
 - [Atcoder-abc418-E](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_e_Solution.pdf)
 - [Atcoder-abc418-F](csp_resource/part2/ch13/Atcoder-abc418/pptx/abc418_f_Solution.pdf)
-- #### 代码
+{.links-list}
+#### 代码
 - [Atcoder-abc418-A](csp_resource/part2/ch13/Atcoder-abc418/code/abc418_a.cpp)
 - [Atcoder-abc418-B](csp_resource/part2/ch13/Atcoder-abc418/code/abc418_b.cpp)
 - [Atcoder-abc418-C](csp_resource/part2/ch13/Atcoder-abc418/code/abc418_c.cpp)
 - [Atcoder-abc418-D](csp_resource/part2/ch13/Atcoder-abc418/code/abc418_d.cpp)
 - [Atcoder-abc418-E](csp_resource/part2/ch13/Atcoder-abc418/code/abc418_e.cpp)
 - [Atcoder-abc418-F](csp_resource/part2/ch13/Atcoder-abc418/code/abc418_f.cpp)
-- ### Atcoder-abc419
-- #### 题目描述
+{.links-list}
+### Atcoder-abc419
+#### 题目描述文档
 - [Atcoder-abc419-A](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_a_Title.pdf)
 - [Atcoder-abc419-B](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_b_Title.pdf)
 - [Atcoder-abc419-C](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_c_Title.pdf)
 - [Atcoder-abc419-D](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_d_Title.pdf)
 - [Atcoder-abc419-E](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_e_Title.pdf)
 - [Atcoder-abc419-F](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_f_Title.pdf)
-- #### 题解
+{.links-list}
+#### 题解文档
 - [Atcoder-abc419-A](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_a_Solution.pdf)
 - [Atcoder-abc419-B](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_b_Solution.pdf)
 - [Atcoder-abc419-C](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_c_Solution.pdf)
 - [Atcoder-abc419-D](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_d_Solution.pdf)
 - [Atcoder-abc419-E](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_e_Solution.pdf)
 - [Atcoder-abc419-F](csp_resource/part2/ch13/Atcoder-abc419/pptx/abc419_f_Solution.pdf)
-- #### 代码
+{.links-list}
+#### 代码
 - [Atcoder-abc419-A](csp_resource/part2/ch13/Atcoder-abc419/code/abc419_a.cpp)
 - [Atcoder-abc419-B](csp_resource/part2/ch13/Atcoder-abc419/code/abc419_b.cpp)
 - [Atcoder-abc419-C](csp_resource/part2/ch13/Atcoder-abc419/code/abc419_c.cpp)
 - [Atcoder-abc419-D](csp_resource/part2/ch13/Atcoder-abc419/code/abc419_d.cpp)
 - [Atcoder-abc419-E](csp_resource/part2/ch13/Atcoder-abc419/code/abc419_e.cpp)
 - [Atcoder-abc419-F](csp_resource/part2/ch13/Atcoder-abc419/code/abc419_f.cpp)
+{.links-list}
 
 ## 第14章：初等数论-入门
 > 授课PPT
