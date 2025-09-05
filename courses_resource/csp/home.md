@@ -2,7 +2,7 @@
 title: 算法竞赛通关班
 description: 
 published: true
-date: 2024-12-04T04:30:39.115Z
+date: 2025-09-05T03:16:46.465Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T03:17:46.780Z
@@ -403,7 +403,7 @@ dateCreated: 2024-06-26T03:17:46.780Z
 - [8.XYOJ-15383.cpp](csp_resource/part2/ch12/code/8.XYOJ-15383.cpp)
 - [9.XYOJ-7669.cpp](csp_resource/part2/ch12/code/9.XYOJ-7669.cpp)
 ## 第13章：Atcoder
-- ## Atcoder-abc403
+- ### Atcoder-abc403
 - #### 题目描述
 - [Atcoder-abc403-A](csp_resource/part2/ch13/Atcoder-abc403/pptx/1.abc403_a_Title.pdf)
 - [Atcoder-abc403-B](csp_resource/part2/ch13/Atcoder-abc403/pptx/2.abc403_b_Title.pdf)
@@ -427,7 +427,7 @@ dateCreated: 2024-06-26T03:17:46.780Z
 - [Atcoder-abc403-F](csp_resource/part2/ch13/Atcoder-abc403/code/6.abc403_f.cpp)
 
 
-- ## Atcoder-abc409
+- ### Atcoder-abc409
 - #### 题目描述
 - [Atcoder-abc409-A](csp_resource/part2/ch13/Atcoder-abc409/pptx/1.abc409_a_Title.pdf)
 - [Atcoder-abc409-B](csp_resource/part2/ch13/Atcoder-abc409/pptx/2.abc409_b_Title.pdf)
@@ -451,7 +451,7 @@ dateCreated: 2024-06-26T03:17:46.780Z
 - [Atcoder-abc409-F](csp_resource/part2/ch13/Atcoder-abc409/code/6.abc409_f.cpp)
 
 
-- ## Atcoder-abc410
+- ### Atcoder-abc410
 - #### 题目描述
 - [Atcoder-abc410-A](csp_resource/part2/ch13/Atcoder-abc410/pptx/1.abc410_a_Title.pdf)
 - [Atcoder-abc410-B](csp_resource/part2/ch13/Atcoder-abc410/pptx/2.abc410_b_Title.pdf)
