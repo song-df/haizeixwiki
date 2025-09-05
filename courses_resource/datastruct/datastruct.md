@@ -2,7 +2,7 @@
 title: ACM大牛带你玩转算法与数据结构-课程资源
 description: 
 published: true
-date: 2025-09-05T07:41:19.062Z
+date: 2025-09-05T07:47:23.167Z
 tags: 核心能力
 editor: markdown
 dateCreated: 2024-02-25T06:12:37.088Z
@@ -541,11 +541,11 @@ dateCreated: 2024-02-25T06:12:37.088Z
 - [1.Lec-1-demo](ds_resource/part02/chapter19/code/1.Lec-1/demo.cpp)
 - [1.Lec-1-P3916](ds_resource/part02/chapter19/code/1.Lec-1/P3916.cpp)
 - [1.Lec-1-P5318](ds_resource/part02/chapter19/code/1.Lec-1/P5318.cpp)
-- [2.Lec-2-洛谷 P1113 杂物](ds_resource/part02/chapter19/code/1.Lec-1/P1113.cpp)
-- [2.Lec-2-洛谷 P1347 排序](ds_resource/part02/chapter19/code/1.Lec-1/P1347.cpp)
-- [DAG.png](ds_resource/part02/chapter19/code/1.Lec-1/DAG.png)
-- [DAG2.png](ds_resource/part02/chapter19/code/1.Lec-1/DAG2.png)
-- [DAG3.png](ds_resource/part02/chapter19/code/1.Lec-1/DAG3.png)
+- [2.Lec-2-洛谷 P1113 杂物](ds_resource/part02/chapter19/code/2.Lec-2/P1113.cpp)
+- [2.Lec-2-洛谷 P1347 排序](ds_resource/part02/chapter19/code/2.Lec-2/P1347.cpp)
+- [DAG.png](ds_resource/part02/chapter19/code/2.Lec-2/DAG.png)
+- [DAG2.png](ds_resource/part02/chapter19/code/2.Lec-2/DAG2.png)
+- [DAG3.png](ds_resource/part02/chapter19/code/2.Lec-2/DAG3.png)
 {.links-list}
 
 # 第二十章 25暑期集训
