@@ -1,3 +1,13 @@
+---
+title: ACM大牛带你玩转算法与数据结构-课程资源
+description: 
+published: true
+date: 2025-09-05T07:41:19.062Z
+tags: 核心能力
+editor: markdown
+dateCreated: 2024-02-25T06:12:37.088Z
+---
+
 > :one: 本课程属于船说系列课程之一，[💰单课购买点这里](https://www.bilibili.com/cheese/play/ss1468){target="_blank"}
 > :two: 你也可以选择购买『船说系列课程-年度会员』产品『船票』，畅享期内无限制学习已上线的所有船说系列课程：
 [💰 船票1年期购买入口](https://b23.tv/uCOhTk2){target="_blank"}
@@ -521,7 +531,22 @@
 - 31. [ACM大牛带你玩转算法与数据结构-17.70~71：【树链剖分】P2245：星际导航:31.P2245.cpp](ds_resource/part02/chapter18/code/31.P2245.cpp)
 - 32. [ACM大牛带你玩转算法与数据结构-17.72:【模板】树上K级祖先:33.P1505.cpp](ds_resource/part02/chapter18/code/33.P1505.cpp)
 
+# 第十八章 图
+> 授课PPT
+- [1.Lec-1. 图的概念和存储结构.pdf](ds_resource/part02/chapter19/ppt/1.Lec-1.pdf)
+- [2.Lec-2. 拓扑排序.pdf](ds_resource/part02/chapter19/ppt/2.Lec-2.pdf)
+{.links-list}
 
+> 参考程序
+- [1.Lec-1-demo](ds_resource/part02/chapter19/code/1.Lec-1/demo.cpp)
+- [1.Lec-1-P3916](ds_resource/part02/chapter19/code/1.Lec-1/P3916.cpp)
+- [1.Lec-1-P5318](ds_resource/part02/chapter19/code/1.Lec-1/P5318.cpp)
+- [2.Lec-2-洛谷 P1113 杂物](ds_resource/part02/chapter19/code/1.Lec-1/P1113.cpp)
+- [2.Lec-2-洛谷 P1347 排序](ds_resource/part02/chapter19/code/1.Lec-1/P1347.cpp)
+- [DAG.png](ds_resource/part02/chapter19/code/1.Lec-1/DAG.png)
+- [DAG2.png](ds_resource/part02/chapter19/code/1.Lec-1/DAG2.png)
+- [DAG3.png](ds_resource/part02/chapter19/code/1.Lec-1/DAG3.png)
+{.links-list}
 
 # 第二十章 25暑期集训
 > 授课PPT
